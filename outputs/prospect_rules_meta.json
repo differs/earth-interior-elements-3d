@@ -139,6 +139,76 @@
       "arc_w": 0.5,
       "rift_w": 0.7,
       "reason": "Ta-Nb 伟晶岩/碳酸岩多沿裂谷与增生带"
+    },
+    {
+      "family": "Ag",
+      "anchor_w": 1.2,
+      "arc_w": 1.2,
+      "rift_w": 0.2,
+      "reason": "银浅成低温/脉状多沿火山弧"
+    },
+    {
+      "family": "Mo",
+      "anchor_w": 1.4,
+      "arc_w": 1.4,
+      "rift_w": 0.2,
+      "reason": "钼(斑岩 Cu-Mo/独立斑岩钼)主在弧"
+    },
+    {
+      "family": "Re",
+      "anchor_w": 1.8,
+      "arc_w": 0.8,
+      "rift_w": 0.2,
+      "reason": "铼多为 Cu-Mo 副产, 跟随斑岩锚点"
+    },
+    {
+      "family": "Bi",
+      "anchor_w": 1.6,
+      "arc_w": 0.5,
+      "rift_w": 0.3,
+      "reason": "铋多高温脉/矽卡岩伴花岗岩"
+    },
+    {
+      "family": "As",
+      "anchor_w": 1.6,
+      "arc_w": 0.6,
+      "rift_w": 0.3,
+      "reason": "砷在浅成低温/造山带硫化物脉"
+    },
+    {
+      "family": "Be",
+      "anchor_w": 1.7,
+      "arc_w": 0.4,
+      "rift_w": 0.3,
+      "reason": "铍在伟晶岩/凝灰岩, 偏弧-造山"
+    },
+    {
+      "family": "CsRb",
+      "anchor_w": 1.7,
+      "arc_w": 0.5,
+      "rift_w": 0.3,
+      "reason": "铯铷在 LCT 伟晶岩(常伴锂)"
+    },
+    {
+      "family": "Sc",
+      "anchor_w": 1.8,
+      "arc_w": 0.3,
+      "rift_w": 0.4,
+      "reason": "钪在红土/铁氧化物, 锚点为主"
+    },
+    {
+      "family": "Zr",
+      "anchor_w": 1.5,
+      "arc_w": 0.4,
+      "rift_w": 0.5,
+      "reason": "锆在砂矿/碱性杂岩"
+    },
+    {
+      "family": "Graphite",
+      "anchor_w": 1.7,
+      "arc_w": 0.3,
+      "rift_w": 0.4,
+      "reason": "石墨在变质地层/伟晶岩, 锚点为主"
     }
   ],
   "sigma_deg": 4.0,
@@ -152,5 +222,5 @@
     "rift": 221,
     "intra": 149
   },
-  "frontiers_total": 2285
+  "frontiers_total": 3480
 }

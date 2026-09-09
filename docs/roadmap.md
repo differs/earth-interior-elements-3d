@@ -51,6 +51,10 @@
       outputs/proposal_briefs.md)
 - [x] **整套方法综述长文**：docs/review_method_monograph.md——存量→富集→已知→前沿→
       观察清单→立项的完整推理链 + 数据资产 + 诚实边界 + 复现地图
+- [x] **评分族 20→30 扩展(v0.3k)**：新增 Ag/Mo/Re/Bi/As/Be/Cs-Rb/Sc/Zr/石墨；PP1802
+      解析脚本化(scripts/parse_pp1802.py)达 1,450 条；全链重算(观察清单
+      gap518/std1372/marine1586, 字节级稳定)；scripts/build_prospect.py 与
+      build_prospect_rules.py 重建为新旧族 30 组图
 - [ ] 对中国/俄等仍有大 gap 的国家：喂入该国地质调查成矿图件(俄 1:200万/中 1:100万/
       非洲 SEG 图层)——全球免费档仍缺，最可能来自各机构开放数据页或需申请
 - [ ] 把"最近主要城市/距已知矿"合成 1-5 星"分派优先级"打分

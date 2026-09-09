@@ -39,7 +39,9 @@ FAM_ZH = {"Au": "金 Au", "Cu": "铜 Cu", "Fe": "铁 Fe", "NiCo": "镍钴 Ni-Co"
           "Diamond": "金刚石", "Coal": "煤", "OilGas": "油气",
           "ZnPb": "锌铅 Zn-Pb", "Cr": "铬 Cr", "Mn": "锰 Mn", "W": "钨 W",
           "Sn": "锡 Sn", "Sb": "锑 Sb", "V": "钒 V", "Ti": "钛 Ti",
-          "TaNb": "钽铌 Ta-Nb"}
+          "TaNb": "钽铌 Ta-Nb", "Ag": "银 Ag", "Mo": "钼 Mo", "Re": "铼 Re",
+          "Bi": "铋 Bi", "As": "砷 As", "Be": "铍 Be", "CsRb": "铯铷 Cs-Rb",
+          "Sc": "钪 Sc", "Zr": "锆 Zr", "Graphite": "石墨"}
 
 
 def _write(path, rows, cols):

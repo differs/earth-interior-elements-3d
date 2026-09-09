@@ -35,6 +35,17 @@ FAM_RULES = [
     ("V", ("vanadium",)),
     ("Ti", ("titanium", "ilmenite", "rutile")),
     ("TaNb", ("tantalum", "niobium", "columbite", "pyrochlore")),
+    # v0.3k: 第三批(PP1802 关键金属 + 银/钼等)
+    ("Ag", ("silver", "argentite", "pyrargyrite")),
+    ("Mo", ("molybdenum", "molybdite")),
+    ("Re", ("rhenium",)),
+    ("Bi", ("bismuth", "bismuthinite")),
+    ("As", ("arsenic", "arsenopyrite")),
+    ("Be", ("beryllium", "beryl", "bertrandite")),
+    ("CsRb", ("cesium", "caesium", "rubidium", "pollucite")),
+    ("Sc", ("scandium", "thortveitite")),
+    ("Zr", ("zirconium", "zircon", "baddeleyite")),
+    ("Graphite", ("graphite",)),
 ]
 
 _short = {p for _, ps in FAM_RULES for p in ps if len(p) <= 4}
