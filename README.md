@@ -76,6 +76,7 @@ python3 scripts/build_proposals.py  # 5 份一页纸野外立项建议书(代表
 - `docs/generation_windows.md` —— 附加章：矿物/烃类的"生成窗口"与可达性
 - `docs/geo_distribution.md` —— 地理层：容易开采的世界级"宝藏"分布与规律
 - `docs/prospectivity.md` —— 勘探潜力层：从 MRDS 已知锚点外推的 2° "前沿格"方法与边界
+- `docs/review_method_monograph.md` —— **整套方法综述长文**（存量→富集→已知→前沿→观察清单→立项）
 - `docs/methodology_watchlist.md` —— 观察清单方法论：可采性过滤 + 数据空洞标注
 - `docs/data_gap_catalog.md` —— 数据缺口清单：欠报国家权威源的入口、格式与"门"
 - `docs/roadmap.md` —— 路线图（核幔反演已落地、地理层/潜力层/观察清单已交付、细则待办）
