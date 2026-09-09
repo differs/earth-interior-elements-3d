@@ -1,0 +1,30 @@
+{
+  "version": "v0.1",
+  "masses_kg": {
+    "crust": 3.2e+22,
+    "mantle": 4.0015e+24,
+    "core": 1.9387e+24,
+    "total": 5.9722e+24
+  },
+  "crust_thickness_km": 21.63350589251056,
+  "density_scales": {
+    "crust": 1.0034,
+    "mantle": 0.9904,
+    "outer_core": 1.0124,
+    "inner_core": 0.9881
+  },
+  "element_count": {
+    "continental_crust": 83,
+    "oceanic_crust": 11,
+    "mantle": 57,
+    "core": 7
+  },
+  "files": [
+    "element_fate_crust_mantle_core.csv",
+    "enrichment_crust_vs_mantle.csv",
+    "radial_elements.csv",
+    "radial_meta.json",
+    "radial_region_element_mass.csv",
+    "reservoir_elements.csv"
+  ]
+}

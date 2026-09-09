@@ -1,0 +1,159 @@
+reservoir,reservoir_zh,reservoir_mass_kg,element,ppm_mass,element_mass_kg,confidence,ref
+continental_crust,大陆地壳,2.6e+22,O,461000.0,1.1986e+22,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Si,282000.0,7.331999999999999e+21,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Al,82300.0,2.1398e+21,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Fe,56300.0,1.4638e+21,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Ca,41500.0,1.0789999999999999e+21,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Na,23600.0,6.136e+20,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Mg,23300.0,6.058e+20,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,K,20900.0,5.4339999999999993e+20,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Ti,5650.0,1.4689999999999998e+20,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,H,1400.0,3.64e+19,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,P,1050.0,2.73e+19,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Mn,950.0,2.47e+19,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,F,585.0,1.521e+19,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Ba,425.0,1.105e+19,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Sr,370.0,9.62e+18,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,S,350.0,9.1e+18,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,C,200.0,5.2e+18,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Zr,165.0,4.29e+18,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Cl,145.0,3.77e+18,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,V,120.0,3.1199999999999995e+18,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Cr,102.0,2.652e+18,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Rb,90.0,2.34e+18,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Ni,84.0,2.184e+18,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Zn,70.0,1.8199999999999997e+18,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Ce,66.5,1.729e+18,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Cu,60.0,1.5599999999999997e+18,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Nd,41.5,1.079e+18,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,La,39.0,1.014e+18,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Y,33.0,8.579999999999999e+17,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Co,25.0,6.5e+17,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Sc,22.0,5.72e+17,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Li,20.0,5.1999999999999994e+17,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Nb,20.0,5.1999999999999994e+17,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,N,19.0,4.9399999999999994e+17,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Ga,19.0,4.9399999999999994e+17,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Pb,14.0,3.64e+17,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,B,10.0,2.5999999999999997e+17,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Th,9.6,2.496e+17,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Pr,9.2,2.3919999999999997e+17,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Sm,7.05,1.833e+17,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Gd,6.2,1.612e+17,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Dy,5.2,1.352e+17,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Er,3.5,9.1e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Ar,3.5,9.1e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Yb,3.2,8.32e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Hf,3.0,7.8e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Cs,3.0,7.8e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Be,2.8,7.28e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,U,2.7,7.02e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Br,2.4,6.24e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Sn,2.3,5.979999999999999e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Ta,2.0,5.2e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Eu,2.0,5.2e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,As,1.8,4.68e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Ge,1.5,3.9e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Ho,1.3,3.38e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,W,1.25,3.2499999999999996e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Mo,1.2,3.12e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Tb,1.2,3.12e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Tl,0.85,2.2099999999999996e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Lu,0.8,2.08e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Tm,0.52,1.352e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,I,0.45,1.17e+16,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,In,0.25,6500000000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Sb,0.2,5200000000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Cd,0.15,3900000000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Hg,0.085,2210000000000000.2,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Ag,0.075,1950000000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Se,0.05,1300000000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Pd,0.015,389999999999999.94,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Bi,0.0085,221000000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,He,0.008,208000000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Ne,0.005,130000000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Pt,0.005,130000000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Au,0.004,104000000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Os,0.0015,39000000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Te,0.001,26000000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Ru,0.001,26000000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Ir,0.001,26000000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Rh,0.001,26000000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Re,0.0007,18200000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Kr,0.0001,2600000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+continental_crust,大陆地壳,2.6e+22,Xe,3e-05,780000000000.0,high,"CRC Handbook 97th (2016), via Wikipedia rev 1368008262"
+oceanic_crust,洋壳,6e+21,Si,236067.32689747005,1.4164039613848203e+21,high(major),"Gale et al. (2013), Geochem. Geophys. Geosyst., MORB 玻璃平均"
+oceanic_crust,洋壳,6e+21,Ti,8390.359333917615,5.0342156003505684e+19,high(major),"Gale et al. (2013), Geochem. Geophys. Geosyst., MORB 玻璃平均"
+oceanic_crust,洋壳,6e+21,Al,78331.42408787762,4.699885445272657e+20,high(major),"Gale et al. (2013), Geochem. Geophys. Geosyst., MORB 玻璃平均"
+oceanic_crust,洋壳,6e+21,Fe,87828.6012526096,5.2697160751565754e+20,high(major),"Gale et al. (2013), Geochem. Geophys. Geosyst., MORB 玻璃平均"
+oceanic_crust,洋壳,6e+21,Mn,1471.4152805187482,8.828491683112489e+18,high(major),"Gale et al. (2013), Geochem. Geophys. Geosyst., MORB 玻璃平均"
+oceanic_crust,洋壳,6e+21,Mg,45835.73200992556,2.7501439205955335e+20,high(major),"Gale et al. (2013), Geochem. Geophys. Geosyst., MORB 玻璃平均"
+oceanic_crust,洋壳,6e+21,Ca,82900.28530670471,4.974017118402282e+20,high(major),"Gale et al. (2013), Geochem. Geophys. Geosyst., MORB 玻璃平均"
+oceanic_crust,洋壳,6e+21,Na,20030.009680542113,1.2018005808325267e+20,high(major),"Gale et al. (2013), Geochem. Geophys. Geosyst., MORB 玻璃平均"
+oceanic_crust,洋壳,6e+21,K,1079.1380042462845,6.474828025477707e+18,high(major),"Gale et al. (2013), Geochem. Geophys. Geosyst., MORB 玻璃平均"
+oceanic_crust,洋壳,6e+21,P,611.013104128505,3.6660786247710295e+18,high(major),"Gale et al. (2013), Geochem. Geophys. Geosyst., MORB 玻璃平均"
+oceanic_crust,洋壳,6e+21,O,437454.69504205906,2.624728170252354e+21,high(major),"Gale et al. (2013), Geochem. Geophys. Geosyst., MORB 玻璃平均"
+mantle,地幔,4.0015e+24,Si,210357.0239680426,8.417436314081225e+23,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Ti,1204.615875798172,4.820270427006386e+21,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Al,23552.353864260498,9.424474398783838e+22,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Cr,2668.2157894736847,1.067686548157895e+22,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Fe,62956.784968684755,2.51921575052192e+23,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Mn,1045.4792782633212,4.18348533197068e+21,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Mg,227972.45657568236,9.12231784987593e+23,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Ca,25370.345934379457,1.0151943925641939e+23,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Na,2670.6679574056147,1.0686677831558569e+22,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,K,240.7307855626327,9.632842384288747e+20,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,P,96.01634493447935,3.842094042553191e+20,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Ni,1964.553487749364,7.86116078122908e+21,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,O,439900.755169763,1.7602628718118066e+24,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Li,1.6,6.4024e+18,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Rb,0.6,2.4009e+18,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Sr,21.0,8.40315e+19,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Ba,6.8,2.72102e+19,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Cs,0.021,8.40315e+16,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Zr,10.5,4.201575e+19,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Hf,0.28,1.1204200000000001e+18,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Nb,0.7,2.80105e+18,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Ta,0.037,1.480555e+17,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Y,4.3,1.7206449999999998e+19,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,La,0.6,2.4009e+18,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Ce,1.6,6.4024e+18,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Pr,0.23,9.20345e+17,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Nd,1.25,5.001875e+18,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Sm,0.4,1.6006e+18,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Eu,0.15,6.00225e+17,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Gd,0.54,2.1608100000000003e+18,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Tb,0.1,4.0015e+17,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Dy,0.67,2.6810050000000005e+18,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Ho,0.15,6.00225e+17,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Er,0.44,1.76066e+18,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Tm,0.068,2.7210200000000003e+17,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Yb,0.44,1.76066e+18,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Lu,0.067,2.6810050000000003e+17,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,U,0.0203,8.123044999999998e+16,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Th,0.0795,3.1811925000000006e+17,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Pb,0.15,6.00225e+17,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,V,82.0,3.28123e+20,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Sc,16.0,6.4024e+19,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Cu,30.0,1.20045e+20,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Zn,55.0,2.200825e+20,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Co,105.0,4.201575e+20,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Ga,4.0,1.6006e+19,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Ge,1.3,5.20195e+18,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Mo,0.05,2.00075e+17,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,B,0.3,1.20045e+18,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Os,0.0034,1.36051e+16,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Ir,0.0032,1.2804800000000002e+16,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Ru,0.005,2.00075e+16,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Pt,0.0076,3.0411400000000004e+16,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Pd,0.0039,1.5605849999999998e+16,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Re,0.00028,1120419999999999.9,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,Au,0.001,4001500000000000.5,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+mantle,地幔,4.0015e+24,S,250.0,1.000375e+21,high(major)/medium(trace),McDonough & Sun (1995) pyrolite；微量≈教科书参考值待机器复核
+core,地核,1.9387e+24,Fe,855000.0,1.6575885e+24,"medium(Fe,Ni)/low(light elements)",McDonough (2003) 汇编；轻元素配比=本文假设档(见 hypotheses.md)
+core,地核,1.9387e+24,Ni,52000.0,1.008124e+23,"medium(Fe,Ni)/low(light elements)",McDonough (2003) 汇编；轻元素配比=本文假设档(见 hypotheses.md)
+core,地核,1.9387e+24,Si,60000.0,1.16322e+23,"medium(Fe,Ni)/low(light elements)",McDonough (2003) 汇编；轻元素配比=本文假设档(见 hypotheses.md)
+core,地核,1.9387e+24,S,19000.0,3.68353e+22,"medium(Fe,Ni)/low(light elements)",McDonough (2003) 汇编；轻元素配比=本文假设档(见 hypotheses.md)
+core,地核,1.9387e+24,O,9000.0,1.74483e+22,"medium(Fe,Ni)/low(light elements)",McDonough (2003) 汇编；轻元素配比=本文假设档(见 hypotheses.md)
+core,地核,1.9387e+24,C,2000.0,3.8774e+21,"medium(Fe,Ni)/low(light elements)",McDonough (2003) 汇编；轻元素配比=本文假设档(见 hypotheses.md)
+core,地核,1.9387e+24,H,1000.0,1.9387e+21,"medium(Fe,Ni)/low(light elements)",McDonough (2003) 汇编；轻元素配比=本文假设档(见 hypotheses.md)
