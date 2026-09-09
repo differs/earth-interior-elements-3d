@@ -18,31 +18,15 @@ import os
 from collections import Counter
 from pathlib import Path
 
+import sys
+
 REPO = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(REPO / "src"))
+from earth3d.commodities import classify  # noqa: E402
+
 DST = REPO / "data" / "raw" / "mrds_anchors.csv"
 SRC = Path(os.environ.get("MRDS_CSV",
             str(Path.home() / ".cache/opencode-tmp/opencode/mrds.csv")))
-
-FAM_RULES = [
-    ("Au", ("gold",)),
-    ("Cu", ("copper",)),
-    ("Fe", ("iron",)),
-    ("NiCo", ("nickel", "cobalt")),
-    ("Li", ("lithium",)),
-    ("REE", ("rare earth", "cerium", "lanthanum", "neodymium", "praseodymium",
-             "samarium", "europium", "gadolinium", "terbium", "dysprosium",
-             "holmium", "erbium", "thulium", "ytterbium", "lutetium",
-             "yttrium", "monazite", "bastnaesite", "xenotime", "eudialyte")),
-    ("PGE", ("platinum", "palladium", "osmium", "iridium", "ruthenium", "rhodium")),
-    ("U", ("uranium",)),
-    ("Diamond", ("diamond", "kimberlite", "lamproite")),
-    ("Coal", ("coal",)),
-]
-
-
-def classify(commod: str) -> list:
-    c = (commod or "").lower()
-    return [fam for fam, pats in FAM_RULES if any(p in c for p in pats)]
 
 
 def main() -> int:

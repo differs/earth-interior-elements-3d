@@ -200,14 +200,20 @@ def classify_cell(lat, lon):
 
 
 def country_coverage_stats():
-    """国家级(按 NE 国名键): MRDS 条数与 本仓库世界级省数。"""
+    """国家级(按 NE 国名键): 公开库锚点条数与 本仓库世界级省数。
+
+    公开库 = MRDS + USGS 全球专家汇编(porcu/sedcu/vms/sedau/laterite/ree/
+    carbonatite/major-deposits/铜评估)，口径 = "该国有多少条被权威库系统收录"。
+    """
     from collections import Counter
     mrds_c, prov_c = Counter(), Counter()
     anchors = REPO / "data" / "raw" / "mrds_anchors.csv"
-    if anchors.exists():
-        with anchors.open(encoding="utf-8") as fh:
-            for row in csv.DictReader(fh):
-                mrds_c[(row["country"] or "").strip()] += 1
+    expert = REPO / "data" / "raw" / "usgs_expert_anchors.csv"
+    for p in (anchors, expert):
+        if p.exists():
+            with p.open(encoding="utf-8") as fh:
+                for row in csv.DictReader(fh):
+                    mrds_c[(row["country"] or "").strip()] += 1
     for p in (REPO / "data" / "raw" / "geo_world_class_deposits.csv",
               REPO / "data" / "raw" / "geo_hydrocarbon_provinces.csv"):
         with p.open(encoding="utf-8") as fh:

@@ -57,6 +57,7 @@ python3 scripts/build_watchlist.py  # 全球再勘查观察清单(可采性过�
 | 地核 | **CI/BSE 核幔质量平衡反演**（强亲铁金属）+ 地震学轻元素预算 | Fe/Ni/Co/Cr 与文献吻合 ~1.5pp 内 |
 | 世界级矿床/油气省 | 汇编自 USGS 商品年鉴/公司披露/Wikipedia(见各 csv 行) | 高/中(坐标质心±1.5°) |
 | 全球矿点锚点 | **USGS MRDS**(mrdata.usgs.gov, 公开域 304k 点)，清洗去重后 12.1 万条 | 原始不入库；文件含来源 |
+| 全球专家汇编锚点 | **USGS mrdata 8 库**（斑岩/沉积 Cu、VMS、沉积 Au、红土 Ni-Co、REE、碳酸岩、主要矿床、全球铜评估）→ 7,719 条，抵消 MRDS 美国偏重 | 脚本 scripts/ingest_usgs_expert.py 复现 |
 
 详见 `data/raw/SOURCES.md` 与 `docs/*`。所有"没把握"的地方都标了置信度，
 **不会**为缺失数据凭空编造 ppm。

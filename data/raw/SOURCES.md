@@ -35,3 +35,9 @@
 #                                  数据于 2026-08-16 下载; 镜像: eq-volcano-explorer)
 # 勘探锚点: data/raw/mrds_anchors.csv = USGS MRDS(mrdata.usgs.gov) 清洗去重子集,
 #           原始 304,632 行 137MB 不入库, 由 scripts/ingest_mrds.py 复现
+#          data/raw/usgs_expert_anchors.csv = USGS 全球专家汇编 8 库归一(7,719 条):
+#           porcu(斑岩Cu690)/sedcu(沉积Cu785)/vms(含Cu, ~700)/sedau(沉积Au123)/
+#           laterite(红土Ni-Co120)/ree(REE799)/carbonatite(碳酸岩Nb/REE60)/
+#           major-deposits(全球主要矿床3168)/sir20105090z 全球铜评估点(2199+1200)
+#           来源全部 mrdata.usgs.gov *-csv.zip(公有领域), 归一脚本
+#           scripts/ingest_usgs_expert.py(URL 清单见脚本头); 用于抵消 MRDS 美国偏重
