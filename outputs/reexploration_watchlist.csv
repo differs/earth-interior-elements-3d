@@ -1,418 +1,418 @@
 family,cell_lat,cell_lon,score_pct,nearest_anchor_km,country,is_land,on_glacier,nearest_city_km,country_mrds_n,country_province_n,reporting_gap,tier
-Li,50.0,-122.0,99.6,235.0,Canada,True,False,114,2915,7,True,高优先级-数据空洞优先核验
-Li,50.0,-124.0,99.6,353.0,Canada,True,False,102,2915,7,True,高优先级-数据空洞优先核验
-OilGas,48.0,122.0,99.5,268.0,China,True,False,1005,1064,6,True,高优先级-数据空洞优先核验
+Li,50.0,-122.0,99.6,235.0,Canada,True,False,114,2960,7,True,高优先级-数据空洞优先核验
+Li,50.0,-124.0,99.6,353.0,Canada,True,False,102,2960,7,True,高优先级-数据空洞优先核验
+OilGas,48.0,122.0,99.5,268.0,China,True,False,1005,1080,6,True,高优先级-数据空洞优先核验
 OilGas,24.0,48.0,99.5,225.0,Saudi Arabia,True,False,148,87,2,True,高优先级-数据空洞优先核验
-Li,50.0,-126.0,99.4,486.0,Canada,True,False,222,2915,7,True,高优先级-数据空洞优先核验
-NiCo,50.0,-126.0,99.3,297.0,Canada,True,False,222,2915,7,True,高优先级-数据空洞优先核验
-REE,50.0,-124.0,99.3,289.0,Canada,True,False,102,2915,7,True,高优先级-数据空洞优先核验
-OilGas,46.0,122.0,99.3,233.0,China,True,False,817,1064,6,True,高优先级-数据空洞优先核验
-REE,52.0,96.0,99.2,230.0,Russia,True,False,902,1706,5,True,高优先级-数据空洞优先核验
-Li,50.0,-128.0,99.1,608.0,Canada,True,False,360,2915,7,True,高优先级-数据空洞优先核验
-OilGas,56.0,118.0,99.1,1149.0,Russia,True,False,1174,1706,5,True,高优先级-数据空洞优先核验
-OilGas,46.0,128.0,99.1,247.0,China,True,False,797,1064,6,True,高优先级-数据空洞优先核验
+Li,50.0,-126.0,99.4,486.0,Canada,True,False,222,2960,7,True,高优先级-数据空洞优先核验
+NiCo,50.0,-126.0,99.3,297.0,Canada,True,False,222,2960,7,True,高优先级-数据空洞优先核验
+REE,50.0,-124.0,99.3,289.0,Canada,True,False,102,2960,7,True,高优先级-数据空洞优先核验
+OilGas,46.0,122.0,99.3,233.0,China,True,False,817,1080,6,True,高优先级-数据空洞优先核验
+REE,52.0,96.0,99.2,230.0,Russia,True,False,902,1767,5,True,高优先级-数据空洞优先核验
+OilGas,56.0,118.0,99.1,1149.0,Russia,True,False,1174,1767,5,True,高优先级-数据空洞优先核验
+OilGas,46.0,128.0,99.1,247.0,China,True,False,797,1080,6,True,高优先级-数据空洞优先核验
+Li,50.0,-128.0,99.0,608.0,Canada,True,False,360,2960,7,True,高优先级-数据空洞优先核验
 REE,18.0,42.0,99.0,232.0,Saudi Arabia,True,False,376,87,2,True,高优先级-数据空洞优先核验
 OilGas,28.0,46.0,99.0,257.0,Saudi Arabia,True,False,246,87,2,True,高优先级-数据空洞优先核验
-Li,52.0,-122.0,98.9,422.0,Canada,True,False,313,2915,7,True,高优先级-数据空洞优先核验
-Li,52.0,-124.0,98.9,494.0,Canada,True,False,309,2915,7,True,高优先级-数据空洞优先核验
-REE,52.0,-124.0,98.9,286.0,Canada,True,False,309,2915,7,True,高优先级-数据空洞优先核验
-REE,56.0,116.0,98.9,304.0,Russia,True,False,1091,1706,5,True,高优先级-数据空洞优先核验
-OilGas,48.0,128.0,98.9,281.0,China,True,False,1015,1064,6,True,高优先级-数据空洞优先核验
-OilGas,44.0,52.0,98.9,259.0,Kazakhstan,True,False,438,454,2,True,高优先级-数据空洞优先核验
-OilGas,56.0,120.0,98.9,1099.0,Russia,True,False,1265,1706,5,True,高优先级-数据空洞优先核验
-OilGas,62.0,72.0,98.9,268.0,Russia,True,False,1204,1706,5,True,高优先级-数据空洞优先核验
-Li,52.0,98.0,98.8,240.0,Russia,True,False,782,1706,5,True,高优先级-数据空洞优先核验
-OilGas,48.0,54.0,98.8,267.0,Kazakhstan,True,False,907,454,2,True,高优先级-数据空洞优先核验
-OilGas,50.0,124.0,98.8,384.0,China,True,False,1229,1064,6,True,高优先级-数据空洞优先核验
-OilGas,56.0,116.0,98.8,1212.0,Russia,True,False,1091,1706,5,True,高优先级-数据空洞优先核验
-Li,52.0,-126.0,98.7,592.0,Canada,True,False,365,2915,7,True,高优先级-数据空洞优先核验
-Li,-34.0,-70.0,98.7,297.0,Chile,True,False,87,4192,4,True,高优先级-数据空洞优先核验
-REE,58.0,116.0,98.7,304.0,Russia,True,False,1273,1706,5,True,高优先级-数据空洞优先核验
-REE,50.0,-126.0,98.7,427.0,Canada,True,False,222,2915,7,True,高优先级-数据空洞优先核验
-REE,54.0,104.0,98.7,235.0,Russia,True,False,706,1706,5,True,高优先级-数据空洞优先核验
-REE,54.0,96.0,98.7,297.0,Russia,True,False,1019,1706,5,True,高优先级-数据空洞优先核验
-NiCo,50.0,-128.0,98.6,434.0,Canada,True,False,360,2915,7,True,高优先级-数据空洞优先核验
-Li,52.0,96.0,98.6,252.0,Russia,True,False,902,1706,5,True,高优先级-数据空洞优先核验
-Li,52.0,100.0,98.6,302.0,Russia,True,False,671,1706,5,True,高优先级-数据空洞优先核验
-Li,52.0,-120.0,98.6,390.0,Canada,True,False,375,2915,7,True,高优先级-数据空洞优先核验
-REE,58.0,120.0,98.6,309.0,Russia,True,False,1418,1706,5,True,高优先级-数据空洞优先核验
-Cu,56.0,158.0,98.5,235.0,Russia,True,False,2646,1706,5,True,高优先级-数据空洞优先核验
-NiCo,56.0,120.0,98.5,270.0,Russia,True,False,1265,1706,5,True,高优先级-数据空洞优先核验
-Li,54.0,116.0,98.5,260.0,Russia,True,False,927,1706,5,True,高优先级-数据空洞优先核验
-REE,52.0,94.0,98.4,283.0,Russia,True,False,1027,1706,5,True,高优先级-数据空洞优先核验
-REE,56.0,100.0,98.4,278.0,Russia,True,False,1015,1706,5,True,高优先级-数据空洞优先核验
-REE,56.0,122.0,98.4,328.0,Russia,True,False,1364,1706,5,True,高优先级-数据空洞优先核验
-REE,52.0,104.0,98.4,289.0,Russia,True,False,499,1706,5,True,高优先级-数据空洞优先核验
-NiCo,52.0,98.0,98.3,310.0,Russia,True,False,782,1706,5,True,高优先级-数据空洞优先核验
-NiCo,52.0,-124.0,98.3,280.0,Canada,True,False,309,2915,7,True,高优先级-数据空洞优先核验
+REE,52.0,-124.0,98.9,286.0,Canada,True,False,309,2960,7,True,高优先级-数据空洞优先核验
+REE,56.0,116.0,98.9,304.0,Russia,True,False,1091,1767,5,True,高优先级-数据空洞优先核验
+OilGas,48.0,128.0,98.9,281.0,China,True,False,1015,1080,6,True,高优先级-数据空洞优先核验
+OilGas,44.0,52.0,98.9,259.0,Kazakhstan,True,False,438,456,2,True,高优先级-数据空洞优先核验
+OilGas,56.0,120.0,98.9,1099.0,Russia,True,False,1265,1767,5,True,高优先级-数据空洞优先核验
+OilGas,62.0,72.0,98.9,268.0,Russia,True,False,1204,1767,5,True,高优先级-数据空洞优先核验
+OilGas,48.0,54.0,98.8,267.0,Kazakhstan,True,False,907,456,2,True,高优先级-数据空洞优先核验
+OilGas,50.0,124.0,98.8,384.0,China,True,False,1229,1080,6,True,高优先级-数据空洞优先核验
+OilGas,56.0,116.0,98.8,1212.0,Russia,True,False,1091,1767,5,True,高优先级-数据空洞优先核验
+Li,52.0,-122.0,98.7,422.0,Canada,True,False,313,2960,7,True,高优先级-数据空洞优先核验
+Li,52.0,-124.0,98.7,494.0,Canada,True,False,309,2960,7,True,高优先级-数据空洞优先核验
+Li,52.0,98.0,98.7,240.0,Russia,True,False,782,1767,5,True,高优先级-数据空洞优先核验
+REE,58.0,116.0,98.7,304.0,Russia,True,False,1273,1767,5,True,高优先级-数据空洞优先核验
+REE,50.0,-126.0,98.7,427.0,Canada,True,False,222,2960,7,True,高优先级-数据空洞优先核验
+REE,54.0,104.0,98.7,235.0,Russia,True,False,706,1767,5,True,高优先级-数据空洞优先核验
+REE,54.0,96.0,98.7,297.0,Russia,True,False,1019,1767,5,True,高优先级-数据空洞优先核验
+NiCo,50.0,-128.0,98.6,434.0,Canada,True,False,360,2960,7,True,高优先级-数据空洞优先核验
+REE,58.0,120.0,98.6,309.0,Russia,True,False,1418,1767,5,True,高优先级-数据空洞优先核验
+Cu,56.0,158.0,98.5,235.0,Russia,True,False,2646,1767,5,True,高优先级-数据空洞优先核验
+NiCo,56.0,120.0,98.5,270.0,Russia,True,False,1265,1767,5,True,高优先级-数据空洞优先核验
+Li,52.0,-126.0,98.5,592.0,Canada,True,False,365,2960,7,True,高优先级-数据空洞优先核验
+Li,-34.0,-70.0,98.4,297.0,Chile,True,False,87,4195,4,True,高优先级-数据空洞优先核验
+Li,52.0,96.0,98.4,252.0,Russia,True,False,902,1767,5,True,高优先级-数据空洞优先核验
+Li,52.0,100.0,98.4,302.0,Russia,True,False,671,1767,5,True,高优先级-数据空洞优先核验
+REE,52.0,94.0,98.4,283.0,Russia,True,False,1027,1767,5,True,高优先级-数据空洞优先核验
+REE,56.0,100.0,98.4,278.0,Russia,True,False,1015,1767,5,True,高优先级-数据空洞优先核验
+REE,56.0,122.0,98.4,328.0,Russia,True,False,1364,1767,5,True,高优先级-数据空洞优先核验
+REE,52.0,104.0,98.4,289.0,Russia,True,False,499,1767,5,True,高优先级-数据空洞优先核验
+NiCo,52.0,98.0,98.3,310.0,Russia,True,False,782,1767,5,True,高优先级-数据空洞优先核验
+NiCo,52.0,-124.0,98.3,280.0,Canada,True,False,309,2960,7,True,高优先级-数据空洞优先核验
 NiCo,18.0,42.0,98.3,225.0,Saudi Arabia,True,False,376,87,2,True,高优先级-数据空洞优先核验
-Li,50.0,-116.0,98.3,317.0,Canada,True,False,519,2915,7,True,高优先级-数据空洞优先核验
-REE,54.0,-128.0,98.3,286.0,Canada,True,False,624,2915,7,True,高优先级-数据空洞优先核验
-REE,56.0,124.0,98.3,275.0,Russia,True,False,1469,1706,5,True,高优先级-数据空洞优先核验
-Coal,46.0,88.0,98.3,226.0,China,True,False,246,1064,6,True,高优先级-数据空洞优先核验
-Coal,42.0,88.0,98.3,226.0,China,True,False,204,1064,6,True,高优先级-数据空洞优先核验
-Cu,56.0,160.0,98.2,286.0,Russia,True,False,2728,1706,5,True,高优先级-数据空洞优先核验
-NiCo,56.0,114.0,98.2,254.0,Russia,True,False,1020,1706,5,True,高优先级-数据空洞优先核验
-REE,52.0,-126.0,98.2,422.0,Canada,True,False,365,2915,7,True,高优先级-数据空洞优先核验
-PGE,52.0,-126.0,98.2,257.0,Canada,True,False,365,2915,7,True,高优先级-数据空洞优先核验
-Coal,38.0,116.0,98.2,227.0,China,True,False,214,1064,6,True,高优先级-数据空洞优先核验
-Coal,-24.0,30.0,98.2,226.0,South Africa,True,False,261,991,4,True,高优先级-数据空洞优先核验
-Coal,36.0,108.0,98.2,232.0,China,True,False,696,1064,6,True,高优先级-数据空洞优先核验
-Coal,46.0,86.0,98.2,237.0,China,True,False,274,1064,6,True,高优先级-数据空洞优先核验
-Coal,44.0,124.0,98.2,238.0,China,True,False,572,1064,6,True,高优先级-数据空洞优先核验
-Coal,46.0,80.0,98.2,237.0,Kazakhstan,True,False,553,454,2,True,高优先级-数据空洞优先核验
-Cu,56.0,156.0,98.1,248.0,Russia,True,False,2571,1706,5,True,高优先级-数据空洞优先核验
-NiCo,58.0,114.0,98.1,233.0,Russia,True,False,1216,1706,5,True,高优先级-数据空洞优先核验
-Li,54.0,118.0,98.1,348.0,Russia,True,False,1028,1706,5,True,高优先级-数据空洞优先核验
-REE,54.0,112.0,98.1,247.0,Russia,True,False,764,1706,5,True,高优先级-数据空洞优先核验
-Coal,-28.0,-52.0,98.1,240.0,Brazil,True,False,635,1177,3,True,高优先级-数据空洞优先核验
+Li,52.0,-120.0,98.3,390.0,Canada,True,False,375,2960,7,True,高优先级-数据空洞优先核验
+REE,54.0,-128.0,98.3,286.0,Canada,True,False,624,2960,7,True,高优先级-数据空洞优先核验
+REE,56.0,124.0,98.3,275.0,Russia,True,False,1469,1767,5,True,高优先级-数据空洞优先核验
+Coal,46.0,88.0,98.3,226.0,China,True,False,246,1080,6,True,高优先级-数据空洞优先核验
+Coal,42.0,88.0,98.3,226.0,China,True,False,204,1080,6,True,高优先级-数据空洞优先核验
+Cu,56.0,160.0,98.2,286.0,Russia,True,False,2728,1767,5,True,高优先级-数据空洞优先核验
+NiCo,56.0,114.0,98.2,254.0,Russia,True,False,1020,1767,5,True,高优先级-数据空洞优先核验
+Li,54.0,116.0,98.2,260.0,Russia,True,False,927,1767,5,True,高优先级-数据空洞优先核验
+REE,52.0,-126.0,98.2,422.0,Canada,True,False,365,2960,7,True,高优先级-数据空洞优先核验
+Coal,38.0,116.0,98.2,227.0,China,True,False,214,1080,6,True,高优先级-数据空洞优先核验
+Coal,-24.0,30.0,98.2,226.0,South Africa,True,False,261,1009,4,True,高优先级-数据空洞优先核验
+Coal,36.0,108.0,98.2,232.0,China,True,False,696,1080,6,True,高优先级-数据空洞优先核验
+Coal,46.0,86.0,98.2,237.0,China,True,False,274,1080,6,True,高优先级-数据空洞优先核验
+Coal,44.0,124.0,98.2,238.0,China,True,False,572,1080,6,True,高优先级-数据空洞优先核验
+Coal,46.0,80.0,98.2,237.0,Kazakhstan,True,False,553,456,2,True,高优先级-数据空洞优先核验
+Cu,56.0,156.0,98.1,248.0,Russia,True,False,2571,1767,5,True,高优先级-数据空洞优先核验
+NiCo,58.0,114.0,98.1,233.0,Russia,True,False,1216,1767,5,True,高优先级-数据空洞优先核验
+Li,28.0,120.0,98.1,239.0,China,True,False,365,1080,6,True,高优先级-数据空洞优先核验
+REE,54.0,112.0,98.1,247.0,Russia,True,False,764,1767,5,True,高优先级-数据空洞优先核验
+PGE,52.0,-126.0,98.1,257.0,Canada,True,False,365,2960,7,True,高优先级-数据空洞优先核验
+Coal,-28.0,-52.0,98.1,240.0,Brazil,True,False,635,1191,3,True,高优先级-数据空洞优先核验
 Coal,44.0,96.0,98.1,262.0,Mongolia,True,False,675,242,2,True,高优先级-数据空洞优先核验
-Coal,-24.0,28.0,98.1,243.0,South Africa,True,False,191,991,4,True,高优先级-数据空洞优先核验
-Coal,44.0,84.0,98.1,247.0,China,True,False,287,1064,6,True,高优先级-数据空洞优先核验
-Cu,-48.0,-74.0,98.0,248.0,Chile,True,False,1643,4192,4,True,高优先级-数据空洞优先核验
-NiCo,58.0,120.0,98.0,283.0,Russia,True,False,1418,1706,5,True,高优先级-数据空洞优先核验
-NiCo,54.0,98.0,98.0,327.0,Russia,True,False,919,1706,5,True,高优先级-数据空洞优先核验
-REE,54.0,-124.0,98.0,273.0,Canada,True,False,529,2915,7,True,高优先级-数据空洞优先核验
-Coal,44.0,78.0,98.0,247.0,Kazakhstan,True,False,303,454,2,True,高优先级-数据空洞优先核验
-Coal,-28.0,30.0,98.0,247.0,South Africa,True,False,208,991,4,True,高优先级-数据空洞优先核验
-Coal,42.0,86.0,98.0,254.0,China,True,False,238,1064,6,True,高优先级-数据空洞优先核验
-Coal,50.0,-110.0,98.0,311.0,Canada,True,False,947,2915,7,True,高优先级-数据空洞优先核验
-Coal,40.0,122.0,98.0,260.0,China,True,False,340,1064,6,True,高优先级-数据空洞优先核验
-Coal,-28.0,28.0,98.0,262.0,South Africa,True,False,155,991,4,True,高优先级-数据空洞优先核验
-REE,54.0,-126.0,97.9,308.0,Canada,True,False,561,2915,7,True,高优先级-数据空洞优先核验
+Coal,-24.0,28.0,98.1,243.0,South Africa,True,False,191,1009,4,True,高优先级-数据空洞优先核验
+Coal,44.0,84.0,98.1,247.0,China,True,False,287,1080,6,True,高优先级-数据空洞优先核验
+Cu,-48.0,-74.0,98.0,248.0,Chile,True,False,1643,4195,4,True,高优先级-数据空洞优先核验
+NiCo,58.0,120.0,98.0,283.0,Russia,True,False,1418,1767,5,True,高优先级-数据空洞优先核验
+Li,50.0,-116.0,98.0,317.0,Canada,True,False,519,2960,7,True,高优先级-数据空洞优先核验
+REE,54.0,-124.0,98.0,273.0,Canada,True,False,529,2960,7,True,高优先级-数据空洞优先核验
+Coal,44.0,78.0,98.0,247.0,Kazakhstan,True,False,303,456,2,True,高优先级-数据空洞优先核验
+Coal,-28.0,30.0,98.0,247.0,South Africa,True,False,208,1009,4,True,高优先级-数据空洞优先核验
+Coal,42.0,86.0,98.0,254.0,China,True,False,238,1080,6,True,高优先级-数据空洞优先核验
+Coal,50.0,-110.0,98.0,311.0,Canada,True,False,947,2960,7,True,高优先级-数据空洞优先核验
+Coal,40.0,122.0,98.0,260.0,China,True,False,340,1080,6,True,高优先级-数据空洞优先核验
+Coal,-28.0,28.0,98.0,262.0,South Africa,True,False,155,1009,4,True,高优先级-数据空洞优先核验
+NiCo,54.0,98.0,97.9,327.0,Russia,True,False,919,1767,5,True,高优先级-数据空洞优先核验
+REE,54.0,-126.0,97.9,308.0,Canada,True,False,561,2960,7,True,高优先级-数据空洞优先核验
 REE,18.0,44.0,97.9,319.0,Saudi Arabia,True,False,295,87,2,True,高优先级-数据空洞优先核验
-REE,56.0,102.0,97.9,292.0,Russia,True,False,959,1706,5,True,高优先级-数据空洞优先核验
-Coal,48.0,86.0,97.9,281.0,China,True,False,482,1064,6,True,高优先级-数据空洞优先核验
-Coal,40.0,116.0,97.9,272.0,China,True,False,35,1064,6,True,高优先级-数据空洞优先核验
-Coal,32.0,116.0,97.9,275.0,China,True,False,522,1064,6,True,高优先级-数据空洞优先核验
-Coal,-24.0,146.0,97.9,278.0,Australia,True,False,1209,1260,10,True,高优先级-数据空洞优先核验
-Cu,-42.0,-74.0,97.8,263.0,Chile,True,False,996,4192,4,True,高优先级-数据空洞优先核验
-Cu,4.0,98.0,97.8,289.0,Indonesia,True,False,420,168,2,True,高优先级-数据空洞优先核验
-NiCo,54.0,120.0,97.8,264.0,Russia,True,False,1136,1706,5,True,高优先级-数据空洞优先核验
-REE,60.0,122.0,97.8,257.0,Russia,True,False,1659,1706,5,True,高优先级-数据空洞优先核验
-REE,56.0,118.0,97.8,422.0,Russia,True,False,1174,1706,5,True,高优先级-数据空洞优先核验
-REE,56.0,98.0,97.8,320.0,Russia,True,False,1085,1706,5,True,高优先级-数据空洞优先核验
-REE,54.0,114.0,97.8,322.0,Russia,True,False,838,1706,5,True,高优先级-数据空洞优先核验
-Coal,48.0,80.0,97.8,281.0,Kazakhstan,True,False,709,454,2,True,高优先级-数据空洞优先核验
-Coal,50.0,-108.0,97.8,322.0,Canada,True,False,1090,2915,7,True,高优先级-数据空洞优先核验
-Coal,46.0,90.0,97.8,297.0,China,True,False,310,1064,6,True,高优先级-数据空洞优先核验
-Coal,44.0,122.0,97.8,283.0,China,True,False,636,1064,6,True,高优先级-数据空洞优先核验
-Coal,40.0,94.0,97.8,281.0,China,True,False,679,1064,6,True,高优先级-数据空洞优先核验
-Coal,-22.0,146.0,97.8,280.0,Australia,True,False,1400,1260,10,True,高优先级-数据空洞优先核验
-Coal,30.0,120.0,97.8,282.0,China,True,False,193,1064,6,True,高优先级-数据空洞优先核验
-Au,-42.0,-74.0,97.7,263.0,Chile,True,False,996,4192,4,True,高优先级-数据空洞优先核验
-Cu,-8.0,114.0,97.7,334.0,Indonesia,True,False,817,168,2,True,高优先级-数据空洞优先核验
-NiCo,56.0,118.0,97.7,386.0,Russia,True,False,1174,1706,5,True,高优先级-数据空洞优先核验
-NiCo,54.0,-128.0,97.7,231.0,Canada,True,False,624,2915,7,True,高优先级-数据空洞优先核验
-NiCo,52.0,-126.0,97.7,410.0,Canada,True,False,365,2915,7,True,高优先级-数据空洞优先核验
-NiCo,56.0,116.0,97.7,365.0,Russia,True,False,1091,1706,5,True,高优先级-数据空洞优先核验
-Coal,50.0,-112.0,97.7,338.0,Canada,True,False,804,2915,7,True,高优先级-数据空洞优先核验
-Coal,34.0,108.0,97.7,283.0,China,True,False,523,1064,6,True,高优先级-数据空洞优先核验
-REE,56.0,120.0,97.6,411.0,Russia,True,False,1265,1706,5,True,高优先级-数据空洞优先核验
-REE,56.0,96.0,97.6,304.0,Russia,True,False,1166,1706,5,True,高优先级-数据空洞优先核验
-NiCo,58.0,116.0,97.5,345.0,Russia,True,False,1273,1706,5,True,高优先级-数据空洞优先核验
-REE,56.0,94.0,97.5,268.0,Russia,True,False,1257,1706,5,True,高优先级-数据空洞优先核验
+REE,56.0,102.0,97.9,292.0,Russia,True,False,959,1767,5,True,高优先级-数据空洞优先核验
+Coal,48.0,86.0,97.9,281.0,China,True,False,482,1080,6,True,高优先级-数据空洞优先核验
+Coal,40.0,116.0,97.9,272.0,China,True,False,35,1080,6,True,高优先级-数据空洞优先核验
+Coal,32.0,116.0,97.9,275.0,China,True,False,522,1080,6,True,高优先级-数据空洞优先核验
+Coal,-24.0,146.0,97.9,278.0,Australia,True,False,1209,1307,10,True,高优先级-数据空洞优先核验
+Cu,-42.0,-74.0,97.8,263.0,Chile,True,False,996,4195,4,True,高优先级-数据空洞优先核验
+Cu,4.0,98.0,97.8,289.0,Indonesia,True,False,420,171,2,True,高优先级-数据空洞优先核验
+NiCo,54.0,120.0,97.8,264.0,Russia,True,False,1136,1767,5,True,高优先级-数据空洞优先核验
+REE,60.0,122.0,97.8,257.0,Russia,True,False,1659,1767,5,True,高优先级-数据空洞优先核验
+REE,56.0,118.0,97.8,422.0,Russia,True,False,1174,1767,5,True,高优先级-数据空洞优先核验
+REE,56.0,98.0,97.8,320.0,Russia,True,False,1085,1767,5,True,高优先级-数据空洞优先核验
+REE,54.0,114.0,97.8,322.0,Russia,True,False,838,1767,5,True,高优先级-数据空洞优先核验
+Coal,48.0,80.0,97.8,281.0,Kazakhstan,True,False,709,456,2,True,高优先级-数据空洞优先核验
+Coal,50.0,-108.0,97.8,322.0,Canada,True,False,1090,2960,7,True,高优先级-数据空洞优先核验
+Coal,46.0,90.0,97.8,297.0,China,True,False,310,1080,6,True,高优先级-数据空洞优先核验
+Coal,44.0,122.0,97.8,283.0,China,True,False,636,1080,6,True,高优先级-数据空洞优先核验
+Coal,40.0,94.0,97.8,281.0,China,True,False,679,1080,6,True,高优先级-数据空洞优先核验
+Coal,-22.0,146.0,97.8,280.0,Australia,True,False,1400,1307,10,True,高优先级-数据空洞优先核验
+Coal,30.0,120.0,97.8,282.0,China,True,False,193,1080,6,True,高优先级-数据空洞优先核验
+Au,-42.0,-74.0,97.7,263.0,Chile,True,False,996,4195,4,True,高优先级-数据空洞优先核验
+Cu,-8.0,114.0,97.7,334.0,Indonesia,True,False,817,171,2,True,高优先级-数据空洞优先核验
+NiCo,56.0,118.0,97.7,386.0,Russia,True,False,1174,1767,5,True,高优先级-数据空洞优先核验
+NiCo,54.0,-128.0,97.7,231.0,Canada,True,False,624,2960,7,True,高优先级-数据空洞优先核验
+NiCo,52.0,-126.0,97.7,410.0,Canada,True,False,365,2960,7,True,高优先级-数据空洞优先核验
+NiCo,56.0,116.0,97.7,365.0,Russia,True,False,1091,1767,5,True,高优先级-数据空洞优先核验
+Coal,50.0,-112.0,97.7,338.0,Canada,True,False,804,2960,7,True,高优先级-数据空洞优先核验
+Coal,34.0,108.0,97.7,283.0,China,True,False,523,1080,6,True,高优先级-数据空洞优先核验
+REE,56.0,120.0,97.6,411.0,Russia,True,False,1265,1767,5,True,高优先级-数据空洞优先核验
+REE,56.0,96.0,97.6,304.0,Russia,True,False,1166,1767,5,True,高优先级-数据空洞优先核验
+NiCo,58.0,116.0,97.5,345.0,Russia,True,False,1273,1767,5,True,高优先级-数据空洞优先核验
+REE,56.0,94.0,97.5,268.0,Russia,True,False,1257,1767,5,True,高优先级-数据空洞优先核验
 REE,48.0,98.0,97.5,238.0,Mongolia,True,False,664,242,2,True,高优先级-数据空洞优先核验
-Au,-44.0,-72.0,97.4,317.0,Chile,True,False,1180,4192,4,True,高优先级-数据空洞优先核验
-REE,58.0,118.0,97.4,416.0,Russia,True,False,1341,1706,5,True,高优先级-数据空洞优先核验
-REE,54.0,-122.0,97.4,266.0,Canada,True,False,531,2915,7,True,高优先级-数据空洞优先核验
-Diamond,-26.0,120.0,97.4,226.0,Australia,True,False,2027,1260,10,True,高优先级-数据空洞优先核验
-Diamond,-8.0,-50.0,97.4,226.0,Brazil,True,False,894,1177,3,True,高优先级-数据空洞优先核验
-Diamond,64.0,44.0,97.4,223.0,Russia,True,False,983,1706,5,True,高优先级-数据空洞优先核验
-Diamond,-2.0,-56.0,97.4,227.0,Brazil,True,False,876,1177,3,True,高优先级-数据空洞优先核验
-Diamond,-30.0,22.0,97.4,228.0,South Africa,True,False,421,991,4,True,高优先级-数据空洞优先核验
-Diamond,70.0,108.0,97.4,225.0,Russia,True,False,2456,1706,5,True,高优先级-数据空洞优先核验
-Diamond,70.0,138.0,97.4,230.0,Russia,True,False,2964,1706,5,True,高优先级-数据空洞优先核验
+Au,-44.0,-72.0,97.4,317.0,Chile,True,False,1180,4195,4,True,高优先级-数据空洞优先核验
+REE,58.0,118.0,97.4,416.0,Russia,True,False,1341,1767,5,True,高优先级-数据空洞优先核验
+REE,54.0,-122.0,97.4,266.0,Canada,True,False,531,2960,7,True,高优先级-数据空洞优先核验
+Diamond,-26.0,120.0,97.4,226.0,Australia,True,False,2027,1307,10,True,高优先级-数据空洞优先核验
+Diamond,-8.0,-50.0,97.4,226.0,Brazil,True,False,894,1191,3,True,高优先级-数据空洞优先核验
+Diamond,64.0,44.0,97.4,223.0,Russia,True,False,983,1767,5,True,高优先级-数据空洞优先核验
+Diamond,-2.0,-56.0,97.4,227.0,Brazil,True,False,876,1191,3,True,高优先级-数据空洞优先核验
+Diamond,-30.0,22.0,97.4,228.0,South Africa,True,False,421,1009,4,True,高优先级-数据空洞优先核验
+Diamond,70.0,108.0,97.4,225.0,Russia,True,False,2456,1767,5,True,高优先级-数据空洞优先核验
+Diamond,70.0,138.0,97.4,230.0,Russia,True,False,2964,1767,5,True,高优先级-数据空洞优先核验
 REE,50.0,102.0,97.3,339.0,Mongolia,True,False,427,242,2,True,高优先级-数据空洞优先核验
-REE,54.0,110.0,97.3,225.0,Russia,True,False,710,1706,5,True,高优先级-数据空洞优先核验
-U,50.0,-126.0,97.3,313.0,Canada,True,False,222,2915,7,True,高优先级-数据空洞优先核验
-Diamond,-26.0,-52.0,97.3,230.0,Brazil,True,False,569,1177,3,True,高优先级-数据空洞优先核验
-Diamond,0.0,-54.0,97.3,229.0,Brazil,True,False,662,1177,3,True,高优先级-数据空洞优先核验
-Diamond,62.0,-98.0,97.3,227.0,Canada,True,False,2094,2915,7,True,高优先级-数据空洞优先核验
-Diamond,-6.0,-46.0,97.3,232.0,Brazil,True,False,1108,1177,3,True,高优先级-数据空洞优先核验
-Diamond,64.0,-90.0,97.3,235.0,Canada,True,False,2249,2915,7,True,高优先级-数据空洞优先核验
-Diamond,64.0,-98.0,97.3,235.0,Canada,True,False,2216,2915,7,True,高优先级-数据空洞优先核验
-Diamond,-18.0,130.0,97.3,223.0,Australia,True,False,1153,1260,10,True,高优先级-数据空洞优先核验
-Cu,56.0,162.0,97.2,375.0,Russia,True,False,2815,1706,5,True,高优先级-数据空洞优先核验
-Diamond,-2.0,-54.0,97.2,233.0,Brazil,True,False,881,1177,3,True,高优先级-数据空洞优先核验
-Diamond,70.0,144.0,97.2,235.0,Russia,True,False,3149,1706,5,True,高优先级-数据空洞优先核验
-Diamond,62.0,-108.0,97.2,230.0,Canada,True,False,1695,2915,7,True,高优先级-数据空洞优先核验
-Diamond,-30.0,148.0,97.2,235.0,Australia,True,False,526,1260,10,True,高优先级-数据空洞优先核验
-Diamond,68.0,116.0,97.2,238.0,Russia,True,False,2291,1706,5,True,高优先级-数据空洞优先核验
-Diamond,-6.0,-58.0,97.2,238.0,Brazil,True,False,1353,1177,3,True,高优先级-数据空洞优先核验
+REE,54.0,110.0,97.3,225.0,Russia,True,False,710,1767,5,True,高优先级-数据空洞优先核验
+PGE,58.0,116.0,97.3,229.0,Russia,True,False,1273,1767,5,True,高优先级-数据空洞优先核验
+U,50.0,-126.0,97.3,313.0,Canada,True,False,222,2960,7,True,高优先级-数据空洞优先核验
+Diamond,-26.0,-52.0,97.3,230.0,Brazil,True,False,569,1191,3,True,高优先级-数据空洞优先核验
+Diamond,0.0,-54.0,97.3,229.0,Brazil,True,False,662,1191,3,True,高优先级-数据空洞优先核验
+Diamond,62.0,-98.0,97.3,227.0,Canada,True,False,2094,2960,7,True,高优先级-数据空洞优先核验
+Diamond,-6.0,-46.0,97.3,232.0,Brazil,True,False,1108,1191,3,True,高优先级-数据空洞优先核验
+Diamond,64.0,-90.0,97.3,235.0,Canada,True,False,2249,2960,7,True,高优先级-数据空洞优先核验
+Diamond,64.0,-98.0,97.3,235.0,Canada,True,False,2216,2960,7,True,高优先级-数据空洞优先核验
+Diamond,-18.0,130.0,97.3,223.0,Australia,True,False,1153,1307,10,True,高优先级-数据空洞优先核验
+Cu,56.0,162.0,97.2,375.0,Russia,True,False,2815,1767,5,True,高优先级-数据空洞优先核验
+Diamond,-2.0,-54.0,97.2,233.0,Brazil,True,False,881,1191,3,True,高优先级-数据空洞优先核验
+Diamond,70.0,144.0,97.2,235.0,Russia,True,False,3149,1767,5,True,高优先级-数据空洞优先核验
+Diamond,62.0,-108.0,97.2,230.0,Canada,True,False,1695,2960,7,True,高优先级-数据空洞优先核验
+Diamond,-30.0,148.0,97.2,235.0,Australia,True,False,526,1307,10,True,高优先级-数据空洞优先核验
+Diamond,68.0,116.0,97.2,238.0,Russia,True,False,2291,1767,5,True,高优先级-数据空洞优先核验
+Diamond,-6.0,-58.0,97.2,238.0,Brazil,True,False,1353,1191,3,True,高优先级-数据空洞优先核验
 NiCo,50.0,98.0,97.1,329.0,Mongolia,True,False,690,242,2,True,高优先级-数据空洞优先核验
-NiCo,58.0,118.0,97.1,396.0,Russia,True,False,1341,1706,5,True,高优先级-数据空洞优先核验
-Diamond,-8.0,-60.0,97.1,237.0,Brazil,True,False,1294,1177,3,True,高优先级-数据空洞优先核验
-Diamond,-24.0,-54.0,97.1,238.0,Brazil,True,False,394,1177,3,True,高优先级-数据空洞优先核验
-Diamond,66.0,46.0,97.1,246.0,Russia,True,False,1224,1706,5,True,高优先级-数据空洞优先核验
-Diamond,-24.0,124.0,97.0,245.0,Australia,True,False,1725,1260,10,True,高优先级-数据空洞优先核验
-Diamond,-28.0,152.0,97.0,248.0,Australia,True,False,657,1260,10,True,高优先级-数据空洞优先核验
-Diamond,-24.0,22.0,97.0,251.0,Botswana,True,False,403,67,2,True,高优先级-数据空洞优先核验
-Cu,-10.0,120.0,96.9,362.0,Indonesia,True,False,633,168,2,True,高优先级-数据空洞优先核验
-Cu,-50.0,-74.0,96.9,436.0,Chile,True,False,1862,4192,4,True,高优先级-数据空洞优先核验
-NiCo,52.0,100.0,96.9,444.0,Russia,True,False,671,1706,5,True,高优先级-数据空洞优先核验
-PGE,54.0,-128.0,96.9,226.0,Canada,True,False,624,2915,7,True,高优先级-数据空洞优先核验
-Diamond,-32.0,150.0,96.9,253.0,Australia,True,False,237,1260,10,True,高优先级-数据空洞优先核验
-Diamond,62.0,-114.0,96.9,239.0,Canada,True,False,1523,2915,7,True,高优先级-数据空洞优先核验
-Diamond,-2.0,-46.0,96.9,254.0,Brazil,True,False,1340,1177,3,True,高优先级-数据空洞优先核验
-Diamond,66.0,140.0,96.9,248.0,Russia,True,False,2778,1706,5,True,高优先级-数据空洞优先核验
-Diamond,64.0,108.0,96.9,253.0,Russia,True,False,1789,1706,5,True,高优先级-数据空洞优先核验
-Diamond,66.0,142.0,96.9,250.0,Russia,True,False,2858,1706,5,True,高优先级-数据空洞优先核验
-Diamond,-12.0,-52.0,96.8,259.0,Brazil,True,False,609,1177,3,True,高优先级-数据空洞优先核验
-Diamond,48.0,-86.0,96.8,262.0,Canada,True,False,696,2915,7,True,高优先级-数据空洞优先核验
-Diamond,64.0,118.0,96.8,264.0,Russia,True,False,1910,1706,5,True,高优先级-数据空洞优先核验
-Diamond,68.0,40.0,96.8,261.0,Russia,True,False,1132,1706,5,True,高优先级-数据空洞优先核验
-Diamond,66.0,-104.0,96.8,264.0,Canada,True,False,2160,2915,7,True,高优先级-数据空洞优先核验
-Diamond,-16.0,-40.0,96.8,263.0,Brazil,True,False,839,1177,3,True,高优先级-数据空洞优先核验
-PGE,54.0,116.0,96.7,237.0,Russia,True,False,927,1706,5,True,高优先级-数据空洞优先核验
-U,52.0,-124.0,96.7,285.0,Canada,True,False,309,2915,7,True,高优先级-数据空洞优先核验
-Diamond,-12.0,-50.0,96.7,263.0,Brazil,True,False,477,1177,3,True,高优先级-数据空洞优先核验
-Diamond,-2.0,-52.0,96.7,264.0,Brazil,True,False,940,1177,3,True,高优先级-数据空洞优先核验
-Diamond,-4.0,-52.0,96.7,265.0,Brazil,True,False,1149,1177,3,True,高优先级-数据空洞优先核验
-Diamond,64.0,-116.0,96.7,256.0,Canada,True,False,1692,2915,7,True,高优先级-数据空洞优先核验
-Diamond,66.0,118.0,96.7,264.0,Russia,True,False,2112,1706,5,True,高优先级-数据空洞优先核验
-Diamond,70.0,116.0,96.7,262.0,Russia,True,False,2504,1706,5,True,高优先级-数据空洞优先核验
-U,54.0,-128.0,96.6,254.0,Canada,True,False,624,2915,7,True,高优先级-数据空洞优先核验
-Diamond,-32.0,28.0,96.6,270.0,South Africa,True,False,302,991,4,True,高优先级-数据空洞优先核验
-Diamond,-28.0,-50.0,96.6,270.0,Brazil,True,False,598,1177,3,True,高优先级-数据空洞优先核验
-Diamond,-22.0,-42.0,96.6,271.0,Brazil,True,False,160,1177,3,True,高优先级-数据空洞优先核验
-Diamond,0.0,-68.0,96.6,235.0,Brazil,True,False,848,1177,3,True,高优先级-数据空洞优先核验
-Diamond,-10.0,-58.0,96.6,271.0,Brazil,True,False,1267,1177,3,True,高优先级-数据空洞优先核验
-Diamond,70.0,136.0,96.6,278.0,Russia,True,False,2906,1706,5,True,高优先级-数据空洞优先核验
-Diamond,68.0,34.0,96.5,270.0,Russia,True,False,974,1706,5,True,高优先级-数据空洞优先核验
-Diamond,-24.0,120.0,96.5,274.0,Australia,True,False,1817,1260,10,True,高优先级-数据空洞优先核验
-Diamond,64.0,36.0,96.5,271.0,Russia,True,False,715,1706,5,True,高优先级-数据空洞优先核验
-Diamond,70.0,106.0,96.5,270.0,Russia,True,False,2456,1706,5,True,高优先级-数据空洞优先核验
-Diamond,-8.0,-36.0,96.5,276.0,Brazil,True,False,1558,1177,3,True,高优先级-数据空洞优先核验
-Diamond,50.0,-108.0,96.5,243.0,Canada,True,False,1090,2915,7,True,高优先级-数据空洞优先核验
-Cu,58.0,160.0,96.4,482.0,Russia,True,False,2895,1706,5,True,高优先级-数据空洞优先核验
-Diamond,60.0,114.0,96.4,278.0,Russia,True,False,1419,1706,5,True,高优先级-数据空洞优先核验
-Diamond,70.0,146.0,96.4,284.0,Russia,True,False,3215,1706,5,True,高优先级-数据空洞优先核验
-Diamond,66.0,138.0,96.4,275.0,Russia,True,False,2701,1706,5,True,高优先级-数据空洞优先核验
-Diamond,-10.0,-36.0,96.4,282.0,Brazil,True,False,1442,1177,3,True,高优先级-数据空洞优先核验
-Diamond,-16.0,134.0,96.4,267.0,Australia,True,False,1233,1260,10,True,高优先级-数据空洞优先核验
-Diamond,68.0,38.0,96.4,284.0,Russia,True,False,1074,1706,5,True,高优先级-数据空洞优先核验
-PGE,56.0,118.0,96.2,287.0,Russia,True,False,1174,1706,5,True,高优先级-数据空洞优先核验
-U,50.0,-112.0,96.1,223.0,Canada,True,False,804,2915,7,True,高优先级-数据空洞优先核验
-PGE,54.0,118.0,95.7,270.0,Russia,True,False,1028,1706,5,True,高优先级-数据空洞优先核验
-PGE,56.0,98.0,95.6,242.0,Russia,True,False,1085,1706,5,True,高优先级-数据空洞优先核验
-U,56.0,-126.0,95.4,252.0,Canada,True,False,772,2915,7,True,高优先级-数据空洞优先核验
-PGE,54.0,114.0,95.3,252.0,Russia,True,False,838,1706,5,True,高优先级-数据空洞优先核验
-U,-48.0,-74.0,95.3,248.0,Chile,True,False,1643,4192,4,True,高优先级-数据空洞优先核验
-PGE,58.0,120.0,95.1,283.0,Russia,True,False,1418,1706,5,True,高优先级-数据空洞优先核验
-U,58.0,-128.0,95.1,257.0,Canada,True,False,1021,2915,7,True,高优先级-数据空洞优先核验
-U,54.0,-120.0,95.0,270.0,Canada,True,False,568,2915,7,True,高优先级-数据空洞优先核验
-U,66.0,-136.0,94.8,243.0,Canada,True,False,2002,2915,7,True,高优先级-数据空洞优先核验
-U,66.0,-172.0,94.7,227.0,Russia,True,False,3325,1706,5,True,高优先级-数据空洞优先核验
-U,-34.0,142.0,94.7,224.0,Australia,True,False,502,1260,10,True,高优先级-数据空洞优先核验
-U,-6.0,-36.0,94.6,224.0,Brazil,True,False,1695,1177,3,True,高优先级-数据空洞优先核验
-U,-30.0,-56.0,94.6,226.0,Brazil,True,False,546,1177,3,True,高优先级-数据空洞优先核验
-U,54.0,-122.0,94.6,304.0,Canada,True,False,531,2915,7,True,高优先级-数据空洞优先核验
-U,36.0,102.0,94.6,229.0,China,True,False,623,1064,6,True,高优先级-数据空洞优先核验
-U,32.0,102.0,94.5,229.0,China,True,False,246,1064,6,True,高优先级-数据空洞优先核验
-U,52.0,-116.0,94.5,274.0,Canada,True,False,586,2915,7,True,高优先级-数据空洞优先核验
-U,-26.0,118.0,94.5,230.0,Australia,True,False,2098,1260,10,True,高优先级-数据空洞优先核验
-U,58.0,-102.0,94.5,235.0,Canada,True,False,1686,2915,7,True,高优先级-数据空洞优先核验
-U,-30.0,28.0,94.4,235.0,South Africa,True,False,91,991,4,True,高优先级-数据空洞优先核验
-U,-26.0,-50.0,94.4,235.0,Brazil,True,False,436,1177,3,True,高优先级-数据空洞优先核验
-U,60.0,-112.0,94.4,237.0,Canada,True,False,1387,2915,7,True,高优先级-数据空洞优先核验
-PGE,-50.0,-74.0,93.3,226.0,Chile,True,False,1862,4192,4,True,高优先级-数据空洞优先核验
-Fe,50.0,-128.0,93.2,248.0,Canada,True,False,360,2915,7,True,高优先级-数据空洞优先核验
-PGE,56.0,100.0,93.2,271.0,Russia,True,False,1015,1706,5,True,高优先级-数据空洞优先核验
-PGE,54.0,112.0,91.8,261.0,Russia,True,False,764,1706,5,True,高优先级-数据空洞优先核验
-PGE,56.0,110.0,91.7,256.0,Russia,True,False,923,1706,5,True,高优先级-数据空洞优先核验
-PGE,-40.0,-72.0,91.6,245.0,Chile,True,False,739,4192,4,True,高优先级-数据空洞优先核验
-PGE,0.0,100.0,91.1,251.0,Indonesia,True,False,377,168,2,True,高优先级-数据空洞优先核验
-PGE,60.0,162.0,90.9,240.0,Russia,True,False,3139,1706,5,True,高优先级-数据空洞优先核验
-Fe,52.0,-124.0,90.6,257.0,Canada,True,False,309,2915,7,True,高优先级-数据空洞优先核验
-OilGas,34.0,-104.0,100.0,311.0,United States of America,True,False,644,99203,7,False,高优先级-标准复查
-OilGas,32.0,-106.0,100.0,336.0,United States of America,True,False,866,99203,7,False,高优先级-标准复查
-OilGas,34.0,-106.0,100.0,429.0,United States of America,True,False,645,99203,7,False,高优先级-标准复查
-OilGas,34.0,-102.0,100.0,282.0,United States of America,True,False,691,99203,7,False,高优先级-标准复查
-REE,40.0,-120.0,99.9,228.0,United States of America,True,False,322,99203,7,False,高优先级-标准复查
-REE,32.0,-116.0,99.9,224.0,Mexico,True,False,309,1659,1,False,高优先级-标准复查
-OilGas,34.0,-108.0,99.9,585.0,United States of America,True,False,692,99203,7,False,高优先级-标准复查
-OilGas,30.0,-106.0,99.9,374.0,Mexico,True,False,736,1659,1,False,高优先级-标准复查
-OilGas,32.0,-100.0,99.9,243.0,United States of America,True,False,510,99203,7,False,高优先级-标准复查
-OilGas,32.0,-108.0,99.9,523.0,United States of America,True,False,902,99203,7,False,高优先级-标准复查
-OilGas,36.0,-104.0,99.9,519.0,United States of America,True,False,425,99203,7,False,高优先级-标准复查
-OilGas,36.0,-106.0,99.9,596.0,United States of America,True,False,425,99203,7,False,高优先级-标准复查
-OilGas,34.0,-100.0,99.9,363.0,United States of America,True,False,646,99203,7,False,高优先级-标准复查
-OilGas,36.0,-108.0,99.9,713.0,United States of America,True,False,493,99203,7,False,高优先级-标准复查
-OilGas,34.0,-110.0,99.9,754.0,United States of America,True,False,758,99203,7,False,高优先级-标准复查
-OilGas,36.0,-102.0,99.9,503.0,United States of America,True,False,492,99203,7,False,高优先级-标准复查
-OilGas,30.0,-100.0,99.9,291.0,United States of America,True,False,449,99203,7,False,高优先级-标准复查
+Diamond,-8.0,-60.0,97.1,237.0,Brazil,True,False,1294,1191,3,True,高优先级-数据空洞优先核验
+Diamond,-24.0,-54.0,97.1,238.0,Brazil,True,False,394,1191,3,True,高优先级-数据空洞优先核验
+Diamond,66.0,46.0,97.1,246.0,Russia,True,False,1224,1767,5,True,高优先级-数据空洞优先核验
+NiCo,58.0,118.0,97.0,396.0,Russia,True,False,1341,1767,5,True,高优先级-数据空洞优先核验
+Diamond,-24.0,124.0,97.0,245.0,Australia,True,False,1725,1307,10,True,高优先级-数据空洞优先核验
+Diamond,-28.0,152.0,97.0,248.0,Australia,True,False,657,1307,10,True,高优先级-数据空洞优先核验
+Diamond,-24.0,22.0,97.0,251.0,Botswana,True,False,403,69,2,True,高优先级-数据空洞优先核验
+Cu,-10.0,120.0,96.9,362.0,Indonesia,True,False,633,171,2,True,高优先级-数据空洞优先核验
+Cu,-50.0,-74.0,96.9,436.0,Chile,True,False,1862,4195,4,True,高优先级-数据空洞优先核验
+NiCo,52.0,100.0,96.9,444.0,Russia,True,False,671,1767,5,True,高优先级-数据空洞优先核验
+PGE,54.0,-128.0,96.9,226.0,Canada,True,False,624,2960,7,True,高优先级-数据空洞优先核验
+Diamond,-32.0,150.0,96.9,253.0,Australia,True,False,237,1307,10,True,高优先级-数据空洞优先核验
+Diamond,62.0,-114.0,96.9,239.0,Canada,True,False,1523,2960,7,True,高优先级-数据空洞优先核验
+Diamond,-2.0,-46.0,96.9,254.0,Brazil,True,False,1340,1191,3,True,高优先级-数据空洞优先核验
+Diamond,66.0,140.0,96.9,248.0,Russia,True,False,2778,1767,5,True,高优先级-数据空洞优先核验
+Diamond,64.0,108.0,96.9,253.0,Russia,True,False,1789,1767,5,True,高优先级-数据空洞优先核验
+Diamond,66.0,142.0,96.9,250.0,Russia,True,False,2858,1767,5,True,高优先级-数据空洞优先核验
+Diamond,-12.0,-52.0,96.8,259.0,Brazil,True,False,609,1191,3,True,高优先级-数据空洞优先核验
+Diamond,48.0,-86.0,96.8,262.0,Canada,True,False,696,2960,7,True,高优先级-数据空洞优先核验
+Diamond,64.0,118.0,96.8,264.0,Russia,True,False,1910,1767,5,True,高优先级-数据空洞优先核验
+Diamond,68.0,40.0,96.8,261.0,Russia,True,False,1132,1767,5,True,高优先级-数据空洞优先核验
+Diamond,66.0,-104.0,96.8,264.0,Canada,True,False,2160,2960,7,True,高优先级-数据空洞优先核验
+Diamond,-16.0,-40.0,96.8,263.0,Brazil,True,False,839,1191,3,True,高优先级-数据空洞优先核验
+U,52.0,-124.0,96.7,285.0,Canada,True,False,309,2960,7,True,高优先级-数据空洞优先核验
+Diamond,-12.0,-50.0,96.7,263.0,Brazil,True,False,477,1191,3,True,高优先级-数据空洞优先核验
+Diamond,-2.0,-52.0,96.7,264.0,Brazil,True,False,940,1191,3,True,高优先级-数据空洞优先核验
+Diamond,-4.0,-52.0,96.7,265.0,Brazil,True,False,1149,1191,3,True,高优先级-数据空洞优先核验
+Diamond,64.0,-116.0,96.7,256.0,Canada,True,False,1692,2960,7,True,高优先级-数据空洞优先核验
+Diamond,66.0,118.0,96.7,264.0,Russia,True,False,2112,1767,5,True,高优先级-数据空洞优先核验
+Diamond,70.0,116.0,96.7,262.0,Russia,True,False,2504,1767,5,True,高优先级-数据空洞优先核验
+PGE,54.0,116.0,96.6,237.0,Russia,True,False,927,1767,5,True,高优先级-数据空洞优先核验
+U,54.0,-128.0,96.6,254.0,Canada,True,False,624,2960,7,True,高优先级-数据空洞优先核验
+Diamond,-32.0,28.0,96.6,270.0,South Africa,True,False,302,1009,4,True,高优先级-数据空洞优先核验
+Diamond,-28.0,-50.0,96.6,270.0,Brazil,True,False,598,1191,3,True,高优先级-数据空洞优先核验
+Diamond,-22.0,-42.0,96.6,271.0,Brazil,True,False,160,1191,3,True,高优先级-数据空洞优先核验
+Diamond,0.0,-68.0,96.6,235.0,Brazil,True,False,848,1191,3,True,高优先级-数据空洞优先核验
+Diamond,-10.0,-58.0,96.6,271.0,Brazil,True,False,1267,1191,3,True,高优先级-数据空洞优先核验
+Diamond,70.0,136.0,96.6,278.0,Russia,True,False,2906,1767,5,True,高优先级-数据空洞优先核验
+Diamond,68.0,34.0,96.5,270.0,Russia,True,False,974,1767,5,True,高优先级-数据空洞优先核验
+Diamond,-24.0,120.0,96.5,274.0,Australia,True,False,1817,1307,10,True,高优先级-数据空洞优先核验
+Diamond,64.0,36.0,96.5,271.0,Russia,True,False,715,1767,5,True,高优先级-数据空洞优先核验
+Diamond,70.0,106.0,96.5,270.0,Russia,True,False,2456,1767,5,True,高优先级-数据空洞优先核验
+Diamond,-8.0,-36.0,96.5,276.0,Brazil,True,False,1558,1191,3,True,高优先级-数据空洞优先核验
+Diamond,50.0,-108.0,96.5,243.0,Canada,True,False,1090,2960,7,True,高优先级-数据空洞优先核验
+Cu,58.0,160.0,96.4,482.0,Russia,True,False,2895,1767,5,True,高优先级-数据空洞优先核验
+Diamond,60.0,114.0,96.4,278.0,Russia,True,False,1419,1767,5,True,高优先级-数据空洞优先核验
+Diamond,70.0,146.0,96.4,284.0,Russia,True,False,3215,1767,5,True,高优先级-数据空洞优先核验
+Diamond,66.0,138.0,96.4,275.0,Russia,True,False,2701,1767,5,True,高优先级-数据空洞优先核验
+Diamond,-10.0,-36.0,96.4,282.0,Brazil,True,False,1442,1191,3,True,高优先级-数据空洞优先核验
+Diamond,-16.0,134.0,96.4,267.0,Australia,True,False,1233,1307,10,True,高优先级-数据空洞优先核验
+Diamond,68.0,38.0,96.4,284.0,Russia,True,False,1074,1767,5,True,高优先级-数据空洞优先核验
+U,50.0,-112.0,96.1,223.0,Canada,True,False,804,2960,7,True,高优先级-数据空洞优先核验
+PGE,54.0,118.0,95.6,270.0,Russia,True,False,1028,1767,5,True,高优先级-数据空洞优先核验
+U,56.0,-126.0,95.4,252.0,Canada,True,False,772,2960,7,True,高优先级-数据空洞优先核验
+PGE,54.0,114.0,95.3,252.0,Russia,True,False,838,1767,5,True,高优先级-数据空洞优先核验
+U,-48.0,-74.0,95.3,248.0,Chile,True,False,1643,4195,4,True,高优先级-数据空洞优先核验
+U,58.0,-128.0,95.1,257.0,Canada,True,False,1021,2960,7,True,高优先级-数据空洞优先核验
+U,54.0,-120.0,95.0,270.0,Canada,True,False,568,2960,7,True,高优先级-数据空洞优先核验
+U,66.0,-136.0,94.8,243.0,Canada,True,False,2002,2960,7,True,高优先级-数据空洞优先核验
+PGE,56.0,114.0,94.7,288.0,Russia,True,False,1020,1767,5,True,高优先级-数据空洞优先核验
+U,66.0,-172.0,94.7,227.0,Russia,True,False,3325,1767,5,True,高优先级-数据空洞优先核验
+U,-34.0,142.0,94.7,224.0,Australia,True,False,502,1307,10,True,高优先级-数据空洞优先核验
+U,-6.0,-36.0,94.6,224.0,Brazil,True,False,1695,1191,3,True,高优先级-数据空洞优先核验
+U,-30.0,-56.0,94.6,226.0,Brazil,True,False,546,1191,3,True,高优先级-数据空洞优先核验
+U,54.0,-122.0,94.6,304.0,Canada,True,False,531,2960,7,True,高优先级-数据空洞优先核验
+U,36.0,102.0,94.6,229.0,China,True,False,623,1080,6,True,高优先级-数据空洞优先核验
+U,32.0,102.0,94.5,229.0,China,True,False,246,1080,6,True,高优先级-数据空洞优先核验
+U,52.0,-116.0,94.5,274.0,Canada,True,False,586,2960,7,True,高优先级-数据空洞优先核验
+U,-26.0,118.0,94.5,230.0,Australia,True,False,2098,1307,10,True,高优先级-数据空洞优先核验
+U,58.0,-102.0,94.5,235.0,Canada,True,False,1686,2960,7,True,高优先级-数据空洞优先核验
+U,-30.0,28.0,94.4,235.0,South Africa,True,False,91,1009,4,True,高优先级-数据空洞优先核验
+U,-26.0,-50.0,94.4,235.0,Brazil,True,False,436,1191,3,True,高优先级-数据空洞优先核验
+U,60.0,-112.0,94.4,237.0,Canada,True,False,1387,2960,7,True,高优先级-数据空洞优先核验
+Fe,50.0,-128.0,93.2,248.0,Canada,True,False,360,2960,7,True,高优先级-数据空洞优先核验
+PGE,-50.0,-74.0,93.1,226.0,Chile,True,False,1862,4195,4,True,高优先级-数据空洞优先核验
+PGE,56.0,100.0,93.0,271.0,Russia,True,False,1015,1767,5,True,高优先级-数据空洞优先核验
+PGE,54.0,112.0,91.6,261.0,Russia,True,False,764,1767,5,True,高优先级-数据空洞优先核验
+PGE,56.0,110.0,91.4,256.0,Russia,True,False,923,1767,5,True,高优先级-数据空洞优先核验
+PGE,-40.0,-72.0,91.4,245.0,Chile,True,False,739,4195,4,True,高优先级-数据空洞优先核验
+PGE,58.0,162.0,90.9,248.0,Russia,True,False,2973,1767,5,True,高优先级-数据空洞优先核验
+PGE,0.0,100.0,90.8,251.0,Indonesia,True,False,377,171,2,True,高优先级-数据空洞优先核验
+Fe,52.0,-124.0,90.6,257.0,Canada,True,False,309,2960,7,True,高优先级-数据空洞优先核验
+OilGas,34.0,-104.0,100.0,311.0,United States of America,True,False,644,99245,7,False,高优先级-标准复查
+OilGas,32.0,-106.0,100.0,336.0,United States of America,True,False,866,99245,7,False,高优先级-标准复查
+OilGas,34.0,-106.0,100.0,429.0,United States of America,True,False,645,99245,7,False,高优先级-标准复查
+OilGas,34.0,-102.0,100.0,282.0,United States of America,True,False,691,99245,7,False,高优先级-标准复查
+REE,40.0,-120.0,99.9,228.0,United States of America,True,False,322,99245,7,False,高优先级-标准复查
+REE,32.0,-116.0,99.9,224.0,Mexico,True,False,309,1660,1,False,高优先级-标准复查
+OilGas,34.0,-108.0,99.9,585.0,United States of America,True,False,692,99245,7,False,高优先级-标准复查
+OilGas,30.0,-106.0,99.9,374.0,Mexico,True,False,736,1660,1,False,高优先级-标准复查
+OilGas,32.0,-100.0,99.9,243.0,United States of America,True,False,510,99245,7,False,高优先级-标准复查
+OilGas,32.0,-108.0,99.9,523.0,United States of America,True,False,902,99245,7,False,高优先级-标准复查
+OilGas,36.0,-104.0,99.9,519.0,United States of America,True,False,425,99245,7,False,高优先级-标准复查
+OilGas,36.0,-106.0,99.9,596.0,United States of America,True,False,425,99245,7,False,高优先级-标准复查
+OilGas,34.0,-100.0,99.9,363.0,United States of America,True,False,646,99245,7,False,高优先级-标准复查
+OilGas,36.0,-108.0,99.9,713.0,United States of America,True,False,493,99245,7,False,高优先级-标准复查
+OilGas,34.0,-110.0,99.9,754.0,United States of America,True,False,758,99245,7,False,高优先级-标准复查
+OilGas,36.0,-102.0,99.9,503.0,United States of America,True,False,492,99245,7,False,高优先级-标准复查
+OilGas,30.0,-100.0,99.9,291.0,United States of America,True,False,449,99245,7,False,高优先级-标准复查
 Cu,-4.0,146.0,99.8,234.0,,False,False,622,0,0,False,不可行-海上
-Li,44.0,-120.0,99.8,259.0,United States of America,True,False,633,99203,7,False,高优先级-标准复查
+Li,44.0,-120.0,99.8,259.0,United States of America,True,False,633,99245,7,False,高优先级-标准复查
 Li,44.0,-126.0,99.8,253.0,,False,False,626,0,0,False,不可行-海上
-Li,40.0,-124.0,99.8,268.0,United States of America,True,False,283,99203,7,False,高优先级-标准复查
-REE,44.0,-122.0,99.8,273.0,United States of America,True,False,593,99203,7,False,高优先级-标准复查
+Li,40.0,-124.0,99.8,268.0,United States of America,True,False,283,99245,7,False,高优先级-标准复查
+REE,44.0,-122.0,99.8,273.0,United States of America,True,False,593,99245,7,False,高优先级-标准复查
 OilGas,62.0,0.0,99.8,232.0,,False,False,624,0,0,False,不可行-海上
-Li,48.0,-124.0,99.7,242.0,United States of America,True,False,156,99203,7,False,高优先级-标准复查
-Li,42.0,-124.0,99.7,326.0,United States of America,True,False,488,99203,7,False,高优先级-标准复查
+Li,48.0,-124.0,99.7,242.0,United States of America,True,False,156,99245,7,False,高优先级-标准复查
+Li,42.0,-124.0,99.7,326.0,United States of America,True,False,488,99245,7,False,高优先级-标准复查
 Li,46.0,-126.0,99.7,264.0,,False,False,423,0,0,False,不可行-海上
 Li,38.0,-124.0,99.7,237.0,,False,False,142,0,0,False,不可行-海上
-Li,46.0,-118.0,99.7,269.0,United States of America,True,False,529,99203,7,False,高优先级-标准复查
-Li,30.0,-116.0,99.7,328.0,,False,False,497,0,0,False,不可行-海上
-REE,40.0,-118.0,99.7,281.0,United States of America,True,False,453,99203,7,False,高优先级-标准复查
-REE,32.0,-114.0,99.7,285.0,Mexico,True,False,456,1659,1,False,高优先级-标准复查
-REE,36.0,-120.0,99.7,228.0,United States of America,True,False,270,99203,7,False,高优先级-标准复查
-Coal,40.0,-118.0,99.7,224.0,United States of America,True,False,453,99203,7,False,高优先级-标准复查
-OilGas,32.0,-110.0,99.7,711.0,United States of America,True,False,800,99203,7,False,高优先级-标准复查
-Li,44.0,-116.0,99.6,272.0,United States of America,True,False,799,99203,7,False,高优先级-标准复查
-Li,36.0,-122.0,99.6,276.0,,False,False,202,0,0,False,不可行-海上
-REE,40.0,-122.0,99.6,286.0,United States of America,True,False,249,99203,7,False,高优先级-标准复查
-Coal,44.0,-120.0,99.6,234.0,United States of America,True,False,633,99203,7,False,高优先级-标准复查
-Coal,36.0,-112.0,99.6,240.0,United States of America,True,False,607,99203,7,False,高优先级-标准复查
-Coal,32.0,-116.0,99.6,231.0,Mexico,True,False,309,1659,1,False,高优先级-标准复查
-OilGas,38.0,-106.0,99.6,790.0,United States of America,True,False,213,99203,7,False,高优先级-标准复查
+Li,46.0,-118.0,99.7,269.0,United States of America,True,False,529,99245,7,False,高优先级-标准复查
+REE,40.0,-118.0,99.7,281.0,United States of America,True,False,453,99245,7,False,高优先级-标准复查
+REE,32.0,-114.0,99.7,285.0,Mexico,True,False,456,1660,1,False,高优先级-标准复查
+REE,36.0,-120.0,99.7,228.0,United States of America,True,False,270,99245,7,False,高优先级-标准复查
+Coal,40.0,-118.0,99.7,224.0,United States of America,True,False,453,99245,7,False,高优先级-标准复查
+OilGas,32.0,-110.0,99.7,711.0,United States of America,True,False,800,99245,7,False,高优先级-标准复查
+Li,30.0,-116.0,99.6,328.0,,False,False,497,0,0,False,不可行-海上
+Li,44.0,-116.0,99.6,272.0,United States of America,True,False,799,99245,7,False,高优先级-标准复查
+REE,40.0,-122.0,99.6,286.0,United States of America,True,False,249,99245,7,False,高优先级-标准复查
+Coal,44.0,-120.0,99.6,234.0,United States of America,True,False,633,99245,7,False,高优先级-标准复查
+Coal,36.0,-112.0,99.6,240.0,United States of America,True,False,607,99245,7,False,高优先级-标准复查
+Coal,32.0,-116.0,99.6,231.0,Mexico,True,False,309,1660,1,False,高优先级-标准复查
+OilGas,38.0,-106.0,99.6,790.0,United States of America,True,False,213,99245,7,False,高优先级-标准复查
 OilGas,62.0,-2.0,99.6,327.0,,False,False,725,0,0,False,不可行-海上
-OilGas,36.0,-110.0,99.6,855.0,United States of America,True,False,605,99203,7,False,高优先级-标准复查
-OilGas,30.0,-108.0,99.6,551.0,Mexico,True,False,894,1659,1,False,高优先级-标准复查
+OilGas,36.0,-110.0,99.6,855.0,United States of America,True,False,605,99245,7,False,高优先级-标准复查
+OilGas,30.0,-108.0,99.6,551.0,Mexico,True,False,894,1660,1,False,高优先级-标准复查
 OilGas,60.0,0.0,99.6,226.0,,False,False,598,0,0,False,不可行-海上
 NiCo,-22.0,170.0,99.5,308.0,,False,False,506,0,0,False,不可行-海上
+Li,40.0,12.0,99.5,341.0,,False,False,215,0,0,False,不可行-海上
+Li,36.0,-122.0,99.5,276.0,,False,False,202,0,0,False,不可行-海上
 Li,42.0,-126.0,99.5,397.0,,False,False,560,0,0,False,不可行-海上
 Li,48.0,-126.0,99.5,377.0,,False,False,254,0,0,False,不可行-海上
-Li,40.0,-126.0,99.5,438.0,,False,False,397,0,0,False,不可行-海上
-REE,42.0,-116.0,99.5,266.0,United States of America,True,False,719,99203,7,False,高优先级-标准复查
-REE,38.0,-112.0,99.5,244.0,United States of America,True,False,637,99203,7,False,高优先级-标准复查
-Coal,36.0,-114.0,99.5,240.0,United States of America,True,False,442,99203,7,False,高优先级-标准复查
-Coal,42.0,-118.0,99.5,256.0,United States of America,True,False,600,99203,7,False,高优先级-标准复查
-Coal,46.0,-120.0,99.5,226.0,United States of America,True,False,433,99203,7,False,高优先级-标准复查
-OilGas,28.0,-110.0,99.5,822.0,Mexico,True,False,993,1659,1,False,高优先级-标准复查
+REE,42.0,-116.0,99.5,266.0,United States of America,True,False,719,99245,7,False,高优先级-标准复查
+REE,38.0,-112.0,99.5,244.0,United States of America,True,False,637,99245,7,False,高优先级-标准复查
+Coal,36.0,-114.0,99.5,240.0,United States of America,True,False,442,99245,7,False,高优先级-标准复查
+Coal,42.0,-118.0,99.5,256.0,United States of America,True,False,600,99245,7,False,高优先级-标准复查
+Coal,46.0,-120.0,99.5,226.0,United States of America,True,False,433,99245,7,False,高优先级-标准复查
+OilGas,28.0,-110.0,99.5,822.0,Mexico,True,False,993,1660,1,False,高优先级-标准复查
 OilGas,64.0,-12.0,99.5,875.0,,False,False,483,0,0,False,不可行-海上
 OilGas,64.0,-10.0,99.5,782.0,,False,False,580,0,0,False,不可行-海上
 OilGas,64.0,-14.0,99.5,969.0,,False,False,386,0,0,False,不可行-海上
-OilGas,28.0,-104.0,99.5,415.0,Mexico,True,False,447,1659,1,False,高优先级-标准复查
+OilGas,28.0,-104.0,99.5,415.0,Mexico,True,False,447,1660,1,False,高优先级-标准复查
 Au,-4.0,150.0,99.4,259.0,,False,False,682,0,0,False,不可行-海上
 NiCo,30.0,-116.0,99.4,274.0,,False,False,497,0,0,False,不可行-海上
+Li,40.0,10.0,99.4,306.0,,False,False,295,0,0,False,不可行-海上
+Li,40.0,-126.0,99.4,438.0,,False,False,397,0,0,False,不可行-海上
+Li,40.0,14.0,99.4,440.0,,False,False,247,0,0,False,不可行-海上
 Li,28.0,-112.0,99.4,392.0,,False,False,897,0,0,False,不可行-海上
-Li,36.0,-110.0,99.4,304.0,United States of America,True,False,605,99203,7,False,高优先级-标准复查
-Li,28.0,-114.0,99.4,411.0,Mexico,True,False,784,1659,1,False,高优先级-标准复查
-Li,46.0,-128.0,99.4,408.0,,False,False,516,0,0,False,不可行-海上
-REE,38.0,-116.0,99.4,262.0,United States of America,True,False,483,99203,7,False,高优先级-标准复查
-REE,32.0,-108.0,99.4,233.0,United States of America,True,False,902,99203,7,False,高优先级-标准复查
+REE,38.0,-116.0,99.4,262.0,United States of America,True,False,483,99245,7,False,高优先级-标准复查
+REE,32.0,-108.0,99.4,233.0,United States of America,True,False,902,99245,7,False,高优先级-标准复查
 REE,12.0,42.0,99.4,225.0,Djibouti,True,False,133,3,0,False,高优先级-标准复查
 REE,32.0,-118.0,99.4,273.0,,False,False,229,0,0,False,不可行-海上
-REE,34.0,-110.0,99.4,332.0,United States of America,True,False,758,99203,7,False,高优先级-标准复查
-Coal,40.0,-116.0,99.4,243.0,United States of America,True,False,606,99203,7,False,高优先级-标准复查
-Coal,36.0,-116.0,99.4,264.0,United States of America,True,False,297,99203,7,False,高优先级-标准复查
-Coal,32.0,-110.0,99.4,248.0,United States of America,True,False,800,99203,7,False,高优先级-标准复查
-Coal,40.0,-122.0,99.4,249.0,United States of America,True,False,249,99203,7,False,高优先级-标准复查
-Coal,40.0,-120.0,99.4,290.0,United States of America,True,False,322,99203,7,False,高优先级-标准复查
+REE,34.0,-110.0,99.4,332.0,United States of America,True,False,758,99245,7,False,高优先级-标准复查
+Coal,40.0,-116.0,99.4,243.0,United States of America,True,False,606,99245,7,False,高优先级-标准复查
+Coal,36.0,-116.0,99.4,264.0,United States of America,True,False,297,99245,7,False,高优先级-标准复查
+Coal,32.0,-110.0,99.4,248.0,United States of America,True,False,800,99245,7,False,高优先级-标准复查
+Coal,40.0,-122.0,99.4,249.0,United States of America,True,False,249,99245,7,False,高优先级-标准复查
+Coal,40.0,-120.0,99.4,290.0,United States of America,True,False,322,99245,7,False,高优先级-标准复查
 OilGas,64.0,-8.0,99.4,692.0,,False,False,676,0,0,False,不可行-海上
-OilGas,36.0,-112.0,99.4,1010.0,United States of America,True,False,607,99203,7,False,高优先级-标准复查
-OilGas,34.0,-112.0,99.4,930.0,United States of America,True,False,574,99203,7,False,高优先级-标准复查
+OilGas,36.0,-112.0,99.4,1010.0,United States of America,True,False,607,99245,7,False,高优先级-标准复查
+OilGas,34.0,-112.0,99.4,930.0,United States of America,True,False,574,99245,7,False,高优先级-标准复查
 OilGas,64.0,-16.0,99.4,1065.0,,False,False,289,0,0,False,不可行-海上
 OilGas,28.0,-112.0,99.4,996.0,,False,False,897,0,0,False,不可行-海上
 OilGas,62.0,-4.0,99.4,427.0,,False,False,827,0,0,False,不可行-海上
 NiCo,-4.0,148.0,99.3,355.0,,False,False,614,0,0,False,不可行-海上
-Li,44.0,-114.0,99.3,359.0,United States of America,True,False,883,99203,7,False,高优先级-标准复查
-Li,38.0,-126.0,99.3,410.0,,False,False,317,0,0,False,不可行-海上
-Li,44.0,-128.0,99.3,405.0,,False,False,694,0,0,False,不可行-海上
-REE,42.0,-124.0,99.3,335.0,United States of America,True,False,488,99203,7,False,高优先级-标准复查
-REE,46.0,-120.0,99.3,331.0,United States of America,True,False,433,99203,7,False,高优先级-标准复查
-REE,38.0,-118.0,99.3,356.0,United States of America,True,False,387,99203,7,False,高优先级-标准复查
-Coal,40.0,-124.0,99.3,269.0,United States of America,True,False,283,99203,7,False,高优先级-标准复查
+Li,36.0,-110.0,99.3,304.0,United States of America,True,False,605,99245,7,False,高优先级-标准复查
+Li,42.0,14.0,99.3,323.0,Italy,True,False,126,37,0,False,高优先级-标准复查
+Li,28.0,-114.0,99.3,411.0,Mexico,True,False,784,1660,1,False,高优先级-标准复查
+Li,44.0,-114.0,99.3,323.0,United States of America,True,False,883,99245,7,False,高优先级-标准复查
+Li,44.0,8.0,99.3,226.0,Italy,True,False,56,37,0,False,高优先级-标准复查
+Li,46.0,-128.0,99.3,408.0,,False,False,516,0,0,False,不可行-海上
+REE,42.0,-124.0,99.3,335.0,United States of America,True,False,488,99245,7,False,高优先级-标准复查
+REE,46.0,-120.0,99.3,331.0,United States of America,True,False,433,99245,7,False,高优先级-标准复查
+REE,38.0,-118.0,99.3,356.0,United States of America,True,False,387,99245,7,False,高优先级-标准复查
+Coal,40.0,-124.0,99.3,269.0,United States of America,True,False,283,99245,7,False,高优先级-标准复查
 Coal,34.0,-120.0,99.3,243.0,,False,False,163,0,0,False,不可行-海上
-Coal,46.0,-118.0,99.3,274.0,United States of America,True,False,529,99203,7,False,高优先级-标准复查
+Coal,46.0,-118.0,99.3,274.0,United States of America,True,False,529,99245,7,False,高优先级-标准复查
 Coal,46.0,-126.0,99.3,288.0,,False,False,423,0,0,False,不可行-海上
 Coal,44.0,-128.0,99.3,318.0,,False,False,694,0,0,False,不可行-海上
-Coal,34.0,-114.0,99.3,315.0,United States of America,True,False,390,99203,7,False,高优先级-标准复查
-Coal,34.0,-106.0,99.3,332.0,United States of America,True,False,645,99203,7,False,高优先级-标准复查
-Coal,32.0,-108.0,99.3,307.0,United States of America,True,False,902,99203,7,False,高优先级-标准复查
-OilGas,38.0,-108.0,99.3,880.0,United States of America,True,False,325,99203,7,False,高优先级-标准复查
-OilGas,28.0,-108.0,99.3,658.0,Mexico,True,False,803,1659,1,False,高优先级-标准复查
-OilGas,40.0,-106.0,99.3,996.0,United States of America,True,False,91,99203,7,False,高优先级-标准复查
-OilGas,38.0,-104.0,99.3,736.0,United States of America,True,False,212,99203,7,False,高优先级-标准复查
+Coal,34.0,-114.0,99.3,315.0,United States of America,True,False,390,99245,7,False,高优先级-标准复查
+Coal,34.0,-106.0,99.3,332.0,United States of America,True,False,645,99245,7,False,高优先级-标准复查
+Coal,32.0,-108.0,99.3,307.0,United States of America,True,False,902,99245,7,False,高优先级-标准复查
+OilGas,38.0,-108.0,99.3,880.0,United States of America,True,False,325,99245,7,False,高优先级-标准复查
+OilGas,28.0,-108.0,99.3,658.0,Mexico,True,False,803,1660,1,False,高优先级-标准复查
+OilGas,40.0,-106.0,99.3,996.0,United States of America,True,False,91,99245,7,False,高优先级-标准复查
+OilGas,38.0,-104.0,99.3,736.0,United States of America,True,False,212,99245,7,False,高优先级-标准复查
 OilGas,64.0,-6.0,99.3,605.0,,False,False,773,0,0,False,不可行-海上
 OilGas,20.0,-94.0,99.3,231.0,,False,False,541,0,0,False,不可行-海上
 OilGas,66.0,-16.0,99.3,1125.0,Iceland,True,False,346,3,0,False,高优先级-标准复查
 OilGas,66.0,-14.0,99.3,1041.0,,False,False,425,0,0,False,不可行-海上
-NiCo,28.0,-110.0,99.2,240.0,Mexico,True,False,993,1659,1,False,高优先级-标准复查
-Li,46.0,6.0,99.2,256.0,France,True,False,26,272,0,False,高优先级-标准复查
-Li,28.0,-110.0,99.2,377.0,Mexico,True,False,993,1659,1,False,高优先级-标准复查
-Li,2.0,-78.0,99.2,238.0,Colombia,True,False,252,716,0,False,高优先级-标准复查
-Li,44.0,4.0,99.2,268.0,France,True,False,260,272,0,False,高优先级-标准复查
-REE,32.0,-112.0,99.2,316.0,United States of America,True,False,624,99203,7,False,高优先级-标准复查
-REE,38.0,-110.0,99.2,260.0,United States of America,True,False,475,99203,7,False,高优先级-标准复查
-Coal,34.0,-104.0,99.2,327.0,United States of America,True,False,644,99203,7,False,高优先级-标准复查
-Coal,38.0,-102.0,99.2,255.0,United States of America,True,False,323,99203,7,False,高优先级-标准复查
+NiCo,28.0,-110.0,99.2,238.0,Mexico,True,False,993,1660,1,False,高优先级-标准复查
+Li,38.0,-126.0,99.2,410.0,,False,False,317,0,0,False,不可行-海上
+Li,44.0,-128.0,99.2,405.0,,False,False,694,0,0,False,不可行-海上
+Li,38.0,12.0,99.2,550.0,,False,False,209,0,0,False,不可行-海上
+REE,32.0,-112.0,99.2,316.0,United States of America,True,False,624,99245,7,False,高优先级-标准复查
+REE,38.0,-110.0,99.2,260.0,United States of America,True,False,475,99245,7,False,高优先级-标准复查
+Coal,34.0,-104.0,99.2,327.0,United States of America,True,False,644,99245,7,False,高优先级-标准复查
+Coal,38.0,-102.0,99.2,255.0,United States of America,True,False,323,99245,7,False,高优先级-标准复查
 OilGas,64.0,-4.0,99.2,524.0,,False,False,869,0,0,False,不可行-海上
-OilGas,60.0,8.0,99.2,256.0,Norway,True,False,153,148,1,False,高优先级-标准复查
+OilGas,60.0,8.0,99.2,256.0,Norway,True,False,153,156,1,False,高优先级-标准复查
 OilGas,58.0,4.0,99.2,323.0,,False,False,442,0,0,False,不可行-海上
 OilGas,64.0,-2.0,99.2,452.0,,False,False,804,0,0,False,不可行-海上
-OilGas,68.0,-152.0,99.2,224.0,United States of America,True,False,2619,99203,7,False,高优先级-标准复查
-OilGas,28.0,-102.0,99.2,392.0,Mexico,True,False,307,1659,1,False,高优先级-标准复查
+OilGas,68.0,-152.0,99.2,224.0,United States of America,True,False,2619,99245,7,False,高优先级-标准复查
+OilGas,28.0,-102.0,99.2,392.0,Mexico,True,False,307,1660,1,False,高优先级-标准复查
 OilGas,-24.0,-42.0,99.2,225.0,,False,False,173,0,0,False,不可行-海上
-OilGas,40.0,-108.0,99.2,1067.0,United States of America,True,False,259,99203,7,False,高优先级-标准复查
+OilGas,40.0,-108.0,99.2,1067.0,United States of America,True,False,259,99245,7,False,高优先级-标准复查
 OilGas,26.0,54.0,99.2,229.0,,False,False,156,0,0,False,不可行-海上
 OilGas,64.0,-18.0,99.2,1161.0,Iceland,True,False,192,3,0,False,高优先级-标准复查
-OilGas,30.0,-110.0,99.2,736.0,Mexico,True,False,897,1659,1,False,高优先级-标准复查
-OilGas,26.0,-112.0,99.2,1109.0,Mexico,True,False,1077,1659,1,False,高优先级-标准复查
-Au,20.0,-104.0,99.1,271.0,Mexico,True,False,513,1659,1,False,高优先级-标准复查
+OilGas,30.0,-110.0,99.2,736.0,Mexico,True,False,897,1660,1,False,高优先级-标准复查
+OilGas,26.0,-112.0,99.2,1109.0,Mexico,True,False,1077,1660,1,False,高优先级-标准复查
+Au,20.0,-104.0,99.1,271.0,Mexico,True,False,513,1660,1,False,高优先级-标准复查
 NiCo,46.0,-126.0,99.1,267.0,,False,False,423,0,0,False,不可行-海上
 NiCo,42.0,-128.0,99.1,307.0,,False,False,669,0,0,False,不可行-海上
 NiCo,26.0,-110.0,99.1,245.0,,False,False,968,0,0,False,不可行-海上
 NiCo,-20.0,170.0,99.1,396.0,,False,False,308,0,0,False,不可行-海上
-Li,48.0,-116.0,99.1,280.0,United States of America,True,False,542,99203,7,False,高优先级-标准复查
-Li,2.0,-80.0,99.1,280.0,,False,False,297,0,0,False,不可行-海上
-Li,46.0,-116.0,99.1,394.0,United States of America,True,False,646,99203,7,False,高优先级-标准复查
-Li,48.0,-128.0,99.1,517.0,,False,False,385,0,0,False,不可行-海上
-Li,36.0,-124.0,99.1,358.0,,False,False,244,0,0,False,不可行-海上
-REE,0.0,32.0,99.1,250.0,Uganda,True,False,74,33,0,False,高优先级-标准复查
+Li,44.0,4.0,99.1,257.0,France,True,False,260,274,0,False,高优先级-标准复查
+Li,44.0,-112.0,99.1,311.0,United States of America,True,False,749,99245,7,False,高优先级-标准复查
+Li,38.0,14.0,99.1,618.0,Italy,True,False,238,37,0,False,高优先级-标准复查
+Li,28.0,-110.0,99.1,377.0,Mexico,True,False,993,1660,1,False,高优先级-标准复查
+Li,2.0,-78.0,99.1,238.0,Colombia,True,False,252,717,0,False,高优先级-标准复查
+REE,0.0,32.0,99.1,250.0,Uganda,True,False,74,34,0,False,高优先级-标准复查
 U,30.0,-114.0,99.1,244.0,,False,False,601,0,0,False,不可行-海上
 U,28.0,-112.0,99.1,229.0,,False,False,897,0,0,False,不可行-海上
-Coal,32.0,-112.0,99.1,299.0,United States of America,True,False,624,99203,7,False,高优先级-标准复查
+Coal,32.0,-112.0,99.1,299.0,United States of America,True,False,624,99245,7,False,高优先级-标准复查
 Coal,42.0,-128.0,99.1,343.0,,False,False,669,0,0,False,不可行-海上
 OilGas,64.0,0.0,99.1,394.0,,False,False,721,0,0,False,不可行-海上
 OilGas,30.0,-114.0,99.1,1111.0,,False,False,601,0,0,False,不可行-海上
 OilGas,66.0,-12.0,99.1,960.0,,False,False,509,0,0,False,不可行-海上
-OilGas,38.0,-112.0,99.1,1128.0,United States of America,True,False,637,99203,7,False,高优先级-标准复查
+OilGas,38.0,-112.0,99.1,1128.0,United States of America,True,False,637,99245,7,False,高优先级-标准复查
 OilGas,66.0,-18.0,99.1,1210.0,Iceland,True,False,277,3,0,False,高优先级-标准复查
-OilGas,62.0,8.0,99.1,259.0,Norway,True,False,275,148,1,False,高优先级-标准复查
+OilGas,62.0,8.0,99.1,259.0,Norway,True,False,275,156,1,False,高优先级-标准复查
 OilGas,22.0,-92.0,99.1,246.0,,False,False,627,0,0,False,不可行-海上
-OilGas,28.0,-106.0,99.1,515.0,Mexico,True,False,619,1659,1,False,高优先级-标准复查
+OilGas,28.0,-106.0,99.1,515.0,Mexico,True,False,619,1660,1,False,高优先级-标准复查
 OilGas,72.0,-150.0,99.1,245.0,,False,False,2865,0,0,False,不可行-海上
 OilGas,64.0,-20.0,99.1,1258.0,Iceland,True,False,95,3,0,False,高优先级-标准复查
 NiCo,48.0,-128.0,99.0,350.0,,False,False,385,0,0,False,不可行-海上
-Li,30.0,-118.0,99.0,366.0,,False,False,451,0,0,False,不可行-海上
-Li,34.0,-120.0,99.0,246.0,,False,False,163,0,0,False,不可行-海上
-Li,34.0,-104.0,99.0,248.0,United States of America,True,False,644,99203,7,False,高优先级-标准复查
-Li,44.0,-112.0,99.0,348.0,United States of America,True,False,749,99203,7,False,高优先级-标准复查
-Li,44.0,-110.0,99.0,248.0,United States of America,True,False,630,99203,7,False,高优先级-标准复查
-Li,0.0,-82.0,99.0,380.0,,False,False,390,0,0,False,不可行-海上
-REE,42.0,-108.0,99.0,236.0,United States of America,True,False,357,99203,7,False,高优先级-标准复查
+Li,48.0,-116.0,99.0,280.0,United States of America,True,False,542,99245,7,False,高优先级-标准复查
+Li,48.0,8.0,99.0,228.0,Germany,True,False,127,195,0,False,高优先级-标准复查
+Li,2.0,-80.0,99.0,280.0,,False,False,297,0,0,False,不可行-海上
+REE,42.0,-108.0,99.0,236.0,United States of America,True,False,357,99245,7,False,高优先级-标准复查
 REE,4.0,36.0,99.0,304.0,Kenya,True,False,499,22,0,False,高优先级-标准复查
-REE,4.0,34.0,99.0,255.0,Uganda,True,False,284,33,0,False,高优先级-标准复查
-REE,38.0,-120.0,99.0,422.0,United States of America,True,False,212,99203,7,False,高优先级-标准复查
-REE,40.0,-110.0,99.0,268.0,United States of America,True,False,429,99203,7,False,高优先级-标准复查
-REE,44.0,-124.0,99.0,394.0,United States of America,True,False,590,99203,7,False,高优先级-标准复查
+REE,4.0,34.0,99.0,255.0,Uganda,True,False,284,34,0,False,高优先级-标准复查
+REE,38.0,-120.0,99.0,422.0,United States of America,True,False,212,99245,7,False,高优先级-标准复查
+REE,40.0,-110.0,99.0,268.0,United States of America,True,False,429,99245,7,False,高优先级-标准复查
+REE,44.0,-124.0,99.0,394.0,United States of America,True,False,590,99245,7,False,高优先级-标准复查
 REE,-2.0,38.0,99.0,309.0,Kenya,True,False,154,22,0,False,高优先级-标准复查
 REE,0.0,38.0,99.0,316.0,Kenya,True,False,194,22,0,False,高优先级-标准复查
 U,42.0,-126.0,99.0,243.0,,False,False,560,0,0,False,不可行-海上
-Coal,40.0,-102.0,99.0,274.0,United States of America,True,False,256,99203,7,False,高优先级-标准复查
-OilGas,68.0,-146.0,99.0,244.0,United States of America,True,False,2435,99203,7,False,高优先级-标准复查
+Coal,40.0,-102.0,99.0,274.0,United States of America,True,False,256,99245,7,False,高优先级-标准复查
+OilGas,68.0,-146.0,99.0,244.0,United States of America,True,False,2435,99245,7,False,高优先级-标准复查
 OilGas,64.0,2.0,99.0,356.0,,False,False,643,0,0,False,不可行-海上
 OilGas,58.0,6.0,99.0,348.0,,False,False,346,0,0,False,不可行-海上
-OilGas,70.0,-156.0,99.0,249.0,United States of America,True,False,2880,99203,7,False,高优先级-标准复查
+OilGas,70.0,-156.0,99.0,249.0,United States of America,True,False,2880,99245,7,False,高优先级-标准复查
 OilGas,72.0,-148.0,99.0,251.0,,False,False,2819,0,0,False,不可行-海上
 OilGas,26.0,-110.0,99.0,953.0,,False,False,968,0,0,False,不可行-海上
 OilGas,60.0,-2.0,99.0,328.0,,False,False,709,0,0,False,不可行-海上
-OilGas,28.0,-114.0,99.0,1176.0,Mexico,True,False,784,1659,1,False,高优先级-标准复查
-OilGas,36.0,-114.0,99.0,1174.0,United States of America,True,False,442,99203,7,False,高优先级-标准复查
+OilGas,28.0,-114.0,99.0,1176.0,Mexico,True,False,784,1660,1,False,高优先级-标准复查
+OilGas,36.0,-114.0,99.0,1174.0,United States of America,True,False,442,99245,7,False,高优先级-标准复查
 OilGas,62.0,-6.0,99.0,529.0,,False,False,835,0,0,False,不可行-海上
 OilGas,58.0,2.0,99.0,336.0,,False,False,545,0,0,False,不可行-海上
 OilGas,70.0,-8.0,99.0,1143.0,,False,False,884,0,0,False,不可行-海上
 NiCo,-6.0,148.0,98.9,316.0,,False,False,395,0,0,False,不可行-海上
-Li,44.0,2.0,98.9,254.0,France,True,False,170,272,0,False,高优先级-标准复查
-Li,38.0,-110.0,98.9,300.0,United States of America,True,False,475,99203,7,False,高优先级-标准复查
-Li,-2.0,-82.0,98.9,344.0,,False,False,437,0,0,False,不可行-海上
-REE,36.0,-110.0,98.9,361.0,United States of America,True,False,605,99203,7,False,高优先级-标准复查
-REE,8.0,42.0,98.9,257.0,Ethiopia,True,False,286,56,0,False,高优先级-标准复查
-REE,46.0,-110.0,98.9,242.0,United States of America,True,False,807,99203,7,False,高优先级-标准复查
+Li,46.0,-116.0,98.9,394.0,United States of America,True,False,646,99245,7,False,高优先级-标准复查
+Li,44.0,6.0,98.9,308.0,France,True,False,116,274,0,False,高优先级-标准复查
+Li,48.0,-128.0,98.9,517.0,,False,False,385,0,0,False,不可行-海上
+Li,36.0,-124.0,98.9,358.0,,False,False,244,0,0,False,不可行-海上
+Li,44.0,2.0,98.9,225.0,France,True,False,170,274,0,False,高优先级-标准复查
+REE,36.0,-110.0,98.9,361.0,United States of America,True,False,605,99245,7,False,高优先级-标准复查
+REE,8.0,42.0,98.9,257.0,Ethiopia,True,False,286,58,0,False,高优先级-标准复查
+REE,46.0,-110.0,98.9,242.0,United States of America,True,False,807,99245,7,False,高优先级-标准复查
 U,46.0,-126.0,98.9,234.0,,False,False,423,0,0,False,不可行-海上
-Coal,32.0,-102.0,98.9,291.0,United States of America,True,False,683,99203,7,False,高优先级-标准复查
+Coal,32.0,-102.0,98.9,291.0,United States of America,True,False,683,99245,7,False,高优先级-标准复查
 Coal,36.0,-124.0,98.9,270.0,,False,False,244,0,0,False,不可行-海上
 OilGas,50.0,6.0,98.9,1220.0,Luxembourg,True,False,44,4,0,False,高优先级-标准复查
 OilGas,-26.0,-46.0,98.9,256.0,,False,False,279,0,0,False,不可行-海上
@@ -420,27 +420,26 @@ OilGas,64.0,-22.0,98.9,1356.0,Iceland,True,False,16,3,0,False,高优先级-标�
 OilGas,66.0,-10.0,98.9,883.0,,False,False,595,0,0,False,不可行-海上
 OilGas,72.0,-152.0,98.9,261.0,,False,False,2913,0,0,False,不可行-海上
 OilGas,70.0,-6.0,98.9,1104.0,,False,False,944,0,0,False,不可行-海上
-OilGas,30.0,-112.0,98.9,923.0,Mexico,True,False,740,1659,1,False,高优先级-标准复查
+OilGas,30.0,-112.0,98.9,923.0,Mexico,True,False,740,1660,1,False,高优先级-标准复查
 OilGas,16.0,42.0,98.9,1312.0,,False,False,247,0,0,False,不可行-海上
 NiCo,40.0,12.0,98.8,310.0,,False,False,215,0,0,False,不可行-海上
 NiCo,38.0,-126.0,98.8,261.0,,False,False,317,0,0,False,不可行-海上
-NiCo,20.0,-104.0,98.8,271.0,Mexico,True,False,513,1659,1,False,高优先级-标准复查
+NiCo,20.0,-104.0,98.8,271.0,Mexico,True,False,513,1660,1,False,高优先级-标准复查
 NiCo,44.0,-128.0,98.8,345.0,,False,False,694,0,0,False,不可行-海上
-Li,42.0,-110.0,98.8,227.0,United States of America,True,False,491,99203,7,False,高优先级-标准复查
-Li,-16.0,-72.0,98.8,265.0,Peru,True,False,414,1828,0,False,高优先级-标准复查
-Li,44.0,6.0,98.8,358.0,France,True,False,116,272,0,False,高优先级-标准复查
-Li,32.0,-106.0,98.8,360.0,United States of America,True,False,866,99203,7,False,高优先级-标准复查
-Li,40.0,-110.0,98.8,250.0,United States of America,True,False,429,99203,7,False,高优先级-标准复查
-Li,46.0,12.0,98.8,246.0,Italy,True,False,194,35,0,False,高优先级-标准复查
-Li,30.0,-108.0,98.8,282.0,Mexico,True,False,894,1659,1,False,高优先级-标准复查
-REE,48.0,-120.0,98.8,285.0,United States of America,True,False,270,99203,7,False,高优先级-标准复查
-REE,2.0,32.0,98.8,274.0,Uganda,True,False,198,33,0,False,高优先级-标准复查
-REE,-6.0,36.0,98.8,235.0,Tanzania,True,False,34,59,1,False,高优先级-标准复查
-REE,-6.0,34.0,98.8,229.0,Tanzania,True,False,195,59,1,False,高优先级-标准复查
-REE,10.0,40.0,98.8,338.0,Ethiopia,True,False,179,56,0,False,高优先级-标准复查
-REE,34.0,-102.0,98.8,228.0,United States of America,True,False,691,99203,7,False,高优先级-标准复查
+Li,30.0,-118.0,98.8,366.0,,False,False,451,0,0,False,不可行-海上
+Li,34.0,-120.0,98.8,246.0,,False,False,163,0,0,False,不可行-海上
+Li,34.0,-104.0,98.8,248.0,United States of America,True,False,644,99245,7,False,高优先级-标准复查
+Li,44.0,-110.0,98.8,248.0,United States of America,True,False,630,99245,7,False,高优先级-标准复查
+Li,48.0,10.0,98.8,243.0,Germany,True,False,103,195,0,False,高优先级-标准复查
+Li,0.0,-82.0,98.8,380.0,,False,False,390,0,0,False,不可行-海上
+REE,48.0,-120.0,98.8,285.0,United States of America,True,False,270,99245,7,False,高优先级-标准复查
+REE,2.0,32.0,98.8,274.0,Uganda,True,False,198,34,0,False,高优先级-标准复查
+REE,-6.0,36.0,98.8,235.0,Tanzania,True,False,34,62,1,False,高优先级-标准复查
+REE,-6.0,34.0,98.8,229.0,Tanzania,True,False,195,62,1,False,高优先级-标准复查
+REE,10.0,40.0,98.8,338.0,Ethiopia,True,False,179,58,0,False,高优先级-标准复查
+REE,34.0,-102.0,98.8,228.0,United States of America,True,False,691,99245,7,False,高优先级-标准复查
 U,12.0,42.0,98.8,226.0,Djibouti,True,False,133,3,0,False,高优先级-标准复查
-Coal,30.0,-102.0,98.8,260.0,United States of America,True,False,508,99203,7,False,高优先级-标准复查
+Coal,30.0,-102.0,98.8,260.0,United States of America,True,False,508,99245,7,False,高优先级-标准复查
 OilGas,50.0,8.0,98.8,1241.0,Germany,True,False,141,195,0,False,高优先级-标准复查
 OilGas,66.0,-20.0,98.8,1297.0,,False,False,225,0,0,False,不可行-海上
 OilGas,28.0,54.0,98.8,267.0,Iran,True,False,335,424,1,False,高优先级-标准复查
@@ -449,37 +448,34 @@ OilGas,46.0,-130.0,98.8,2856.0,,False,False,631,0,0,False,不可行-海上
 OilGas,4.0,36.0,98.8,2791.0,Kenya,True,False,499,22,0,False,高优先级-标准复查
 OilGas,-46.0,50.0,98.8,8256.0,,False,False,2697,0,0,False,不可行-海上
 OilGas,0.0,36.0,98.8,3185.0,Kenya,True,False,169,22,0,False,高优先级-标准复查
-OilGas,4.0,38.0,98.8,2687.0,Ethiopia,True,False,565,56,0,False,高优先级-标准复查
+OilGas,4.0,38.0,98.8,2687.0,Ethiopia,True,False,565,58,0,False,高优先级-标准复查
 OilGas,38.0,-26.0,98.8,3274.0,,False,False,1470,0,0,False,不可行-海上
 Au,18.0,-104.0,98.7,284.0,,False,False,537,0,0,False,不可行-海上
 NiCo,12.0,42.0,98.7,264.0,Djibouti,True,False,133,3,0,False,高优先级-标准复查
 NiCo,40.0,-128.0,98.7,369.0,,False,False,544,0,0,False,不可行-海上
-NiCo,46.0,6.0,98.7,255.0,France,True,False,26,272,0,False,高优先级-标准复查
+NiCo,46.0,6.0,98.7,255.0,France,True,False,26,274,0,False,高优先级-标准复查
 NiCo,4.0,36.0,98.7,270.0,Kenya,True,False,499,22,0,False,高优先级-标准复查
-Li,42.0,-128.0,98.7,511.0,,False,False,669,0,0,False,不可行-海上
-Li,2.0,30.0,98.7,249.0,Dem. Rep. Congo,True,False,342,3,0,False,高优先级-标准复查
-Li,0.0,-76.0,98.7,262.0,Ecuador,True,False,279,405,0,False,高优先级-标准复查
-Li,0.0,28.0,98.7,231.0,Dem. Rep. Congo,True,False,315,3,0,False,高优先级-标准复查
-Li,28.0,-116.0,98.7,489.0,,False,False,705,0,0,False,不可行-海上
-REE,-12.0,32.0,98.7,223.0,Zambia,True,False,293,216,1,False,高优先级-标准复查
+Li,38.0,-110.0,98.7,300.0,United States of America,True,False,475,99245,7,False,高优先级-标准复查
+Li,-2.0,-82.0,98.7,344.0,,False,False,437,0,0,False,不可行-海上
+REE,-12.0,32.0,98.7,223.0,Zambia,True,False,293,226,1,False,高优先级-标准复查
 REE,-2.0,40.0,98.7,289.0,Kenya,True,False,363,22,0,False,高优先级-标准复查
 REE,52.0,-130.0,98.7,354.0,,False,False,571,0,0,False,不可行-海上
 REE,36.0,-122.0,98.7,372.0,,False,False,202,0,0,False,不可行-海上
-U,40.0,-124.0,98.7,246.0,United States of America,True,False,283,99203,7,False,高优先级-标准复查
+U,40.0,-124.0,98.7,246.0,United States of America,True,False,283,99245,7,False,高优先级-标准复查
 Coal,32.0,-120.0,98.7,310.0,,False,False,281,0,0,False,不可行-海上
-Coal,36.0,-102.0,98.7,311.0,United States of America,True,False,492,99203,7,False,高优先级-标准复查
+Coal,36.0,-102.0,98.7,311.0,United States of America,True,False,492,99245,7,False,高优先级-标准复查
 OilGas,0.0,38.0,98.7,3093.0,Kenya,True,False,194,22,0,False,高优先级-标准复查
 OilGas,-8.0,-108.0,98.7,3564.0,,False,False,3169,0,0,False,不可行-海上
 OilGas,70.0,-10.0,98.7,1187.0,,False,False,829,0,0,False,不可行-海上
 OilGas,44.0,-130.0,98.7,2769.0,,False,False,787,0,0,False,不可行-海上
-OilGas,12.0,40.0,98.7,1802.0,Ethiopia,True,False,346,56,0,False,高优先级-标准复查
+OilGas,12.0,40.0,98.7,1802.0,Ethiopia,True,False,346,58,0,False,高优先级-标准复查
 OilGas,14.0,42.0,98.7,1499.0,,False,False,281,0,0,False,不可行-海上
 OilGas,10.0,-104.0,98.7,1703.0,,False,False,1173,0,0,False,不可行-海上
 OilGas,-38.0,78.0,98.7,7661.0,,False,False,2798,0,0,False,不可行-海上
-OilGas,14.0,40.0,98.7,1618.0,Ethiopia,True,False,187,56,0,False,高优先级-标准复查
+OilGas,14.0,40.0,98.7,1618.0,Ethiopia,True,False,187,58,0,False,高优先级-标准复查
 OilGas,2.0,38.0,98.7,2889.0,Kenya,True,False,388,22,0,False,高优先级-标准复查
 OilGas,0.0,-90.0,98.7,2210.0,,False,False,1279,0,0,False,不可行-海上
-OilGas,34.0,-116.0,98.7,1292.0,United States of America,True,False,206,99203,7,False,高优先级-标准复查
+OilGas,34.0,-116.0,98.7,1292.0,United States of America,True,False,206,99245,7,False,高优先级-标准复查
 Cu,40.0,12.0,98.6,253.0,,False,False,215,0,0,False,不可行-海上
 Cu,22.0,-106.0,98.6,228.0,,False,False,706,0,0,False,不可行-海上
 NiCo,-2.0,28.0,98.6,248.0,Dem. Rep. Congo,True,False,215,3,0,False,高优先级-标准复查
@@ -487,195 +483,195 @@ NiCo,-2.0,146.0,98.6,402.0,,False,False,840,0,0,False,不可行-海上
 NiCo,0.0,38.0,98.6,282.0,Kenya,True,False,194,22,0,False,高优先级-标准复查
 NiCo,-18.0,168.0,98.6,306.0,,False,False,45,0,0,False,不可行-海上
 NiCo,0.0,28.0,98.6,223.0,Dem. Rep. Congo,True,False,315,3,0,False,高优先级-标准复查
-NiCo,12.0,44.0,98.6,247.0,,False,False,103,0,0,False,不可行-海上
-Li,44.0,14.0,98.6,324.0,,False,False,125,0,0,False,不可行-海上
-Li,48.0,6.0,98.6,318.0,France,True,False,163,272,0,False,高优先级-标准复查
-Li,32.0,-120.0,98.6,313.0,,False,False,281,0,0,False,不可行-海上
-Li,48.0,12.0,98.6,259.0,Germany,True,False,210,195,0,False,高优先级-标准复查
-Li,-2.0,32.0,98.6,224.0,Tanzania,True,False,216,59,1,False,高优先级-标准复查
-Li,-8.0,36.0,98.6,232.0,Tanzania,True,False,204,59,1,False,高优先级-标准复查
-Li,-8.0,34.0,98.6,311.0,Tanzania,True,False,279,59,1,False,高优先级-标准复查
+Li,42.0,-110.0,98.6,227.0,United States of America,True,False,491,99245,7,False,高优先级-标准复查
+Li,-16.0,-72.0,98.6,265.0,Peru,True,False,414,1828,0,False,高优先级-标准复查
+Li,32.0,-106.0,98.6,360.0,United States of America,True,False,866,99245,7,False,高优先级-标准复查
+Li,46.0,12.0,98.6,244.0,Italy,True,False,194,37,0,False,高优先级-标准复查
+Li,40.0,-110.0,98.6,250.0,United States of America,True,False,429,99245,7,False,高优先级-标准复查
+Li,30.0,-108.0,98.6,282.0,Mexico,True,False,894,1660,1,False,高优先级-标准复查
+Li,42.0,-128.0,98.6,511.0,,False,False,669,0,0,False,不可行-海上
 REE,30.0,-116.0,98.6,447.0,,False,False,497,0,0,False,不可行-海上
-REE,-2.0,32.0,98.6,284.0,Tanzania,True,False,216,59,1,False,高优先级-标准复查
+REE,-2.0,32.0,98.6,284.0,Tanzania,True,False,216,62,1,False,高优先级-标准复查
 REE,30.0,-114.0,98.6,483.0,,False,False,601,0,0,False,不可行-海上
 REE,68.0,-28.0,98.6,222.0,,False,False,508,0,0,False,不可行-海上
 REE,52.0,-132.0,98.6,324.0,,False,False,695,0,0,False,不可行-海上
-REE,40.0,-124.0,98.6,409.0,United States of America,True,False,283,99203,7,False,高优先级-标准复查
+REE,40.0,-124.0,98.6,409.0,United States of America,True,False,283,99245,7,False,高优先级-标准复查
 Coal,40.0,-126.0,98.6,372.0,,False,False,397,0,0,False,不可行-海上
-Coal,32.0,-114.0,98.6,370.0,Mexico,True,False,456,1659,1,False,高优先级-标准复查
-Coal,20.0,-104.0,98.6,326.0,Mexico,True,False,513,1659,1,False,高优先级-标准复查
-Coal,48.0,-114.0,98.6,300.0,United States of America,True,False,685,99203,7,False,高优先级-标准复查
-OilGas,8.0,38.0,98.6,2296.0,Ethiopia,True,False,138,56,0,False,高优先级-标准复查
+Coal,32.0,-114.0,98.6,370.0,Mexico,True,False,456,1660,1,False,高优先级-标准复查
+Coal,20.0,-104.0,98.6,326.0,Mexico,True,False,513,1660,1,False,高优先级-标准复查
+Coal,48.0,-114.0,98.6,300.0,United States of America,True,False,685,99245,7,False,高优先级-标准复查
+OilGas,8.0,38.0,98.6,2296.0,Ethiopia,True,False,138,58,0,False,高优先级-标准复查
 OilGas,-8.0,-14.0,98.6,3679.0,,False,False,1631,0,0,False,不可行-海上
 Cu,20.0,-106.0,98.5,294.0,,False,False,721,0,0,False,不可行-海上
+NiCo,12.0,44.0,98.5,247.0,,False,False,103,0,0,False,不可行-海上
 NiCo,40.0,14.0,98.5,349.0,,False,False,247,0,0,False,不可行-海上
 NiCo,2.0,38.0,98.5,293.0,Kenya,True,False,388,22,0,False,高优先级-标准复查
-NiCo,8.0,38.0,98.5,295.0,Ethiopia,True,False,138,56,0,False,高优先级-标准复查
-Li,-2.0,-76.0,98.5,281.0,Peru,True,False,342,1828,0,False,高优先级-标准复查
-Li,2.0,-76.0,98.5,352.0,Colombia,True,False,359,716,0,False,高优先级-标准复查
-Li,-32.0,-70.0,98.5,307.0,Argentina,True,False,171,1092,1,False,高优先级-标准复查
-Li,-4.0,38.0,98.5,317.0,Tanzania,True,False,330,59,1,False,高优先级-标准复查
-Li,40.0,-128.0,98.5,600.0,,False,False,544,0,0,False,不可行-海上
-Li,-14.0,-70.0,98.5,323.0,Peru,True,False,341,1828,0,False,高优先级-标准复查
-Li,0.0,36.0,98.5,348.0,Kenya,True,False,169,22,0,False,高优先级-标准复查
-REE,48.0,-122.0,98.5,328.0,United States of America,True,False,164,99203,7,False,高优先级-标准复查
-REE,-4.0,36.0,98.5,365.0,Tanzania,True,False,244,59,1,False,高优先级-标准复查
-REE,32.0,-110.0,98.5,421.0,United States of America,True,False,800,99203,7,False,高优先级-标准复查
-Coal,48.0,-106.0,98.5,256.0,United States of America,True,False,922,99203,7,False,高优先级-标准复查
-Coal,48.0,-124.0,98.5,346.0,United States of America,True,False,156,99203,7,False,高优先级-标准复查
+NiCo,8.0,38.0,98.5,295.0,Ethiopia,True,False,138,58,0,False,高优先级-标准复查
+Li,2.0,30.0,98.5,249.0,Dem. Rep. Congo,True,False,342,3,0,False,高优先级-标准复查
+Li,0.0,-76.0,98.5,262.0,Ecuador,True,False,279,405,0,False,高优先级-标准复查
+Li,0.0,28.0,98.5,231.0,Dem. Rep. Congo,True,False,315,3,0,False,高优先级-标准复查
+Li,40.0,8.0,98.5,357.0,,False,False,403,0,0,False,不可行-海上
+Li,28.0,-116.0,98.5,489.0,,False,False,705,0,0,False,不可行-海上
+Li,48.0,6.0,98.5,302.0,France,True,False,163,274,0,False,高优先级-标准复查
+REE,48.0,-122.0,98.5,328.0,United States of America,True,False,164,99245,7,False,高优先级-标准复查
+REE,-4.0,36.0,98.5,365.0,Tanzania,True,False,244,62,1,False,高优先级-标准复查
+REE,32.0,-110.0,98.5,421.0,United States of America,True,False,800,99245,7,False,高优先级-标准复查
+Coal,48.0,-106.0,98.5,256.0,United States of America,True,False,922,99245,7,False,高优先级-标准复查
+Coal,48.0,-124.0,98.5,346.0,United States of America,True,False,156,99245,7,False,高优先级-标准复查
 Coal,44.0,18.0,98.5,224.0,Bosnia and Herz.,True,False,35,3,0,False,高优先级-标准复查
-Coal,28.0,-104.0,98.5,268.0,Mexico,True,False,447,1659,1,False,高优先级-标准复查
-Coal,30.0,-108.0,98.5,323.0,Mexico,True,False,894,1659,1,False,高优先级-标准复查
+Coal,28.0,-104.0,98.5,268.0,Mexico,True,False,447,1660,1,False,高优先级-标准复查
+Coal,30.0,-108.0,98.5,323.0,Mexico,True,False,894,1660,1,False,高优先级-标准复查
 Au,22.0,-106.0,98.4,246.0,,False,False,706,0,0,False,不可行-海上
-Cu,42.0,12.0,98.4,327.0,Italy,True,False,39,35,0,False,高优先级-标准复查
+Cu,42.0,12.0,98.4,327.0,Italy,True,False,39,37,0,False,高优先级-标准复查
 Cu,44.0,146.0,98.4,242.0,,False,False,1067,0,0,False,不可行-海上
 Cu,-6.0,154.0,98.4,244.0,,False,False,759,0,0,False,不可行-海上
 Cu,52.0,156.0,98.4,232.0,,False,False,2223,0,0,False,不可行-海上
-Cu,18.0,-96.0,98.4,223.0,Mexico,True,False,367,1659,1,False,高优先级-标准复查
+Cu,18.0,-96.0,98.4,223.0,Mexico,True,False,367,1660,1,False,高优先级-标准复查
 NiCo,16.0,44.0,98.4,237.0,Yemen,True,False,75,3,0,False,高优先级-标准复查
 NiCo,46.0,-128.0,98.4,395.0,,False,False,516,0,0,False,不可行-海上
-NiCo,48.0,4.0,98.4,243.0,France,True,False,154,272,0,False,高优先级-标准复查
-NiCo,8.0,40.0,98.4,299.0,Ethiopia,True,False,184,56,0,False,高优先级-标准复查
-Li,42.0,14.0,98.4,543.0,Italy,True,False,126,35,0,False,高优先级-标准复查
-Li,-2.0,34.0,98.4,311.0,Tanzania,True,False,302,59,1,False,高优先级-标准复查
-Li,44.0,12.0,98.4,391.0,Italy,True,False,36,35,0,False,高优先级-标准复查
-Li,-36.0,-68.0,98.4,338.0,Argentina,True,False,374,1092,1,False,高优先级-标准复查
-Li,-6.0,38.0,98.4,234.0,Tanzania,True,False,166,59,1,False,高优先级-标准复查
-Li,-4.0,30.0,98.4,273.0,Burundi,True,False,99,25,0,False,高优先级-标准复查
-Li,-18.0,-66.0,98.4,271.0,Bolivia,True,False,140,794,1,False,高优先级-标准复查
-Li,44.0,16.0,98.4,325.0,Croatia,True,False,192,3,0,False,高优先级-标准复查
-Li,-4.0,34.0,98.4,299.0,Tanzania,True,False,311,59,1,False,高优先级-标准复查
-Li,46.0,8.0,98.4,409.0,Switzerland,True,False,110,5,0,False,高优先级-标准复查
-Li,52.0,-128.0,98.4,706.0,,False,False,458,0,0,False,不可行-海上
+NiCo,48.0,4.0,98.4,243.0,France,True,False,154,274,0,False,高优先级-标准复查
+NiCo,8.0,40.0,98.4,299.0,Ethiopia,True,False,184,58,0,False,高优先级-标准复查
+Li,44.0,14.0,98.4,324.0,,False,False,125,0,0,False,不可行-海上
+Li,8.0,38.0,98.4,299.0,Ethiopia,True,False,138,58,0,False,高优先级-标准复查
+Li,38.0,10.0,98.4,529.0,,False,False,134,0,0,False,不可行-海上
+Li,8.0,40.0,98.4,296.0,Ethiopia,True,False,184,58,0,False,高优先级-标准复查
+Li,48.0,12.0,98.4,254.0,Germany,True,False,210,195,0,False,高优先级-标准复查
+Li,40.0,16.0,98.4,572.0,Italy,True,False,354,37,0,False,高优先级-标准复查
+Li,32.0,-120.0,98.4,313.0,,False,False,281,0,0,False,不可行-海上
+Li,50.0,8.0,98.4,344.0,Germany,True,False,141,195,0,False,高优先级-标准复查
 REE,6.0,32.0,98.4,226.0,S. Sudan,True,False,138,14,0,False,高优先级-标准复查
-REE,44.0,-108.0,98.4,291.0,United States of America,True,False,535,99203,7,False,高优先级-标准复查
-REE,48.0,-124.0,98.4,411.0,United States of America,True,False,156,99203,7,False,高优先级-标准复查
-REE,8.0,44.0,98.4,249.0,Ethiopia,True,False,174,56,0,False,高优先级-标准复查
+REE,44.0,-108.0,98.4,291.0,United States of America,True,False,535,99245,7,False,高优先级-标准复查
+REE,48.0,-124.0,98.4,411.0,United States of America,True,False,156,99245,7,False,高优先级-标准复查
+REE,8.0,44.0,98.4,249.0,Ethiopia,True,False,174,58,0,False,高优先级-标准复查
 U,24.0,-114.0,98.4,222.0,,False,False,1190,0,0,False,不可行-海上
-Coal,44.0,-102.0,98.4,284.0,United States of America,True,False,534,99203,7,False,高优先级-标准复查
-Coal,30.0,-100.0,98.4,269.0,United States of America,True,False,449,99203,7,False,高优先级-标准复查
+Coal,44.0,-102.0,98.4,284.0,United States of America,True,False,534,99245,7,False,高优先级-标准复查
+Coal,30.0,-100.0,98.4,269.0,United States of America,True,False,449,99245,7,False,高优先级-标准复查
 Coal,42.0,18.0,98.4,269.0,,False,False,116,0,0,False,不可行-海上
 Au,36.0,24.0,98.3,224.0,,False,False,222,0,0,False,不可行-海上
-Cu,24.0,-106.0,98.3,233.0,Mexico,True,False,601,1659,1,False,高优先级-标准复查
+Cu,24.0,-106.0,98.3,233.0,Mexico,True,False,601,1660,1,False,高优先级-标准复查
 Cu,-8.0,150.0,98.3,254.0,,False,False,349,0,0,False,不可行-海上
 NiCo,-24.0,170.0,98.3,353.0,,False,False,718,0,0,False,不可行-海上
-NiCo,-4.0,38.0,98.3,285.0,Tanzania,True,False,330,59,1,False,高优先级-标准复查
-NiCo,28.0,-116.0,98.3,373.0,,False,False,705,0,0,False,不可行-海上
+NiCo,-4.0,38.0,98.3,285.0,Tanzania,True,False,330,62,1,False,高优先级-标准复查
+NiCo,28.0,-116.0,98.3,372.0,,False,False,705,0,0,False,不可行-海上
 NiCo,52.0,-130.0,98.3,331.0,,False,False,571,0,0,False,不可行-海上
-Li,2.0,-82.0,98.3,445.0,,False,False,460,0,0,False,不可行-海上
-Li,46.0,-130.0,98.3,558.0,,False,False,631,0,0,False,不可行-海上
-Li,50.0,12.0,98.3,299.0,Germany,True,False,173,195,0,False,高优先级-标准复查
-Li,-30.0,-68.0,98.3,272.0,Argentina,True,False,457,1092,1,False,高优先级-标准复查
-Li,48.0,-130.0,98.3,638.0,,False,False,525,0,0,False,不可行-海上
-Li,2.0,36.0,98.3,377.0,Kenya,True,False,376,22,0,False,高优先级-标准复查
-Li,50.0,-130.0,98.3,732.0,,False,False,502,0,0,False,不可行-海上
-Li,48.0,0.0,98.3,284.0,France,True,False,198,272,0,False,高优先级-标准复查
-Li,48.0,10.0,98.3,396.0,Germany,True,False,103,195,0,False,高优先级-标准复查
-Li,42.0,12.0,98.3,586.0,Italy,True,False,39,35,0,False,高优先级-标准复查
+Li,-2.0,32.0,98.3,224.0,Tanzania,True,False,216,62,1,False,高优先级-标准复查
+Li,-8.0,36.0,98.3,232.0,Tanzania,True,False,204,62,1,False,高优先级-标准复查
+Li,44.0,0.0,98.3,246.0,France,True,False,207,274,0,False,高优先级-标准复查
+Li,-8.0,34.0,98.3,311.0,Tanzania,True,False,279,62,1,False,高优先级-标准复查
+Li,-2.0,-76.0,98.3,281.0,Peru,True,False,342,1828,0,False,高优先级-标准复查
 REE,2.0,38.0,98.3,396.0,Kenya,True,False,388,22,0,False,高优先级-标准复查
-REE,12.0,40.0,98.3,398.0,Ethiopia,True,False,346,56,0,False,高优先级-标准复查
-REE,46.0,-122.0,98.3,469.0,United States of America,True,False,374,99203,7,False,高优先级-标准复查
+REE,12.0,40.0,98.3,398.0,Ethiopia,True,False,346,58,0,False,高优先级-标准复查
+REE,46.0,-122.0,98.3,469.0,United States of America,True,False,374,99245,7,False,高优先级-标准复查
 REE,42.0,-126.0,98.3,500.0,,False,False,560,0,0,False,不可行-海上
 REE,32.0,-120.0,98.3,310.0,,False,False,281,0,0,False,不可行-海上
-Coal,42.0,-102.0,98.3,331.0,United States of America,True,False,355,99203,7,False,高优先级-标准复查
-Coal,48.0,-122.0,98.3,331.0,United States of America,True,False,164,99203,7,False,高优先级-标准复查
-Coal,22.0,-104.0,98.3,304.0,Mexico,True,False,553,1659,1,False,高优先级-标准复查
-Coal,36.0,-92.0,98.3,227.0,United States of America,True,False,740,99203,7,False,高优先级-标准复查
+Coal,42.0,-102.0,98.3,331.0,United States of America,True,False,355,99245,7,False,高优先级-标准复查
+Coal,48.0,-122.0,98.3,331.0,United States of America,True,False,164,99245,7,False,高优先级-标准复查
+Coal,22.0,-104.0,98.3,304.0,Mexico,True,False,553,1660,1,False,高优先级-标准复查
+Coal,36.0,-92.0,98.3,227.0,United States of America,True,False,740,99245,7,False,高优先级-标准复查
 Au,12.0,-62.0,98.2,244.0,,False,False,29,0,0,False,不可行-海上
 Cu,20.0,122.0,98.2,258.0,,False,False,425,0,0,False,不可行-海上
 Cu,24.0,124.0,98.2,269.0,,False,False,272,0,0,False,不可行-海上
-NiCo,44.0,2.0,98.2,294.0,France,True,False,170,272,0,False,高优先级-标准复查
+NiCo,44.0,2.0,98.2,294.0,France,True,False,170,274,0,False,高优先级-标准复查
 NiCo,16.0,42.0,98.2,325.0,,False,False,247,0,0,False,不可行-海上
-NiCo,6.0,36.0,98.2,320.0,Ethiopia,True,False,450,56,0,False,高优先级-标准复查
+NiCo,6.0,36.0,98.2,320.0,Ethiopia,True,False,450,58,0,False,高优先级-标准复查
 NiCo,22.0,-108.0,98.2,289.0,,False,False,880,0,0,False,不可行-海上
 NiCo,-2.0,148.0,98.2,501.0,,False,False,835,0,0,False,不可行-海上
-NiCo,8.0,42.0,98.2,251.0,Ethiopia,True,False,286,56,0,False,高优先级-标准复查
+NiCo,8.0,42.0,98.2,251.0,Ethiopia,True,False,286,58,0,False,高优先级-标准复查
 NiCo,36.0,-124.0,98.2,242.0,,False,False,244,0,0,False,不可行-海上
-Li,34.0,-122.0,98.2,383.0,,False,False,347,0,0,False,不可行-海上
-Li,-24.0,-64.0,98.2,251.0,Argentina,True,False,567,1092,1,False,高优先级-标准复查
-Li,28.0,-108.0,98.2,453.0,Mexico,True,False,803,1659,1,False,高优先级-标准复查
-Li,-14.0,-68.0,98.2,253.0,Bolivia,True,False,278,794,1,False,高优先级-标准复查
-Li,46.0,10.0,98.2,392.0,Italy,True,False,131,35,0,False,高优先级-标准复查
-Li,-4.0,28.0,98.2,293.0,Dem. Rep. Congo,True,False,166,3,0,False,高优先级-标准复查
-Li,44.0,0.0,98.2,326.0,France,True,False,207,272,0,False,高优先级-标准复查
-Li,40.0,14.0,98.2,763.0,,False,False,247,0,0,False,不可行-海上
-Li,-16.0,-66.0,98.2,228.0,Bolivia,True,False,236,794,1,False,高优先级-标准复查
-Li,44.0,8.0,98.2,484.0,Italy,True,False,56,35,0,False,高优先级-标准复查
+Li,2.0,-76.0,98.2,352.0,Colombia,True,False,359,717,0,False,高优先级-标准复查
+Li,-32.0,-70.0,98.2,307.0,Argentina,True,False,171,1099,1,False,高优先级-标准复查
+Li,52.0,10.0,98.2,262.0,Germany,True,False,239,195,0,False,高优先级-标准复查
+Li,-4.0,38.0,98.2,317.0,Tanzania,True,False,330,62,1,False,高优先级-标准复查
+Li,40.0,-128.0,98.2,600.0,,False,False,544,0,0,False,不可行-海上
+Li,42.0,16.0,98.2,483.0,,False,False,274,0,0,False,不可行-海上
+Li,-14.0,-70.0,98.2,323.0,Peru,True,False,341,1828,0,False,高优先级-标准复查
+Li,0.0,36.0,98.2,348.0,Kenya,True,False,169,22,0,False,高优先级-标准复查
+Li,6.0,36.0,98.2,340.0,Ethiopia,True,False,450,58,0,False,高优先级-标准复查
 REE,52.0,-128.0,98.2,424.0,,False,False,458,0,0,False,不可行-海上
 REE,18.0,40.0,98.2,307.0,,False,False,318,0,0,False,不可行-海上
 REE,68.0,-26.0,98.2,302.0,,False,False,466,0,0,False,不可行-海上
 REE,66.0,-30.0,98.2,321.0,,False,False,430,0,0,False,不可行-海上
-U,44.0,0.0,98.2,226.0,France,True,False,207,272,0,False,高优先级-标准复查
-Coal,42.0,-84.0,98.2,228.0,United States of America,True,False,301,99203,7,False,高优先级-标准复查
-Coal,18.0,-102.0,98.2,372.0,Mexico,True,False,342,1659,1,False,高优先级-标准复查
-Coal,32.0,-86.0,98.2,228.0,United States of America,True,False,246,99203,7,False,高优先级-标准复查
+U,44.0,0.0,98.2,226.0,France,True,False,207,274,0,False,高优先级-标准复查
+Coal,42.0,-84.0,98.2,228.0,United States of America,True,False,301,99245,7,False,高优先级-标准复查
+Coal,18.0,-102.0,98.2,372.0,Mexico,True,False,342,1660,1,False,高优先级-标准复查
+Coal,32.0,-86.0,98.2,228.0,United States of America,True,False,246,99245,7,False,高优先级-标准复查
 Coal,46.0,-128.0,98.2,428.0,,False,False,516,0,0,False,不可行-海上
 Coal,48.0,-126.0,98.2,420.0,,False,False,254,0,0,False,不可行-海上
-Coal,-34.0,-66.0,98.2,236.0,Argentina,True,False,435,1092,1,False,高优先级-标准复查
+Coal,-34.0,-66.0,98.2,236.0,Argentina,True,False,435,1099,1,False,高优先级-标准复查
 Coal,38.0,52.0,98.2,239.0,,True,False,264,0,0,False,高优先级-标准复查
 Au,52.0,-180.0,98.1,231.0,,False,False,3638,0,0,False,不可行-海上
-Au,-6.0,150.0,98.1,351.0,Papua New Guinea,True,False,494,206,0,False,高优先级-标准复查
+Au,-6.0,150.0,98.1,351.0,Papua New Guinea,True,False,494,209,0,False,高优先级-标准复查
 Au,-8.0,150.0,98.1,272.0,,False,False,349,0,0,False,不可行-海上
-Au,8.0,124.0,98.1,247.0,Philippines,True,False,805,572,0,False,高优先级-标准复查
+Au,8.0,124.0,98.1,247.0,Philippines,True,False,805,582,0,False,高优先级-标准复查
 Au,44.0,146.0,98.1,255.0,,False,False,1067,0,0,False,不可行-海上
 Au,24.0,124.0,98.1,245.0,,False,False,272,0,0,False,不可行-海上
 Au,-36.0,178.0,98.1,254.0,,False,False,305,0,0,False,不可行-海上
 Au,-38.0,178.0,98.1,238.0,New Zealand,True,False,313,117,0,False,高优先级-标准复查
 Cu,-44.0,-74.0,98.1,253.0,,False,False,1209,0,0,False,不可行-海上
-Cu,40.0,16.0,98.1,358.0,Italy,True,False,354,35,0,False,高优先级-标准复查
+Cu,40.0,16.0,98.1,358.0,Italy,True,False,354,37,0,False,高优先级-标准复查
 Cu,2.0,124.0,98.1,236.0,,False,False,1056,0,0,False,不可行-海上
 Cu,34.0,138.0,98.1,241.0,,False,False,236,0,0,False,不可行-海上
 Cu,52.0,-172.0,98.1,284.0,,False,False,3395,0,0,False,不可行-海上
 Cu,34.0,140.0,98.1,293.0,,False,False,189,0,0,False,不可行-海上
-NiCo,10.0,38.0,98.1,302.0,Ethiopia,True,False,132,56,0,False,高优先级-标准复查
-NiCo,18.0,-102.0,98.1,355.0,Mexico,True,False,342,1659,1,False,高优先级-标准复查
-NiCo,18.0,-104.0,98.1,464.0,,False,False,537,0,0,False,不可行-海上
-Li,44.0,-130.0,98.1,561.0,,False,False,787,0,0,False,不可行-海上
-Li,42.0,16.0,98.1,543.0,,False,False,274,0,0,False,不可行-海上
-Li,-26.0,-72.0,98.1,289.0,,False,False,785,0,0,False,不可行-海上
-Li,-26.0,-64.0,98.1,266.0,Argentina,True,False,644,1092,1,False,高优先级-标准复查
-Li,48.0,8.0,98.1,447.0,Germany,True,False,127,195,0,False,高优先级-标准复查
-Li,46.0,-114.0,98.1,513.0,United States of America,True,False,774,99203,7,False,高优先级-标准复查
-Li,-4.0,-82.0,98.1,368.0,,False,False,573,0,0,False,不可行-海上
-Li,38.0,14.0,98.1,985.0,Italy,True,False,238,35,0,False,高优先级-标准复查
-REE,38.0,-122.0,98.1,483.0,United States of America,True,False,42,99203,7,False,高优先级-标准复查
-REE,-4.0,32.0,98.1,288.0,Tanzania,True,False,301,59,1,False,高优先级-标准复查
+NiCo,-12.0,-172.0,98.1,312.0,,False,False,206,0,0,False,不可行-海上
+NiCo,10.0,38.0,98.1,302.0,Ethiopia,True,False,132,58,0,False,高优先级-标准复查
+NiCo,18.0,-102.0,98.1,355.0,Mexico,True,False,342,1660,1,False,高优先级-标准复查
+Li,-2.0,34.0,98.1,311.0,Tanzania,True,False,302,62,1,False,高优先级-标准复查
+Li,48.0,0.0,98.1,248.0,France,True,False,198,274,0,False,高优先级-标准复查
+Li,-36.0,-68.0,98.1,338.0,Argentina,True,False,374,1099,1,False,高优先级-标准复查
+Li,42.0,6.0,98.1,355.0,,False,False,225,0,0,False,不可行-海上
+Li,-18.0,-66.0,98.1,259.0,Bolivia,True,False,140,797,1,False,高优先级-标准复查
+Li,-6.0,38.0,98.1,234.0,Tanzania,True,False,166,62,1,False,高优先级-标准复查
+Li,38.0,16.0,98.1,721.0,Italy,True,False,268,37,0,False,高优先级-标准复查
+Li,44.0,16.0,98.1,325.0,Croatia,True,False,192,3,0,False,高优先级-标准复查
+Li,-4.0,34.0,98.1,299.0,Tanzania,True,False,311,62,1,False,高优先级-标准复查
+Li,52.0,-128.0,98.1,706.0,,False,False,458,0,0,False,不可行-海上
+REE,38.0,-122.0,98.1,483.0,United States of America,True,False,42,99245,7,False,高优先级-标准复查
+REE,-4.0,32.0,98.1,288.0,Tanzania,True,False,301,62,1,False,高优先级-标准复查
 PGE,38.0,-126.0,98.1,251.0,,False,False,317,0,0,False,不可行-海上
-PGE,46.0,2.0,98.1,239.0,France,True,False,319,272,0,False,高优先级-标准复查
 Coal,38.0,54.0,98.1,239.0,Turkmenistan,True,False,346,3,0,False,高优先级-标准复查
-Coal,40.0,-78.0,98.1,238.0,United States of America,True,False,149,99203,7,False,高优先级-标准复查
-Coal,42.0,-78.0,98.1,241.0,United States of America,True,False,217,99203,7,False,高优先级-标准复查
+Coal,40.0,-78.0,98.1,238.0,United States of America,True,False,149,99245,7,False,高优先级-标准复查
+Coal,42.0,-78.0,98.1,241.0,United States of America,True,False,217,99245,7,False,高优先级-标准复查
 Coal,38.0,-126.0,98.1,390.0,,False,False,317,0,0,False,不可行-海上
 Coal,34.0,52.0,98.1,240.0,Iran,True,False,193,424,1,False,高优先级-标准复查
 Coal,34.0,54.0,98.1,240.0,Iran,True,False,300,424,1,False,高优先级-标准复查
 Coal,32.0,122.0,98.1,242.0,,False,False,102,0,0,False,不可行-海上
-Coal,38.0,-80.0,98.1,245.0,United States of America,True,False,279,99203,7,False,高优先级-标准复查
+Coal,38.0,-80.0,98.1,245.0,United States of America,True,False,279,99245,7,False,高优先级-标准复查
 Au,14.0,120.0,98.0,233.0,,False,False,125,0,0,False,不可行-海上
 Au,-4.0,146.0,98.0,393.0,,False,False,622,0,0,False,不可行-海上
-Au,18.0,-98.0,98.0,262.0,Mexico,True,False,200,1659,1,False,高优先级-标准复查
+Au,18.0,-98.0,98.0,262.0,Mexico,True,False,200,1660,1,False,高优先级-标准复查
 Au,-2.0,150.0,98.0,234.0,,False,False,886,0,0,False,不可行-海上
-Au,-10.0,150.0,98.0,287.0,Papua New Guinea,True,False,313,206,0,False,高优先级-标准复查
+Au,-10.0,150.0,98.0,287.0,Papua New Guinea,True,False,313,209,0,False,高优先级-标准复查
 Cu,36.0,132.0,98.0,248.0,,False,False,350,0,0,False,不可行-海上
 Cu,40.0,14.0,98.0,423.0,,False,False,247,0,0,False,不可行-海上
 Cu,38.0,24.0,98.0,305.0,Greece,True,False,24,67,0,False,高优先级-标准复查
-NiCo,10.0,40.0,98.0,348.0,Ethiopia,True,False,179,56,0,False,高优先级-标准复查
+NiCo,18.0,-104.0,98.0,464.0,,False,False,537,0,0,False,不可行-海上
+NiCo,10.0,40.0,98.0,348.0,Ethiopia,True,False,179,58,0,False,高优先级-标准复查
 NiCo,52.0,-128.0,98.0,385.0,,False,False,458,0,0,False,不可行-海上
 NiCo,20.0,-110.0,98.0,423.0,,False,False,1139,0,0,False,不可行-海上
 NiCo,14.0,42.0,98.0,350.0,,False,False,281,0,0,False,不可行-海上
 NiCo,30.0,-118.0,98.0,328.0,,False,False,451,0,0,False,不可行-海上
-Li,-36.0,-66.0,98.0,334.0,Argentina,True,False,511,1092,1,False,高优先级-标准复查
-REE,8.0,40.0,98.0,408.0,Ethiopia,True,False,184,56,0,False,高优先级-标准复查
-REE,30.0,-108.0,98.0,319.0,Mexico,True,False,894,1659,1,False,高优先级-标准复查
-REE,46.0,-108.0,98.0,274.0,United States of America,True,False,738,99203,7,False,高优先级-标准复查
-REE,18.0,-100.0,98.0,338.0,Mexico,True,False,185,1659,1,False,高优先级-标准复查
+Li,2.0,-82.0,98.0,445.0,,False,False,460,0,0,False,不可行-海上
+Li,46.0,-130.0,98.0,558.0,,False,False,631,0,0,False,不可行-海上
+Li,4.0,36.0,98.0,376.0,Kenya,True,False,499,22,0,False,高优先级-标准复查
+Li,-30.0,-68.0,98.0,272.0,Argentina,True,False,457,1099,1,False,高优先级-标准复查
+Li,48.0,-130.0,98.0,638.0,,False,False,525,0,0,False,不可行-海上
+Li,2.0,36.0,98.0,377.0,Kenya,True,False,376,22,0,False,高优先级-标准复查
+Li,50.0,-130.0,98.0,732.0,,False,False,502,0,0,False,不可行-海上
+Li,34.0,-122.0,98.0,383.0,,False,False,347,0,0,False,不可行-海上
+REE,8.0,40.0,98.0,408.0,Ethiopia,True,False,184,58,0,False,高优先级-标准复查
+REE,30.0,-108.0,98.0,319.0,Mexico,True,False,894,1660,1,False,高优先级-标准复查
+REE,46.0,-108.0,98.0,274.0,United States of America,True,False,738,99245,7,False,高优先级-标准复查
+REE,18.0,-100.0,98.0,338.0,Mexico,True,False,185,1660,1,False,高优先级-标准复查
 REE,66.0,-28.0,98.0,365.0,,False,False,351,0,0,False,不可行-海上
-U,48.0,2.0,98.0,248.0,France,True,False,99,272,0,False,高优先级-标准复查
+PGE,46.0,2.0,98.0,239.0,France,True,False,319,274,0,False,高优先级-标准复查
+U,48.0,2.0,98.0,248.0,France,True,False,99,274,0,False,高优先级-标准复查
 Coal,30.0,-116.0,98.0,434.0,,False,False,497,0,0,False,不可行-海上
-Coal,36.0,-84.0,98.0,249.0,United States of America,True,False,254,99203,7,False,高优先级-标准复查
+Coal,36.0,-84.0,98.0,249.0,United States of America,True,False,254,99245,7,False,高优先级-标准复查
 Coal,34.0,56.0,98.0,252.0,Iran,True,False,457,424,1,False,高优先级-标准复查
-Coal,34.0,-90.0,98.0,261.0,United States of America,True,False,521,99203,7,False,高优先级-标准复查
+Coal,34.0,-90.0,98.0,261.0,United States of America,True,False,521,99245,7,False,高优先级-标准复查
 Coal,38.0,58.0,98.0,262.0,Turkmenistan,True,False,34,3,0,False,高优先级-标准复查
-Coal,28.0,-98.0,98.0,280.0,United States of America,True,False,323,99203,7,False,高优先级-标准复查
+Coal,28.0,-98.0,98.0,280.0,United States of America,True,False,323,99245,7,False,高优先级-标准复查
 Coal,44.0,24.0,98.0,275.0,Romania,True,False,156,80,0,False,高优先级-标准复查
 Au,6.0,124.0,97.9,247.0,,False,False,1011,0,0,False,不可行-海上
 Au,-20.0,178.0,97.9,284.0,,False,False,213,0,0,False,不可行-海上
@@ -686,61 +682,64 @@ Cu,-8.0,160.0,97.9,249.0,,False,False,160,0,0,False,不可行-海上
 Cu,14.0,-92.0,97.9,280.0,,False,False,173,0,0,False,不可行-海上
 Cu,30.0,130.0,97.9,317.0,,False,False,734,0,0,False,不可行-海上
 Cu,14.0,-62.0,97.9,275.0,,False,False,109,0,0,False,不可行-海上
-NiCo,-8.0,32.0,97.9,309.0,Tanzania,True,False,460,59,1,False,高优先级-标准复查
+NiCo,-8.0,32.0,97.9,309.0,Tanzania,True,False,460,62,1,False,高优先级-标准复查
 NiCo,22.0,-112.0,97.9,283.0,,False,False,1254,0,0,False,不可行-海上
-NiCo,44.0,4.0,97.9,351.0,France,True,False,260,272,0,False,高优先级-标准复查
-NiCo,4.0,34.0,97.9,303.0,Uganda,True,False,284,33,0,False,高优先级-标准复查
-NiCo,2.0,32.0,97.9,295.0,Uganda,True,False,198,33,0,False,高优先级-标准复查
-NiCo,-8.0,34.0,97.9,350.0,Tanzania,True,False,279,59,1,False,高优先级-标准复查
+NiCo,44.0,4.0,97.9,351.0,France,True,False,260,274,0,False,高优先级-标准复查
+NiCo,2.0,32.0,97.9,294.0,Uganda,True,False,198,34,0,False,高优先级-标准复查
+Li,-24.0,-64.0,97.9,251.0,Argentina,True,False,567,1099,1,False,高优先级-标准复查
+Li,28.0,-108.0,97.9,453.0,Mexico,True,False,803,1660,1,False,高优先级-标准复查
+Li,-14.0,-68.0,97.9,253.0,Bolivia,True,False,278,797,1,False,高优先级-标准复查
+Li,36.0,14.0,97.9,818.0,,False,False,48,0,0,False,不可行-海上
 REE,66.0,-32.0,97.9,295.0,,False,False,514,0,0,False,不可行-海上
 REE,4.0,30.0,97.9,312.0,Dem. Rep. Congo,True,False,198,3,0,False,高优先级-标准复查
 REE,14.0,44.0,97.9,408.0,Yemen,True,False,152,3,0,False,高优先级-标准复查
-PGE,44.0,-128.0,97.9,284.0,,False,False,694,0,0,False,不可行-海上
 Coal,36.0,50.0,97.9,270.0,Iran,True,False,133,424,1,False,高优先级-标准复查
-Coal,18.0,-100.0,97.9,357.0,Mexico,True,False,185,1659,1,False,高优先级-标准复查
+Coal,18.0,-100.0,97.9,357.0,Mexico,True,False,185,1660,1,False,高优先级-标准复查
 Coal,30.0,-118.0,97.9,418.0,,False,False,451,0,0,False,不可行-海上
 Coal,-32.0,-54.0,97.9,275.0,Uruguay,True,False,381,46,0,False,高优先级-标准复查
-Coal,34.0,-102.0,97.9,417.0,United States of America,True,False,691,99203,7,False,高优先级-标准复查
-Coal,48.0,-120.0,97.9,382.0,United States of America,True,False,270,99203,7,False,高优先级-标准复查
-Coal,42.0,-88.0,97.9,277.0,United States of America,True,False,35,99203,7,False,高优先级-标准复查
-Coal,46.0,-102.0,97.9,321.0,United States of America,True,False,737,99203,7,False,高优先级-标准复查
+Coal,34.0,-102.0,97.9,417.0,United States of America,True,False,691,99245,7,False,高优先级-标准复查
+Coal,48.0,-120.0,97.9,382.0,United States of America,True,False,270,99245,7,False,高优先级-标准复查
+Coal,42.0,-88.0,97.9,277.0,United States of America,True,False,35,99245,7,False,高优先级-标准复查
+Coal,46.0,-102.0,97.9,321.0,United States of America,True,False,737,99245,7,False,高优先级-标准复查
 Au,12.0,124.0,97.8,263.0,,False,False,437,0,0,False,不可行-海上
 Au,-4.0,148.0,97.8,385.0,,False,False,614,0,0,False,不可行-海上
 Au,52.0,-172.0,97.8,275.0,,False,False,3395,0,0,False,不可行-海上
-Cu,38.0,14.0,97.8,471.0,Italy,True,False,238,35,0,False,高优先级-标准复查
+Cu,38.0,14.0,97.8,471.0,Italy,True,False,238,37,0,False,高优先级-标准复查
 Cu,-2.0,144.0,97.8,328.0,,False,False,902,0,0,False,不可行-海上
+NiCo,4.0,34.0,97.8,303.0,Uganda,True,False,284,34,0,False,高优先级-标准复查
+NiCo,-8.0,34.0,97.8,350.0,Tanzania,True,False,279,62,1,False,高优先级-标准复查
 NiCo,40.0,10.0,97.8,355.0,,False,False,295,0,0,False,不可行-海上
-NiCo,40.0,16.0,97.8,366.0,Italy,True,False,354,35,0,False,高优先级-标准复查
-NiCo,52.0,-132.0,97.8,324.0,,False,False,695,0,0,False,不可行-海上
-NiCo,30.0,-108.0,97.8,241.0,Mexico,True,False,894,1659,1,False,高优先级-标准复查
+NiCo,40.0,16.0,97.8,366.0,Italy,True,False,354,37,0,False,高优先级-标准复查
 REE,14.0,42.0,97.8,423.0,,False,False,281,0,0,False,不可行-海上
 REE,52.0,-134.0,97.8,347.0,,False,False,824,0,0,False,不可行-海上
-PGE,20.0,-104.0,97.8,271.0,Mexico,True,False,513,1659,1,False,高优先级-标准复查
+PGE,44.0,-128.0,97.8,284.0,,False,False,694,0,0,False,不可行-海上
+PGE,20.0,-104.0,97.8,271.0,Mexico,True,False,513,1660,1,False,高优先级-标准复查
 U,26.0,-114.0,97.8,273.0,,False,False,983,0,0,False,不可行-海上
 U,48.0,10.0,97.8,245.0,Germany,True,False,103,195,0,False,高优先级-标准复查
-Coal,-36.0,-66.0,97.8,282.0,Argentina,True,False,511,1092,1,False,高优先级-标准复查
-Coal,-26.0,32.0,97.8,280.0,Mozambique,True,False,59,27,0,False,高优先级-标准复查
-Coal,42.0,-86.0,97.8,282.0,United States of America,True,False,136,99203,7,False,高优先级-标准复查
+Coal,-36.0,-66.0,97.8,282.0,Argentina,True,False,511,1099,1,False,高优先级-标准复查
+Coal,-26.0,32.0,97.8,280.0,Mozambique,True,False,59,28,0,False,高优先级-标准复查
+Coal,42.0,-86.0,97.8,282.0,United States of America,True,False,136,99245,7,False,高优先级-标准复查
 Coal,44.0,-130.0,97.8,475.0,,False,False,787,0,0,False,不可行-海上
-Coal,-32.0,-68.0,97.8,282.0,Argentina,True,False,295,1092,1,False,高优先级-标准复查
+Coal,-32.0,-68.0,97.8,282.0,Argentina,True,False,295,1099,1,False,高优先级-标准复查
 Au,40.0,138.0,97.7,238.0,,False,False,504,0,0,False,不可行-海上
 Au,36.0,136.0,97.7,276.0,Japan,True,False,110,338,0,False,高优先级-标准复查
 Au,36.0,28.0,97.7,270.0,,False,False,439,0,0,False,不可行-海上
-Au,-36.0,-68.0,97.7,260.0,Argentina,True,False,374,1092,1,False,高优先级-标准复查
+Au,-36.0,-68.0,97.7,260.0,Argentina,True,False,374,1099,1,False,高优先级-标准复查
 Au,-4.0,154.0,97.7,265.0,,False,False,893,0,0,False,不可行-海上
 Cu,-10.0,160.0,97.7,296.0,,False,False,63,0,0,False,不可行-海上
 Cu,14.0,-60.0,97.7,280.0,,False,False,107,0,0,False,不可行-海上
-NiCo,12.0,40.0,97.7,383.0,Ethiopia,True,False,346,56,0,False,高优先级-标准复查
-NiCo,34.0,-102.0,97.7,244.0,United States of America,True,False,691,99203,7,False,高优先级-标准复查
-REE,-4.0,34.0,97.7,376.0,Tanzania,True,False,311,59,1,False,高优先级-标准复查
-Coal,28.0,-106.0,97.7,367.0,Mexico,True,False,619,1659,1,False,高优先级-标准复查
-Coal,46.0,20.0,97.7,292.0,Serbia,True,False,136,63,0,False,高优先级-标准复查
+NiCo,52.0,-132.0,97.7,324.0,,False,False,695,0,0,False,不可行-海上
+NiCo,30.0,-108.0,97.7,241.0,Mexico,True,False,894,1660,1,False,高优先级-标准复查
+NiCo,12.0,40.0,97.7,383.0,Ethiopia,True,False,346,58,0,False,高优先级-标准复查
+REE,-4.0,34.0,97.7,376.0,Tanzania,True,False,311,62,1,False,高优先级-标准复查
+Coal,28.0,-106.0,97.7,367.0,Mexico,True,False,619,1660,1,False,高优先级-标准复查
+Coal,46.0,20.0,97.7,292.0,Serbia,True,False,136,64,0,False,高优先级-标准复查
 Coal,-32.0,-50.0,97.7,284.0,,False,False,658,0,0,False,不可行-海上
 Coal,34.0,-122.0,97.7,391.0,,False,False,347,0,0,False,不可行-海上
-Coal,26.0,-104.0,97.7,325.0,Mexico,True,False,369,1659,1,False,高优先级-标准复查
+Coal,26.0,-104.0,97.7,325.0,Mexico,True,False,369,1660,1,False,高优先级-标准复查
 Coal,34.0,122.0,97.7,286.0,,False,False,314,0,0,False,不可行-海上
 Coal,20.0,-96.0,97.7,300.0,,False,False,334,0,0,False,不可行-海上
-Coal,24.0,-102.0,97.7,317.0,Mexico,True,False,251,1659,1,False,高优先级-标准复查
+Coal,24.0,-102.0,97.7,317.0,Mexico,True,False,251,1660,1,False,高优先级-标准复查
 Au,26.0,124.0,97.6,242.0,,False,False,267,0,0,False,不可行-海上
 Au,20.0,-96.0,97.6,288.0,,False,False,334,0,0,False,不可行-海上
 Au,-2.0,144.0,97.6,342.0,,False,False,902,0,0,False,不可行-海上
@@ -749,28 +748,28 @@ Au,54.0,-172.0,97.6,250.0,,False,False,3345,0,0,False,不可行-海上
 Cu,-4.0,154.0,97.6,246.0,,False,False,893,0,0,False,不可行-海上
 Cu,42.0,10.0,97.6,227.0,,False,False,203,0,0,False,不可行-海上
 Cu,52.0,160.0,97.6,276.0,,False,False,2418,0,0,False,不可行-海上
+NiCo,34.0,-102.0,97.6,244.0,United States of America,True,False,691,99245,7,False,高优先级-标准复查
 NiCo,-22.0,172.0,97.6,514.0,,False,False,611,0,0,False,不可行-海上
 NiCo,32.0,-120.0,97.6,269.0,,False,False,281,0,0,False,不可行-海上
-NiCo,38.0,12.0,97.6,533.0,,False,False,209,0,0,False,不可行-海上
 PGE,52.0,-128.0,97.6,283.0,,False,False,458,0,0,False,不可行-海上
 Au,12.0,-60.0,97.5,241.0,,False,False,129,0,0,False,不可行-海上
 Au,12.0,126.0,97.5,256.0,,False,False,616,0,0,False,不可行-海上
 Au,-2.0,148.0,97.5,449.0,,False,False,835,0,0,False,不可行-海上
 Cu,56.0,-166.0,97.5,227.0,,False,False,2936,0,0,False,不可行-海上
-Cu,16.0,-92.0,97.5,326.0,Mexico,True,False,220,1659,1,False,高优先级-标准复查
+Cu,16.0,-92.0,97.5,326.0,Mexico,True,False,220,1660,1,False,高优先级-标准复查
 Cu,54.0,-172.0,97.5,248.0,,False,False,3345,0,0,False,不可行-海上
 Cu,42.0,16.0,97.5,309.0,,False,False,274,0,0,False,不可行-海上
+NiCo,38.0,12.0,97.5,533.0,,False,False,209,0,0,False,不可行-海上
 NiCo,2.0,28.0,97.5,298.0,Dem. Rep. Congo,True,False,495,3,0,False,高优先级-标准复查
 NiCo,48.0,-130.0,97.5,499.0,,False,False,525,0,0,False,不可行-海上
-NiCo,-6.0,32.0,97.5,242.0,Tanzania,True,False,413,59,1,False,高优先级-标准复查
-NiCo,38.0,14.0,97.5,557.0,Italy,True,False,238,35,0,False,高优先级-标准复查
+NiCo,-14.0,-172.0,97.5,495.0,,False,False,31,0,0,False,不可行-海上
+NiCo,-6.0,32.0,97.5,242.0,Tanzania,True,False,413,62,1,False,高优先级-标准复查
 REE,54.0,-136.0,97.5,270.0,,False,False,1030,0,0,False,不可行-海上
-REE,-10.0,30.0,97.5,313.0,Zambia,True,False,605,216,1,False,高优先级-标准复查
+REE,-10.0,30.0,97.5,313.0,Zambia,True,False,605,226,1,False,高优先级-标准复查
 REE,10.0,46.0,97.5,302.0,Somaliland,True,False,218,19,0,False,高优先级-标准复查
 REE,34.0,-122.0,97.5,337.0,,False,False,347,0,0,False,不可行-海上
 PGE,36.0,-124.0,97.5,231.0,,False,False,244,0,0,False,不可行-海上
-PGE,42.0,-128.0,97.5,298.0,,False,False,669,0,0,False,不可行-海上
-Au,-38.0,-68.0,97.4,235.0,Argentina,True,False,561,1092,1,False,高优先级-标准复查
+Au,-38.0,-68.0,97.4,235.0,Argentina,True,False,561,1099,1,False,高优先级-标准复查
 Au,42.0,138.0,97.4,289.0,,False,False,718,0,0,False,不可行-海上
 Au,50.0,-178.0,97.4,229.0,,False,False,3731,0,0,False,不可行-海上
 Au,-6.0,152.0,97.4,361.0,,False,False,655,0,0,False,不可行-海上
@@ -782,16 +781,16 @@ Cu,38.0,12.0,97.4,310.0,,False,False,209,0,0,False,不可行-海上
 Cu,32.0,128.0,97.4,330.0,,False,False,626,0,0,False,不可行-海上
 Cu,38.0,22.0,97.4,355.0,Greece,True,False,152,67,0,False,高优先级-标准复查
 Cu,-10.0,156.0,97.4,260.0,,False,False,437,0,0,False,不可行-海上
-NiCo,-6.0,150.0,97.4,420.0,Papua New Guinea,True,False,494,206,0,False,高优先级-标准复查
-NiCo,46.0,10.0,97.4,242.0,Italy,True,False,131,35,0,False,高优先级-标准复查
+NiCo,38.0,14.0,97.4,557.0,Italy,True,False,238,37,0,False,高优先级-标准复查
+NiCo,-6.0,150.0,97.4,419.0,Papua New Guinea,True,False,494,209,0,False,高优先级-标准复查
+NiCo,46.0,10.0,97.4,242.0,Italy,True,False,131,37,0,False,高优先级-标准复查
 NiCo,38.0,18.0,97.4,347.0,,False,False,388,0,0,False,不可行-海上
-NiCo,44.0,0.0,97.4,314.0,France,True,False,207,272,0,False,高优先级-标准复查
+NiCo,44.0,0.0,97.4,314.0,France,True,False,207,274,0,False,高优先级-标准复查
 NiCo,2.0,40.0,97.4,352.0,Kenya,True,False,508,22,0,False,高优先级-标准复查
-NiCo,-18.0,170.0,97.4,476.0,,False,False,181,0,0,False,不可行-海上
-NiCo,20.0,-106.0,97.4,436.0,,False,False,721,0,0,False,不可行-海上
-REE,70.0,-28.0,97.4,254.0,Greenland,True,False,701,24,0,False,高优先级-标准复查
+REE,70.0,-28.0,97.4,254.0,Greenland,True,False,701,26,0,False,高优先级-标准复查
 REE,0.0,26.0,97.4,326.0,Dem. Rep. Congo,True,False,501,3,0,False,高优先级-标准复查
 REE,44.0,-126.0,97.4,537.0,,False,False,626,0,0,False,不可行-海上
+PGE,42.0,-128.0,97.4,298.0,,False,False,669,0,0,False,不可行-海上
 U,48.0,-126.0,97.4,301.0,,False,False,254,0,0,False,不可行-海上
 Diamond,10.0,22.0,97.4,225.0,Central African Rep.,True,False,732,3,0,False,高优先级-标准复查
 Au,54.0,-176.0,97.3,241.0,,False,False,3600,0,0,False,不可行-海上
@@ -799,24 +798,23 @@ Au,16.0,-64.0,97.3,247.0,,False,False,199,0,0,False,不可行-海上
 Au,38.0,142.0,97.3,290.0,,False,False,326,0,0,False,不可行-海上
 Au,-10.0,146.0,97.3,225.0,,False,False,144,0,0,False,不可行-海上
 Au,38.0,-126.0,97.3,278.0,,False,False,317,0,0,False,不可行-海上
-Au,18.0,-96.0,97.3,324.0,Mexico,True,False,367,1659,1,False,高优先级-标准复查
+Au,18.0,-96.0,97.3,324.0,Mexico,True,False,367,1660,1,False,高优先级-标准复查
 Cu,-8.0,120.0,97.3,360.0,,False,False,617,0,0,False,不可行-海上
 Cu,36.0,28.0,97.3,350.0,,False,False,439,0,0,False,不可行-海上
 Cu,0.0,148.0,97.3,263.0,,False,False,1056,0,0,False,不可行-海上
-NiCo,38.0,16.0,97.3,493.0,Italy,True,False,268,35,0,False,高优先级-标准复查
+NiCo,-18.0,170.0,97.3,476.0,,False,False,181,0,0,False,不可行-海上
+NiCo,20.0,-106.0,97.3,436.0,,False,False,721,0,0,False,不可行-海上
+NiCo,38.0,16.0,97.3,493.0,Italy,True,False,268,37,0,False,高优先级-标准复查
 NiCo,-2.0,26.0,97.3,277.0,Dem. Rep. Congo,True,False,403,3,0,False,高优先级-标准复查
 NiCo,-2.0,144.0,97.3,407.0,,False,False,902,0,0,False,不可行-海上
-NiCo,8.0,44.0,97.3,233.0,Ethiopia,True,False,174,56,0,False,高优先级-标准复查
+NiCo,8.0,44.0,97.3,233.0,Ethiopia,True,False,174,58,0,False,高优先级-标准复查
 NiCo,44.0,-130.0,97.3,496.0,,False,False,787,0,0,False,不可行-海上
-NiCo,38.0,20.0,97.3,239.0,,False,False,327,0,0,False,不可行-海上
-NiCo,6.0,34.0,97.3,367.0,S. Sudan,True,False,298,14,0,False,高优先级-标准复查
 REE,8.0,32.0,97.3,247.0,S. Sudan,True,False,356,14,0,False,高优先级-标准复查
 REE,68.0,-24.0,97.3,382.0,,False,False,439,0,0,False,不可行-海上
-PGE,-2.0,28.0,97.3,245.0,Dem. Rep. Congo,True,False,215,3,0,False,高优先级-标准复查
-U,32.0,-102.0,97.3,238.0,United States of America,True,False,683,99203,7,False,高优先级-标准复查
+U,32.0,-102.0,97.3,238.0,United States of America,True,False,683,99245,7,False,高优先级-标准复查
 Diamond,-20.0,-40.0,97.3,229.0,,False,False,464,0,0,False,不可行-海上
 Diamond,62.0,-90.0,97.3,227.0,,False,False,2059,0,0,False,不可行-海上
-Diamond,20.0,80.0,97.3,231.0,India,True,False,754,433,0,False,高优先级-标准复查
+Diamond,20.0,80.0,97.3,231.0,India,True,False,754,438,0,False,高优先级-标准复查
 Diamond,-24.0,-44.0,97.3,232.0,,False,False,146,0,0,False,不可行-海上
 Au,36.0,22.0,97.2,270.0,,False,False,269,0,0,False,不可行-海上
 Au,-40.0,176.0,97.2,322.0,New Zealand,True,False,177,117,0,False,高优先级-标准复查
@@ -825,23 +823,22 @@ Au,46.0,144.0,97.2,239.0,,False,False,1201,0,0,False,不可行-海上
 Cu,36.0,26.0,97.2,376.0,,False,False,299,0,0,False,不可行-海上
 Cu,46.0,146.0,97.2,300.0,,False,False,1261,0,0,False,不可行-海上
 Cu,-40.0,-74.0,97.2,289.0,,False,False,788,0,0,False,不可行-海上
-Cu,38.0,16.0,97.2,509.0,Italy,True,False,268,35,0,False,高优先级-标准复查
+Cu,38.0,16.0,97.2,509.0,Italy,True,False,268,37,0,False,高优先级-标准复查
 Cu,16.0,-64.0,97.2,250.0,,False,False,199,0,0,False,不可行-海上
-NiCo,-4.0,142.0,97.2,247.0,Papua New Guinea,True,False,835,206,0,False,高优先级-标准复查
+NiCo,38.0,20.0,97.2,239.0,,False,False,327,0,0,False,不可行-海上
+NiCo,6.0,34.0,97.2,367.0,S. Sudan,True,False,298,14,0,False,高优先级-标准复查
+NiCo,-4.0,142.0,97.2,247.0,Papua New Guinea,True,False,835,209,0,False,高优先级-标准复查
 NiCo,0.0,-82.0,97.2,359.0,,False,False,390,0,0,False,不可行-海上
 NiCo,46.0,-2.0,97.2,278.0,,False,False,456,0,0,False,不可行-海上
-NiCo,24.0,-106.0,97.2,285.0,Mexico,True,False,601,1659,1,False,高优先级-标准复查
-NiCo,50.0,-130.0,97.2,556.0,,False,False,502,0,0,False,不可行-海上
-NiCo,20.0,-108.0,97.2,472.0,,False,False,930,0,0,False,不可行-海上
-NiCo,18.0,40.0,97.2,315.0,,False,False,318,0,0,False,不可行-海上
-REE,-10.0,38.0,97.2,289.0,Tanzania,True,False,382,59,1,False,高优先级-标准复查
-PGE,46.0,-128.0,97.2,305.0,,False,False,516,0,0,False,不可行-海上
-U,24.0,-106.0,97.2,239.0,Mexico,True,False,601,1659,1,False,高优先级-标准复查
-Diamond,32.0,-94.0,97.2,228.0,United States of America,True,False,282,99203,7,False,高优先级-标准复查
-Diamond,-10.0,30.0,97.2,233.0,Zambia,True,False,605,216,1,False,高优先级-标准复查
-Diamond,4.0,14.0,97.2,233.0,Cameroon,True,False,276,9,0,False,高优先级-标准复查
-Diamond,-20.0,30.0,97.2,235.0,Zimbabwe,True,False,266,268,1,False,高优先级-标准复查
-Diamond,72.0,118.0,97.2,239.0,Russia,True,False,2737,1706,5,False,低-极地冰盖
+NiCo,24.0,-106.0,97.2,285.0,Mexico,True,False,601,1660,1,False,高优先级-标准复查
+REE,-10.0,38.0,97.2,289.0,Tanzania,True,False,382,62,1,False,高优先级-标准复查
+PGE,-2.0,28.0,97.2,245.0,Dem. Rep. Congo,True,False,215,3,0,False,高优先级-标准复查
+U,24.0,-106.0,97.2,239.0,Mexico,True,False,601,1660,1,False,高优先级-标准复查
+Diamond,32.0,-94.0,97.2,228.0,United States of America,True,False,282,99245,7,False,高优先级-标准复查
+Diamond,-10.0,30.0,97.2,233.0,Zambia,True,False,605,226,1,False,高优先级-标准复查
+Diamond,4.0,14.0,97.2,233.0,Cameroon,True,False,276,10,0,False,高优先级-标准复查
+Diamond,-20.0,30.0,97.2,235.0,Zimbabwe,True,False,266,274,1,False,高优先级-标准复查
+Diamond,72.0,118.0,97.2,239.0,Russia,True,False,2737,1767,5,False,低-极地冰盖
 Au,4.0,126.0,97.1,334.0,,False,False,1030,0,0,False,不可行-海上
 Au,42.0,146.0,97.1,256.0,,False,False,886,0,0,False,不可行-海上
 Au,-40.0,-74.0,97.1,289.0,,False,False,788,0,0,False,不可行-海上
@@ -855,25 +852,26 @@ Cu,54.0,-176.0,97.1,241.0,,False,False,3600,0,0,False,不可行-海上
 Cu,38.0,136.0,97.1,236.0,,False,False,331,0,0,False,不可行-海上
 Cu,0.0,-76.0,97.1,290.0,Ecuador,True,False,279,405,0,False,高优先级-标准复查
 Cu,30.0,132.0,97.1,291.0,,False,False,617,0,0,False,不可行-海上
-NiCo,44.0,8.0,97.1,355.0,Italy,True,False,56,35,0,False,高优先级-标准复查
+NiCo,50.0,-130.0,97.1,556.0,,False,False,502,0,0,False,不可行-海上
+NiCo,20.0,-108.0,97.1,472.0,,False,False,930,0,0,False,不可行-海上
+NiCo,18.0,40.0,97.1,315.0,,False,False,318,0,0,False,不可行-海上
+NiCo,44.0,8.0,97.1,355.0,Italy,True,False,56,37,0,False,高优先级-标准复查
 NiCo,48.0,12.0,97.1,289.0,Germany,True,False,210,195,0,False,高优先级-标准复查
-NiCo,-10.0,36.0,97.1,364.0,Tanzania,True,False,425,59,1,False,高优先级-标准复查
-NiCo,38.0,-128.0,97.1,424.0,,False,False,492,0,0,False,不可行-海上
-NiCo,48.0,-2.0,97.1,238.0,France,True,False,335,272,0,False,高优先级-标准复查
-PGE,44.0,2.0,97.1,253.0,France,True,False,170,272,0,False,高优先级-标准复查
+NiCo,-10.0,36.0,97.1,364.0,Tanzania,True,False,425,62,1,False,高优先级-标准复查
+PGE,46.0,-128.0,97.1,305.0,,False,False,516,0,0,False,不可行-海上
 U,38.0,-124.0,97.1,280.0,,False,False,142,0,0,False,不可行-海上
-Diamond,16.0,-12.0,97.1,240.0,Mauritania,True,False,482,25,0,False,高优先级-标准复查
+Diamond,16.0,-12.0,97.1,240.0,Mauritania,True,False,482,27,0,False,高优先级-标准复查
 Diamond,4.0,-50.0,97.1,241.0,,False,False,608,0,0,False,不可行-海上
-Diamond,44.0,-88.0,97.1,242.0,United States of America,True,False,241,99203,7,False,高优先级-标准复查
+Diamond,44.0,-88.0,97.1,242.0,United States of America,True,False,241,99245,7,False,高优先级-标准复查
 Diamond,4.0,112.0,97.1,229.0,,False,False,340,0,0,False,不可行-海上
-Diamond,10.0,-2.0,97.1,243.0,Ghana,True,False,269,54,1,False,高优先级-标准复查
+Diamond,10.0,-2.0,97.1,243.0,Ghana,True,False,269,55,1,False,高优先级-标准复查
 Diamond,4.0,18.0,97.1,243.0,Central African Rep.,True,False,74,3,0,False,高优先级-标准复查
 Diamond,4.0,0.0,97.1,244.0,,False,False,174,0,0,False,不可行-海上
 Au,4.0,-78.0,97.0,247.0,,False,False,439,0,0,False,不可行-海上
-Au,2.0,-74.0,97.0,235.0,Colombia,True,False,289,716,0,False,高优先级-标准复查
+Au,2.0,-74.0,97.0,235.0,Colombia,True,False,289,717,0,False,高优先级-标准复查
 Au,40.0,24.0,97.0,224.0,Greece,True,False,225,67,0,False,高优先级-标准复查
 Au,-40.0,174.0,97.0,346.0,,False,False,158,0,0,False,不可行-海上
-Au,-34.0,-68.0,97.0,301.0,Argentina,True,False,253,1092,1,False,高优先级-标准复查
+Au,-34.0,-68.0,97.0,301.0,Argentina,True,False,253,1099,1,False,高优先级-标准复查
 Au,30.0,130.0,97.0,357.0,,False,False,734,0,0,False,不可行-海上
 Au,36.0,132.0,97.0,336.0,,False,False,350,0,0,False,不可行-海上
 Au,54.0,-174.0,97.0,295.0,,False,False,3473,0,0,False,不可行-海上
@@ -885,23 +883,25 @@ Cu,-8.0,152.0,97.0,289.0,,False,False,553,0,0,False,不可行-海上
 Cu,40.0,18.0,97.0,228.0,,False,False,213,0,0,False,不可行-海上
 Cu,52.0,154.0,97.0,311.0,,False,False,2135,0,0,False,不可行-海上
 Cu,6.0,98.0,97.0,287.0,,False,False,518,0,0,False,不可行-海上
-Cu,18.0,-94.0,97.0,381.0,Mexico,True,False,527,1659,1,False,高优先级-标准复查
+Cu,18.0,-94.0,97.0,381.0,Mexico,True,False,527,1660,1,False,高优先级-标准复查
 Cu,-18.0,176.0,97.0,257.0,,False,False,259,0,0,False,不可行-海上
-Cu,42.0,14.0,97.0,468.0,Italy,True,False,126,35,0,False,高优先级-标准复查
-NiCo,12.0,38.0,97.0,386.0,Ethiopia,True,False,338,56,0,False,高优先级-标准复查
-NiCo,36.0,-102.0,97.0,263.0,United States of America,True,False,492,99203,7,False,高优先级-标准复查
+Cu,42.0,14.0,97.0,468.0,Italy,True,False,126,37,0,False,高优先级-标准复查
+NiCo,38.0,-128.0,97.0,424.0,,False,False,492,0,0,False,不可行-海上
+NiCo,48.0,-2.0,97.0,238.0,France,True,False,335,274,0,False,高优先级-标准复查
+NiCo,12.0,38.0,97.0,386.0,Ethiopia,True,False,338,58,0,False,高优先级-标准复查
+NiCo,36.0,-102.0,97.0,263.0,United States of America,True,False,492,99245,7,False,高优先级-标准复查
 NiCo,-2.0,-82.0,97.0,313.0,,False,False,437,0,0,False,不可行-海上
-NiCo,20.0,-112.0,97.0,468.0,,False,False,1348,0,0,False,不可行-海上
+PGE,44.0,2.0,97.0,253.0,France,True,False,170,274,0,False,高优先级-标准复查
 PGE,12.0,44.0,97.0,247.0,,False,False,103,0,0,False,不可行-海上
-U,48.0,0.0,97.0,259.0,France,True,False,198,272,0,False,高优先级-标准复查
-Diamond,48.0,-90.0,97.0,246.0,United States of America,True,False,709,99203,7,False,高优先级-标准复查
+U,48.0,0.0,97.0,259.0,France,True,False,198,274,0,False,高优先级-标准复查
+Diamond,48.0,-90.0,97.0,246.0,United States of America,True,False,709,99245,7,False,高优先级-标准复查
 Diamond,-4.0,24.0,97.0,245.0,Dem. Rep. Congo,True,False,599,3,0,False,高优先级-标准复查
 Diamond,-36.0,152.0,97.0,247.0,,False,False,247,0,0,False,不可行-海上
-Diamond,72.0,104.0,97.0,249.0,Russia,True,False,2682,1706,5,False,低-极地冰盖
-Diamond,68.0,22.0,97.0,245.0,Sweden,True,False,883,146,0,False,高优先级-标准复查
-Diamond,18.0,82.0,97.0,246.0,India,True,False,734,433,0,False,高优先级-标准复查
+Diamond,72.0,104.0,97.0,249.0,Russia,True,False,2682,1767,5,False,低-极地冰盖
+Diamond,68.0,22.0,97.0,245.0,Sweden,True,False,883,150,0,False,高优先级-标准复查
+Diamond,18.0,82.0,97.0,246.0,India,True,False,734,438,0,False,高优先级-标准复查
 Diamond,74.0,112.0,97.0,252.0,,False,False,2911,0,0,False,不可行-海上
-Diamond,-20.0,-58.0,97.0,229.0,Bolivia,True,False,590,794,1,False,高优先级-标准复查
+Diamond,-20.0,-58.0,97.0,229.0,Bolivia,True,False,590,797,1,False,高优先级-标准复查
 Au,38.0,136.0,96.9,277.0,,False,False,331,0,0,False,不可行-海上
 Au,14.0,-92.0,96.9,345.0,,False,False,173,0,0,False,不可行-海上
 Au,20.0,122.0,96.9,360.0,,False,False,425,0,0,False,不可行-海上
@@ -915,16 +915,15 @@ Cu,12.0,-90.0,96.9,276.0,,False,False,208,0,0,False,不可行-海上
 Cu,14.0,94.0,96.9,294.0,,False,False,387,0,0,False,不可行-海上
 Cu,54.0,-178.0,96.9,227.0,,False,False,3727,0,0,False,不可行-海上
 Cu,44.0,148.0,96.9,400.0,,False,False,1161,0,0,False,不可行-海上
-NiCo,54.0,-136.0,96.9,227.0,,False,False,1030,0,0,False,不可行-海上
-NiCo,54.0,10.0,96.9,233.0,Germany,True,False,249,195,0,False,高优先级-标准复查
+NiCo,20.0,-112.0,96.9,468.0,,False,False,1348,0,0,False,不可行-海上
 PGE,12.0,42.0,96.9,264.0,Djibouti,True,False,133,3,0,False,高优先级-标准复查
 PGE,4.0,36.0,96.9,265.0,Kenya,True,False,499,22,0,False,高优先级-标准复查
 U,46.0,-2.0,96.9,252.0,,False,False,456,0,0,False,不可行-海上
 U,54.0,-136.0,96.9,224.0,,False,False,1030,0,0,False,不可行-海上
 Diamond,-14.0,16.0,96.9,254.0,Angola,True,False,649,66,1,False,高优先级-标准复查
-Diamond,74.0,110.0,96.9,254.0,Russia,True,False,2904,1706,5,False,低-极地冰盖
-Diamond,6.0,14.0,96.9,255.0,Cameroon,True,False,363,9,0,False,高优先级-标准复查
-Diamond,-24.0,32.0,96.9,256.0,Mozambique,True,False,225,27,0,False,高优先级-标准复查
+Diamond,74.0,110.0,96.9,254.0,Russia,True,False,2904,1767,5,False,低-极地冰盖
+Diamond,6.0,14.0,96.9,255.0,Cameroon,True,False,363,10,0,False,高优先级-标准复查
+Diamond,-24.0,32.0,96.9,256.0,Mozambique,True,False,225,28,0,False,高优先级-标准复查
 Diamond,12.0,-14.0,96.9,257.0,Guinea-Bissau,True,False,175,19,0,False,高优先级-标准复查
 Diamond,10.0,-16.0,96.9,258.0,,False,False,212,0,0,False,不可行-海上
 Au,16.0,124.0,96.8,232.0,,False,False,359,0,0,False,不可行-海上
@@ -937,15 +936,14 @@ Cu,-8.0,154.0,96.8,260.0,,False,False,673,0,0,False,不可行-海上
 Cu,-20.0,176.0,96.8,335.0,,False,False,330,0,0,False,不可行-海上
 Cu,0.0,146.0,96.8,258.0,,False,False,1061,0,0,False,不可行-海上
 Cu,0.0,124.0,96.8,420.0,,False,False,968,0,0,False,不可行-海上
-PGE,30.0,-116.0,96.8,328.0,,False,False,497,0,0,False,不可行-海上
 U,22.0,-112.0,96.8,276.0,,False,False,1254,0,0,False,不可行-海上
 U,50.0,8.0,96.8,301.0,Germany,True,False,141,195,0,False,高优先级-标准复查
 Diamond,-8.0,28.0,96.8,260.0,Dem. Rep. Congo,True,False,536,3,0,False,高优先级-标准复查
-Diamond,70.0,22.0,96.8,266.0,Norway,True,False,1102,148,1,False,高优先级-标准复查
+Diamond,70.0,22.0,96.8,266.0,Norway,True,False,1102,156,1,False,高优先级-标准复查
 Diamond,4.0,-2.0,96.8,262.0,,False,False,262,0,0,False,不可行-海上
 Diamond,-24.0,-46.0,96.8,263.0,,False,False,81,0,0,False,不可行-海上
 Diamond,16.0,-14.0,96.8,263.0,Senegal,True,False,313,9,0,False,高优先级-标准复查
-Diamond,10.0,0.0,96.8,263.0,Ghana,True,False,312,54,1,False,高优先级-标准复查
+Diamond,10.0,0.0,96.8,263.0,Ghana,True,False,312,55,1,False,高优先级-标准复查
 Au,-20.0,176.0,96.7,344.0,,False,False,330,0,0,False,不可行-海上
 Au,22.0,122.0,96.7,335.0,,False,False,340,0,0,False,不可行-海上
 Au,20.0,-94.0,96.7,317.0,,False,False,541,0,0,False,不可行-海上
@@ -958,21 +956,22 @@ Cu,50.0,156.0,96.7,446.0,,False,False,2062,0,0,False,不可行-海上
 Cu,38.0,-126.0,96.7,276.0,,False,False,317,0,0,False,不可行-海上
 Cu,-20.0,180.0,96.7,272.0,,False,False,264,0,0,False,不可行-海上
 Cu,60.0,160.0,96.7,312.0,,False,False,3069,0,0,False,不可行-海上
-Cu,-50.0,-72.0,96.7,403.0,Argentina,True,False,1845,1092,1,False,高优先级-标准复查
+Cu,-50.0,-72.0,96.7,403.0,Argentina,True,False,1845,1099,1,False,高优先级-标准复查
 Cu,46.0,148.0,96.7,434.0,,False,False,1339,0,0,False,不可行-海上
 Cu,0.0,122.0,96.7,453.0,,False,False,954,0,0,False,不可行-海上
 Cu,56.0,-168.0,96.7,271.0,,False,False,3060,0,0,False,不可行-海上
+PGE,30.0,-116.0,96.7,328.0,,False,False,497,0,0,False,不可行-海上
 U,52.0,10.0,96.7,276.0,Germany,True,False,239,195,0,False,高优先级-标准复查
 U,30.0,-116.0,96.7,326.0,,False,False,497,0,0,False,不可行-海上
 U,22.0,-110.0,96.7,292.0,,False,False,1064,0,0,False,不可行-海上
 Diamond,6.0,18.0,96.7,264.0,Central African Rep.,True,False,192,3,0,False,高优先级-标准复查
 Diamond,68.0,42.0,96.7,266.0,,False,False,1195,0,0,False,不可行-海上
-Diamond,36.0,-92.0,96.7,266.0,United States of America,True,False,740,99203,7,False,高优先级-标准复查
-Diamond,-4.0,36.0,96.7,266.0,Tanzania,True,False,244,59,1,False,高优先级-标准复查
+Diamond,36.0,-92.0,96.7,266.0,United States of America,True,False,740,99245,7,False,高优先级-标准复查
+Diamond,-4.0,36.0,96.7,266.0,Tanzania,True,False,244,62,1,False,高优先级-标准复查
 Diamond,74.0,114.0,96.7,268.0,,False,False,2920,0,0,False,不可行-海上
 Diamond,-6.0,26.0,96.7,268.0,Dem. Rep. Congo,True,False,473,3,0,False,高优先级-标准复查
 Diamond,-12.0,20.0,96.7,268.0,Angola,True,False,819,66,1,False,高优先级-标准复查
-Au,-44.0,-70.0,96.6,317.0,Argentina,True,False,1176,1092,1,False,高优先级-标准复查
+Au,-44.0,-70.0,96.6,317.0,Argentina,True,False,1176,1099,1,False,高优先级-标准复查
 Au,10.0,-62.0,96.6,287.0,,False,False,90,0,0,False,不可行-海上
 Au,34.0,126.0,96.6,226.0,,False,False,407,0,0,False,不可行-海上
 Au,-2.0,-82.0,96.6,249.0,,False,False,437,0,0,False,不可行-海上
@@ -985,12 +984,11 @@ Cu,-2.0,-76.0,96.6,262.0,Peru,True,False,342,1828,0,False,高优先级-标准复
 Cu,60.0,158.0,96.6,242.0,,False,False,3004,0,0,False,不可行-海上
 Cu,36.0,24.0,96.6,455.0,,False,False,222,0,0,False,不可行-海上
 PGE,50.0,-130.0,96.6,335.0,,False,False,502,0,0,False,不可行-海上
-PGE,-2.0,146.0,96.6,339.0,,False,False,840,0,0,False,不可行-海上
-U,44.0,4.0,96.6,297.0,France,True,False,260,272,0,False,高优先级-标准复查
+U,44.0,4.0,96.6,297.0,France,True,False,260,274,0,False,高优先级-标准复查
 Diamond,6.0,-10.0,96.6,268.0,Liberia,True,False,95,30,0,False,高优先级-标准复查
 Diamond,6.0,-12.0,96.6,268.0,,False,False,137,0,0,False,不可行-海上
-Diamond,74.0,108.0,96.6,271.0,Russia,True,False,2901,1706,5,False,低-极地冰盖
-Diamond,44.0,-106.0,96.6,263.0,United States of America,True,False,481,99203,7,False,高优先级-标准复查
+Diamond,74.0,108.0,96.6,271.0,Russia,True,False,2901,1767,5,False,低-极地冰盖
+Diamond,44.0,-106.0,96.6,263.0,United States of America,True,False,481,99245,7,False,高优先级-标准复查
 Au,20.0,-64.0,96.5,263.0,,False,False,329,0,0,False,不可行-海上
 Au,16.0,-100.0,96.5,263.0,,False,False,394,0,0,False,不可行-海上
 Au,50.0,-174.0,96.5,278.0,,False,False,3593,0,0,False,不可行-海上
@@ -1002,19 +1000,19 @@ Au,20.0,-62.0,96.5,248.0,,False,False,309,0,0,False,不可行-海上
 Au,10.0,-60.0,96.5,242.0,,False,False,181,0,0,False,不可行-海上
 Au,8.0,-86.0,96.5,271.0,,False,False,301,0,0,False,不可行-海上
 Cu,20.0,-94.0,96.5,331.0,,False,False,541,0,0,False,不可行-海上
-Cu,-52.0,-70.0,96.5,477.0,Argentina,True,False,2064,1092,1,False,高优先级-标准复查
+Cu,-52.0,-70.0,96.5,477.0,Argentina,True,False,2064,1099,1,False,高优先级-标准复查
 Cu,0.0,126.0,96.5,385.0,,False,False,953,0,0,False,不可行-海上
 Cu,-6.0,124.0,96.5,329.0,,False,False,334,0,0,False,不可行-海上
 Cu,-46.0,-76.0,96.5,283.0,,False,False,1469,0,0,False,不可行-海上
-Cu,-50.0,-70.0,96.5,290.0,Argentina,True,False,1842,1092,1,False,高优先级-标准复查
+Cu,-50.0,-70.0,96.5,290.0,Argentina,True,False,1842,1099,1,False,高优先级-标准复查
 Cu,18.0,-106.0,96.5,346.0,,False,False,741,0,0,False,不可行-海上
-PGE,50.0,-132.0,96.5,301.0,,False,False,644,0,0,False,不可行-海上
-Diamond,22.0,84.0,96.5,274.0,India,True,False,454,433,0,False,高优先级-标准复查
+PGE,-2.0,146.0,96.5,339.0,,False,False,840,0,0,False,不可行-海上
+Diamond,22.0,84.0,96.5,274.0,India,True,False,454,438,0,False,高优先级-标准复查
 Diamond,6.0,-8.0,96.5,274.0,Liberia,True,False,311,30,0,False,高优先级-标准复查
 Diamond,-32.0,18.0,96.5,277.0,,False,False,217,0,0,False,不可行-海上
-Diamond,42.0,-102.0,96.5,277.0,United States of America,True,False,355,99203,7,False,高优先级-标准复查
-Diamond,32.0,-92.0,96.5,274.0,United States of America,True,False,406,99203,7,False,高优先级-标准复查
-Diamond,-12.0,26.0,96.5,278.0,Zambia,True,False,453,216,1,False,高优先级-标准复查
+Diamond,42.0,-102.0,96.5,277.0,United States of America,True,False,355,99245,7,False,高优先级-标准复查
+Diamond,32.0,-92.0,96.5,274.0,United States of America,True,False,406,99245,7,False,高优先级-标准复查
+Diamond,-12.0,26.0,96.5,278.0,Zambia,True,False,453,226,1,False,高优先级-标准复查
 Au,16.0,-102.0,96.4,235.0,,False,False,489,0,0,False,不可行-海上
 Au,-6.0,154.0,96.4,426.0,,False,False,759,0,0,False,不可行-海上
 Au,-18.0,-74.0,96.4,241.0,,False,False,643,0,0,False,不可行-海上
@@ -1027,192 +1025,187 @@ Cu,-36.0,-74.0,96.4,251.0,,False,False,394,0,0,False,不可行-海上
 Cu,32.0,138.0,96.4,377.0,,False,False,379,0,0,False,不可行-海上
 Cu,4.0,128.0,96.4,277.0,,False,False,829,0,0,False,不可行-海上
 Cu,34.0,142.0,96.4,311.0,,False,False,278,0,0,False,不可行-海上
-PGE,-10.0,32.0,96.4,261.0,Zambia,True,False,484,216,1,False,高优先级-标准复查
-PGE,8.0,42.0,96.4,251.0,Ethiopia,True,False,286,56,0,False,高优先级-标准复查
+PGE,50.0,-132.0,96.4,301.0,,False,False,644,0,0,False,不可行-海上
 U,-4.0,-82.0,96.4,233.0,,False,False,573,0,0,False,不可行-海上
 Diamond,-32.0,16.0,96.4,280.0,,False,False,311,0,0,False,不可行-海上
-Diamond,-6.0,34.0,96.4,280.0,Tanzania,True,False,195,59,1,False,高优先级-标准复查
-Diamond,44.0,-90.0,96.4,280.0,United States of America,True,False,307,99203,7,False,高优先级-标准复查
+Diamond,-6.0,34.0,96.4,280.0,Tanzania,True,False,195,62,1,False,高优先级-标准复查
+Diamond,44.0,-90.0,96.4,280.0,United States of America,True,False,307,99245,7,False,高优先级-标准复查
 Diamond,70.0,34.0,96.4,288.0,,False,False,1170,0,0,False,不可行-海上
 Au,44.0,148.0,96.3,406.0,,False,False,1161,0,0,False,不可行-海上
 Au,30.0,132.0,96.3,363.0,,False,False,617,0,0,False,不可行-海上
-Au,38.0,30.0,96.3,267.0,Turkey,True,False,327,241,0,False,高优先级-标准复查
+Au,38.0,30.0,96.3,267.0,Turkey,True,False,327,243,0,False,高优先级-标准复查
 Au,38.0,20.0,96.3,327.0,,False,False,327,0,0,False,不可行-海上
 Au,6.0,-84.0,96.3,273.0,,False,False,437,0,0,False,不可行-海上
 Au,16.0,118.0,96.3,299.0,,False,False,279,0,0,False,不可行-海上
+PGE,-10.0,32.0,96.3,261.0,Zambia,True,False,484,226,1,False,高优先级-标准复查
+PGE,8.0,42.0,96.3,251.0,Ethiopia,True,False,286,58,0,False,高优先级-标准复查
 PGE,2.0,38.0,96.3,280.0,Kenya,True,False,388,22,0,False,高优先级-标准复查
-PGE,-2.0,34.0,96.3,267.0,Tanzania,True,False,302,59,1,False,高优先级-标准复查
 U,24.0,-108.0,96.3,287.0,,False,False,796,0,0,False,不可行-海上
 U,32.0,-120.0,96.3,276.0,,False,False,281,0,0,False,不可行-海上
 Au,58.0,-148.0,96.2,225.0,,False,False,1889,0,0,False,不可行-海上
 Au,56.0,-170.0,96.2,314.0,,False,False,3184,0,0,False,不可行-海上
-PGE,-8.0,36.0,96.2,248.0,Tanzania,True,False,204,59,1,False,高优先级-标准复查
-PGE,-2.0,32.0,96.1,248.0,Tanzania,True,False,216,59,1,False,高优先级-标准复查
-PGE,2.0,28.0,96.1,248.0,Dem. Rep. Congo,True,False,495,3,0,False,高优先级-标准复查
-PGE,-6.0,150.0,96.0,314.0,Papua New Guinea,True,False,494,206,0,False,高优先级-标准复查
-PGE,-4.0,148.0,96.0,365.0,,False,False,614,0,0,False,不可行-海上
-U,26.0,-102.0,96.0,226.0,Mexico,True,False,171,1659,1,False,高优先级-标准复查
-U,8.0,42.0,96.0,299.0,Ethiopia,True,False,286,56,0,False,高优先级-标准复查
-U,42.0,-2.0,96.0,240.0,Spain,True,False,227,144,0,False,高优先级-标准复查
+PGE,-2.0,34.0,96.2,267.0,Tanzania,True,False,302,62,1,False,高优先级-标准复查
+PGE,-8.0,36.0,96.1,248.0,Tanzania,True,False,204,62,1,False,高优先级-标准复查
+PGE,2.0,28.0,96.0,248.0,Dem. Rep. Congo,True,False,495,3,0,False,高优先级-标准复查
+U,26.0,-102.0,96.0,226.0,Mexico,True,False,171,1660,1,False,高优先级-标准复查
+U,8.0,42.0,96.0,299.0,Ethiopia,True,False,286,58,0,False,高优先级-标准复查
+U,42.0,-2.0,96.0,240.0,Spain,True,False,227,146,0,False,高优先级-标准复查
+PGE,-6.0,150.0,95.9,314.0,Papua New Guinea,True,False,494,209,0,False,高优先级-标准复查
+PGE,-4.0,148.0,95.9,365.0,,False,False,614,0,0,False,不可行-海上
+PGE,68.0,-26.0,95.9,236.0,,False,False,466,0,0,False,不可行-海上
 PGE,-4.0,28.0,95.9,248.0,Dem. Rep. Congo,True,False,166,3,0,False,高优先级-标准复查
-PGE,46.0,10.0,95.9,242.0,Italy,True,False,131,35,0,False,高优先级-标准复查
 U,52.0,-132.0,95.9,306.0,,False,False,695,0,0,False,不可行-海上
-U,60.0,-154.0,95.9,228.0,United States of America,True,False,2286,99203,7,False,高优先级-标准复查
-U,8.0,44.0,95.9,277.0,Ethiopia,True,False,174,56,0,False,高优先级-标准复查
+U,60.0,-154.0,95.9,228.0,United States of America,True,False,2286,99245,7,False,高优先级-标准复查
+U,8.0,44.0,95.9,277.0,Ethiopia,True,False,174,58,0,False,高优先级-标准复查
+PGE,46.0,10.0,95.8,242.0,Italy,True,False,131,37,0,False,高优先级-标准复查
 PGE,66.0,-32.0,95.8,227.0,,False,False,514,0,0,False,不可行-海上
-PGE,0.0,-82.0,95.8,283.0,,False,False,390,0,0,False,不可行-海上
-U,28.0,-114.0,95.8,351.0,Mexico,True,False,784,1659,1,False,高优先级-标准复查
+U,28.0,-114.0,95.8,351.0,Mexico,True,False,784,1660,1,False,高优先级-标准复查
 U,0.0,42.0,95.8,271.0,Somalia,True,False,439,96,0,False,高优先级-标准复查
-PGE,48.0,-130.0,95.7,341.0,,False,False,525,0,0,False,不可行-海上
-U,26.0,-108.0,95.7,317.0,Mexico,True,False,768,1659,1,False,高优先级-标准复查
-U,38.0,-100.0,95.7,239.0,United States of America,True,False,473,99203,7,False,高优先级-标准复查
-PGE,26.0,-110.0,95.6,321.0,,False,False,968,0,0,False,不可行-海上
-PGE,-8.0,30.0,95.6,231.0,Dem. Rep. Congo,True,False,519,3,0,False,高优先级-标准复查
-U,48.0,16.0,95.6,238.0,Austria,True,False,35,12,0,False,高优先级-标准复查
-U,48.0,4.0,95.6,319.0,France,True,False,154,272,0,False,高优先级-标准复查
-U,-12.0,30.0,95.6,266.0,Zambia,True,False,423,216,1,False,高优先级-标准复查
-PGE,16.0,-102.0,95.5,308.0,,False,False,489,0,0,False,不可行-海上
-PGE,48.0,2.0,95.5,281.0,France,True,False,99,272,0,False,高优先级-标准复查
+PGE,0.0,-82.0,95.7,283.0,,False,False,390,0,0,False,不可行-海上
+PGE,66.0,-30.0,95.7,254.0,,False,False,430,0,0,False,不可行-海上
+U,26.0,-108.0,95.7,317.0,Mexico,True,False,768,1660,1,False,高优先级-标准复查
+U,38.0,-100.0,95.7,239.0,United States of America,True,False,473,99245,7,False,高优先级-标准复查
+PGE,48.0,-130.0,95.6,341.0,,False,False,525,0,0,False,不可行-海上
+U,48.0,16.0,95.6,238.0,Austria,True,False,35,13,0,False,高优先级-标准复查
+U,48.0,4.0,95.6,319.0,France,True,False,154,274,0,False,高优先级-标准复查
+U,-12.0,30.0,95.6,266.0,Zambia,True,False,423,226,1,False,高优先级-标准复查
+PGE,26.0,-110.0,95.5,321.0,,False,False,968,0,0,False,不可行-海上
+PGE,-8.0,30.0,95.5,231.0,Dem. Rep. Congo,True,False,519,3,0,False,高优先级-标准复查
 U,52.0,-130.0,95.5,333.0,,False,False,571,0,0,False,不可行-海上
 U,60.0,-146.0,95.5,225.0,,False,False,1878,0,0,False,不可行-海上
-U,-16.0,-68.0,95.5,236.0,Bolivia,True,False,57,794,1,False,高优先级-标准复查
-U,-38.0,-68.0,95.5,239.0,Argentina,True,False,561,1092,1,False,高优先级-标准复查
-PGE,66.0,-30.0,95.4,258.0,,False,False,430,0,0,False,不可行-海上
-PGE,8.0,44.0,95.4,233.0,Ethiopia,True,False,174,56,0,False,高优先级-标准复查
+U,-16.0,-68.0,95.5,236.0,Bolivia,True,False,57,797,1,False,高优先级-标准复查
+U,-38.0,-68.0,95.5,239.0,Argentina,True,False,561,1099,1,False,高优先级-标准复查
+PGE,16.0,-102.0,95.4,308.0,,False,False,489,0,0,False,不可行-海上
+PGE,48.0,2.0,95.4,281.0,France,True,False,99,274,0,False,高优先级-标准复查
 U,40.0,-126.0,95.4,360.0,,False,False,397,0,0,False,不可行-海上
-U,24.0,-102.0,95.4,258.0,Mexico,True,False,251,1659,1,False,高优先级-标准复查
+U,24.0,-102.0,95.4,258.0,Mexico,True,False,251,1660,1,False,高优先级-标准复查
 U,-16.0,-72.0,95.4,247.0,Peru,True,False,414,1828,0,False,高优先级-标准复查
-PGE,42.0,18.0,95.3,240.0,,False,False,116,0,0,False,不可行-海上
-PGE,40.0,-128.0,95.3,348.0,,False,False,544,0,0,False,不可行-海上
+PGE,8.0,44.0,95.3,233.0,Ethiopia,True,False,174,58,0,False,高优先级-标准复查
 U,-18.0,-72.0,95.3,243.0,,False,False,442,0,0,False,不可行-海上
-U,-44.0,-70.0,95.3,242.0,Argentina,True,False,1176,1092,1,False,高优先级-标准复查
+U,-44.0,-70.0,95.3,242.0,Argentina,True,False,1176,1099,1,False,高优先级-标准复查
 U,-14.0,-72.0,95.3,248.0,Peru,True,False,497,1828,0,False,高优先级-标准复查
-U,-32.0,-66.0,95.3,233.0,Argentina,True,False,464,1092,1,False,高优先级-标准复查
-PGE,48.0,4.0,95.2,288.0,France,True,False,154,272,0,False,高优先级-标准复查
-U,40.0,-100.0,95.2,264.0,United States of America,True,False,426,99203,7,False,高优先级-标准复查
-U,-14.0,-68.0,95.2,237.0,Bolivia,True,False,278,794,1,False,高优先级-标准复查
+U,-32.0,-66.0,95.3,233.0,Argentina,True,False,464,1099,1,False,高优先级-标准复查
+PGE,42.0,18.0,95.2,240.0,,False,False,116,0,0,False,不可行-海上
+PGE,40.0,-128.0,95.2,348.0,,False,False,544,0,0,False,不可行-海上
+U,40.0,-100.0,95.2,264.0,United States of America,True,False,426,99245,7,False,高优先级-标准复查
+U,-14.0,-68.0,95.2,237.0,Bolivia,True,False,278,797,1,False,高优先级-标准复查
 U,-12.0,-74.0,95.2,238.0,Peru,True,False,332,1828,0,False,高优先级-标准复查
-U,60.0,-156.0,95.1,251.0,United States of America,True,False,2393,99203,7,False,高优先级-标准复查
+PGE,48.0,4.0,95.1,288.0,France,True,False,154,274,0,False,高优先级-标准复查
+U,60.0,-156.0,95.1,251.0,United States of America,True,False,2393,99245,7,False,高优先级-标准复查
 U,0.0,44.0,95.1,252.0,,False,False,276,0,0,False,不可行-海上
 U,10.0,46.0,95.1,301.0,Somaliland,True,False,218,19,0,False,高优先级-标准复查
 U,46.0,-128.0,95.1,374.0,,False,False,516,0,0,False,不可行-海上
-U,60.0,-162.0,95.0,241.0,United States of America,True,False,2719,99203,7,False,高优先级-标准复查
+U,60.0,-162.0,95.0,241.0,United States of America,True,False,2719,99245,7,False,高优先级-标准复查
 U,44.0,-128.0,95.0,366.0,,False,False,694,0,0,False,不可行-海上
 U,2.0,40.0,95.0,336.0,Kenya,True,False,508,22,0,False,高优先级-标准复查
 PGE,54.0,10.0,94.9,226.0,Germany,True,False,249,195,0,False,高优先级-标准复查
-U,34.0,-96.0,94.9,231.0,United States of America,True,False,478,99203,7,False,高优先级-标准复查
+U,34.0,-96.0,94.9,231.0,United States of America,True,False,478,99245,7,False,高优先级-标准复查
 U,56.0,-150.0,94.9,247.0,,False,False,1946,0,0,False,不可行-海上
 U,-6.0,-78.0,94.9,250.0,Peru,True,False,646,1828,0,False,高优先级-标准复查
-U,-34.0,-66.0,94.9,251.0,Argentina,True,False,435,1092,1,False,高优先级-标准复查
-PGE,30.0,-108.0,94.8,274.0,Mexico,True,False,894,1659,1,False,高优先级-标准复查
-PGE,66.0,-34.0,94.8,227.0,,False,False,601,0,0,False,不可行-海上
-U,46.0,-100.0,94.8,239.0,United States of America,True,False,805,99203,7,False,高优先级-标准复查
+U,-34.0,-66.0,94.9,251.0,Argentina,True,False,435,1099,1,False,高优先级-标准复查
+PGE,30.0,-108.0,94.8,274.0,Mexico,True,False,894,1660,1,False,高优先级-标准复查
+U,46.0,-100.0,94.8,239.0,United States of America,True,False,805,99245,7,False,高优先级-标准复查
 U,30.0,-118.0,94.8,351.0,,False,False,451,0,0,False,不可行-海上
-U,10.0,40.0,94.8,360.0,Ethiopia,True,False,179,56,0,False,高优先级-标准复查
+U,10.0,40.0,94.8,360.0,Ethiopia,True,False,179,58,0,False,高优先级-标准复查
 U,6.0,-56.0,94.8,226.0,,False,False,94,0,0,False,不可行-海上
+PGE,66.0,-34.0,94.7,227.0,,False,False,601,0,0,False,不可行-海上
 PGE,48.0,12.0,94.7,266.0,Germany,True,False,210,195,0,False,高优先级-标准复查
-U,38.0,38.0,94.7,226.0,Turkey,True,False,493,241,0,False,高优先级-标准复查
+U,38.0,38.0,94.7,226.0,Turkey,True,False,493,243,0,False,高优先级-标准复查
 U,68.0,-166.0,94.7,229.0,,False,False,3129,0,0,False,不可行-海上
-U,-14.0,-64.0,94.7,235.0,Bolivia,True,False,525,794,1,False,高优先级-标准复查
-U,44.0,-98.0,94.7,246.0,United States of America,True,False,747,99203,7,False,高优先级-标准复查
+U,-14.0,-64.0,94.7,235.0,Bolivia,True,False,525,797,1,False,高优先级-标准复查
+U,44.0,-98.0,94.7,246.0,United States of America,True,False,747,99245,7,False,高优先级-标准复查
 U,58.0,-148.0,94.7,263.0,,False,False,1889,0,0,False,不可行-海上
-U,48.0,-98.0,94.7,230.0,United States of America,True,False,1063,99203,7,False,高优先级-标准复查
+U,48.0,-98.0,94.7,230.0,United States of America,True,False,1063,99245,7,False,高优先级-标准复查
 U,-6.0,-34.0,94.7,224.0,,False,False,1867,0,0,False,不可行-海上
-U,70.0,-160.0,94.7,239.0,United States of America,True,False,3007,99203,7,False,高优先级-标准复查
+U,70.0,-160.0,94.7,239.0,United States of America,True,False,3007,99245,7,False,高优先级-标准复查
 U,52.0,-134.0,94.6,332.0,,False,False,824,0,0,False,不可行-海上
 U,52.0,16.0,94.6,281.0,Poland,True,False,186,87,0,False,高优先级-标准复查
-U,-10.0,30.0,94.6,321.0,Zambia,True,False,605,216,1,False,高优先级-标准复查
+U,-10.0,30.0,94.6,321.0,Zambia,True,False,605,226,1,False,高优先级-标准复查
 U,26.0,-84.0,94.6,227.0,,False,False,359,0,0,False,不可行-海上
-U,38.0,-92.0,94.6,231.0,United States of America,True,False,567,99203,7,False,高优先级-标准复查
+U,38.0,-92.0,94.6,231.0,United States of America,True,False,567,99245,7,False,高优先级-标准复查
 U,-14.0,-76.0,94.6,267.0,Peru,True,False,245,1828,0,False,高优先级-标准复查
-U,-18.0,-62.0,94.6,244.0,Bolivia,True,False,363,794,1,False,高优先级-标准复查
+U,-18.0,-62.0,94.6,244.0,Bolivia,True,False,363,797,1,False,高优先级-标准复查
 U,-14.0,126.0,94.6,247.0,,False,False,607,0,0,False,不可行-海上
-PGE,12.0,36.0,94.5,240.0,Ethiopia,True,False,442,56,0,False,高优先级-标准复查
-U,44.0,-96.0,94.5,241.0,United States of America,True,False,722,99203,7,False,高优先级-标准复查
+U,44.0,-96.0,94.5,241.0,United States of America,True,False,722,99245,7,False,高优先级-标准复查
 U,-24.0,-46.0,94.5,232.0,,False,False,81,0,0,False,不可行-海上
-U,46.0,6.0,94.5,368.0,France,True,False,26,272,0,False,高优先级-标准复查
+U,46.0,6.0,94.5,368.0,France,True,False,26,274,0,False,高优先级-标准复查
 U,-34.0,-72.0,94.5,278.0,,False,False,112,0,0,False,不可行-海上
 U,22.0,32.0,94.5,239.0,Sudan,True,False,715,14,0,False,高优先级-标准复查
 U,36.0,-74.0,94.5,234.0,,False,False,418,0,0,False,不可行-海上
-U,-48.0,-70.0,94.5,277.0,Argentina,True,False,1620,1092,1,False,高优先级-标准复查
-U,-22.0,32.0,94.5,234.0,Mozambique,True,False,444,27,0,False,高优先级-标准复查
-U,-26.0,32.0,94.5,234.0,Mozambique,True,False,59,27,0,False,高优先级-标准复查
+U,-48.0,-70.0,94.5,277.0,Argentina,True,False,1620,1099,1,False,高优先级-标准复查
+U,-22.0,32.0,94.5,234.0,Mozambique,True,False,444,28,0,False,高优先级-标准复查
+U,-26.0,32.0,94.5,234.0,Mozambique,True,False,59,28,0,False,高优先级-标准复查
+PGE,12.0,36.0,94.4,240.0,Ethiopia,True,False,442,58,0,False,高优先级-标准复查
 U,48.0,8.0,94.4,358.0,Germany,True,False,127,195,0,False,高优先级-标准复查
 U,-14.0,128.0,94.4,247.0,,False,False,660,0,0,False,不可行-海上
 U,68.0,-168.0,94.4,242.0,,False,False,3208,0,0,False,不可行-海上
 U,34.0,54.0,94.4,236.0,Iran,True,False,300,424,1,False,高优先级-标准复查
-PGE,-12.0,34.0,93.9,280.0,Malawi,True,False,222,17,0,False,高优先级-标准复查
-PGE,24.0,-110.0,93.8,323.0,Mexico,True,False,993,1659,1,False,高优先级-标准复查
-PGE,4.0,28.0,93.4,248.0,Dem. Rep. Congo,True,False,407,3,0,False,高优先级-标准复查
-PGE,24.0,-102.0,93.2,241.0,Mexico,True,False,251,1659,1,False,高优先级-标准复查
-PGE,0.0,38.0,93.1,325.0,Kenya,True,False,194,22,0,False,高优先级-标准复查
-PGE,42.0,6.0,93.0,286.0,,False,False,225,0,0,False,不可行-海上
+PGE,66.0,-28.0,94.1,290.0,,False,False,351,0,0,False,不可行-海上
+PGE,-12.0,34.0,93.7,280.0,Malawi,True,False,222,17,0,False,高优先级-标准复查
+PGE,24.0,-110.0,93.7,323.0,Mexico,True,False,993,1660,1,False,高优先级-标准复查
+PGE,4.0,28.0,93.3,248.0,Dem. Rep. Congo,True,False,407,3,0,False,高优先级-标准复查
+PGE,24.0,-102.0,93.0,241.0,Mexico,True,False,251,1660,1,False,高优先级-标准复查
 Fe,20.0,-106.0,92.9,238.0,,False,False,721,0,0,False,不可行-海上
-PGE,40.0,138.0,92.9,225.0,,False,False,504,0,0,False,不可行-海上
-PGE,2.0,-76.0,92.9,239.0,Colombia,True,False,359,716,0,False,高优先级-标准复查
-PGE,16.0,-90.0,92.9,224.0,Guatemala,True,False,163,41,0,False,高优先级-标准复查
-PGE,6.0,36.0,92.8,324.0,Ethiopia,True,False,450,56,0,False,高优先级-标准复查
-PGE,4.0,34.0,92.7,308.0,Uganda,True,False,284,33,0,False,高优先级-标准复查
-PGE,54.0,-136.0,92.6,269.0,,False,False,1030,0,0,False,不可行-海上
-PGE,44.0,-2.0,92.5,261.0,,False,False,330,0,0,False,不可行-海上
-PGE,-14.0,34.0,92.5,233.0,Malawi,True,False,23,17,0,False,高优先级-标准复查
-PGE,8.0,128.0,92.3,224.0,,False,False,732,0,0,False,不可行-海上
-PGE,60.0,-156.0,92.3,232.0,United States of America,True,False,2393,99203,7,False,高优先级-标准复查
-PGE,54.0,12.0,92.2,235.0,Germany,True,False,189,195,0,False,高优先级-标准复查
+PGE,0.0,38.0,92.9,325.0,Kenya,True,False,194,22,0,False,高优先级-标准复查
+PGE,42.0,6.0,92.8,286.0,,False,False,225,0,0,False,不可行-海上
+PGE,40.0,138.0,92.7,225.0,,False,False,504,0,0,False,不可行-海上
+PGE,2.0,-76.0,92.7,239.0,Colombia,True,False,359,717,0,False,高优先级-标准复查
+PGE,16.0,-90.0,92.6,224.0,Guatemala,True,False,163,42,0,False,高优先级-标准复查
+PGE,6.0,36.0,92.6,324.0,Ethiopia,True,False,450,58,0,False,高优先级-标准复查
+PGE,4.0,34.0,92.4,308.0,Uganda,True,False,284,34,0,False,高优先级-标准复查
+PGE,54.0,-136.0,92.3,269.0,,False,False,1030,0,0,False,不可行-海上
+PGE,44.0,-2.0,92.3,261.0,,False,False,330,0,0,False,不可行-海上
+PGE,-14.0,34.0,92.3,233.0,Malawi,True,False,23,17,0,False,高优先级-标准复查
+PGE,8.0,128.0,92.1,224.0,,False,False,732,0,0,False,不可行-海上
+PGE,60.0,-156.0,92.1,232.0,United States of America,True,False,2393,99245,7,False,高优先级-标准复查
 Fe,48.0,-128.0,92.0,248.0,,False,False,385,0,0,False,不可行-海上
-PGE,-2.0,122.0,92.0,229.0,,False,False,830,0,0,False,不可行-海上
-PGE,30.0,-110.0,92.0,348.0,Mexico,True,False,897,1659,1,False,高优先级-标准复查
-Fe,22.0,-104.0,91.9,233.0,Mexico,True,False,553,1659,1,False,高优先级-标准复查
+PGE,54.0,12.0,92.0,235.0,Germany,True,False,189,195,0,False,高优先级-标准复查
+Fe,22.0,-104.0,91.9,233.0,Mexico,True,False,553,1660,1,False,高优先级-标准复查
 Fe,18.0,-106.0,91.9,254.0,,False,False,741,0,0,False,不可行-海上
-PGE,16.0,118.0,91.9,224.0,,False,False,279,0,0,False,不可行-海上
-PGE,46.0,-4.0,91.8,237.0,,False,False,574,0,0,False,不可行-海上
-PGE,-38.0,-74.0,91.8,231.0,,False,False,590,0,0,False,不可行-海上
-PGE,52.0,-136.0,91.7,283.0,,False,False,956,0,0,False,不可行-海上
-PGE,32.0,-120.0,91.7,304.0,,False,False,281,0,0,False,不可行-海上
-PGE,30.0,-104.0,91.7,293.0,United States of America,True,False,601,99203,7,False,高优先级-标准复查
-PGE,68.0,-26.0,91.7,291.0,,False,False,466,0,0,False,不可行-海上
-PGE,34.0,-102.0,91.7,291.0,United States of America,True,False,691,99203,7,False,高优先级-标准复查
+PGE,-2.0,122.0,91.8,229.0,,False,False,830,0,0,False,不可行-海上
+PGE,30.0,-110.0,91.7,348.0,Mexico,True,False,897,1660,1,False,高优先级-标准复查
 Fe,34.0,12.0,91.6,233.0,,False,False,165,0,0,False,不可行-海上
-PGE,56.0,-138.0,91.6,240.0,,False,False,1247,0,0,False,不可行-海上
-PGE,-12.0,152.0,91.6,235.0,,False,False,596,0,0,False,不可行-海上
-PGE,-12.0,148.0,91.6,241.0,,False,False,295,0,0,False,不可行-海上
-PGE,66.0,-28.0,91.5,311.0,,False,False,351,0,0,False,不可行-海上
-PGE,-36.0,178.0,91.3,247.0,,False,False,305,0,0,False,不可行-海上
-PGE,10.0,-82.0,91.2,252.0,,False,False,228,0,0,False,不可行-海上
-PGE,56.0,-158.0,91.2,245.0,,False,False,2439,0,0,False,不可行-海上
-PGE,-34.0,176.0,91.2,230.0,,False,False,336,0,0,False,不可行-海上
-PGE,42.0,4.0,91.1,302.0,,False,False,211,0,0,False,不可行-海上
+PGE,16.0,118.0,91.6,224.0,,False,False,279,0,0,False,不可行-海上
+PGE,46.0,-4.0,91.6,237.0,,False,False,574,0,0,False,不可行-海上
+PGE,-38.0,-74.0,91.6,231.0,,False,False,590,0,0,False,不可行-海上
+PGE,70.0,-28.0,91.5,248.0,Greenland,True,False,701,26,0,False,高优先级-标准复查
+PGE,52.0,-136.0,91.5,283.0,,False,False,956,0,0,False,不可行-海上
+PGE,32.0,-120.0,91.5,304.0,,False,False,281,0,0,False,不可行-海上
+PGE,30.0,-104.0,91.5,293.0,United States of America,True,False,601,99245,7,False,高优先级-标准复查
+PGE,34.0,-102.0,91.4,291.0,United States of America,True,False,691,99245,7,False,高优先级-标准复查
+PGE,56.0,-138.0,91.3,240.0,,False,False,1247,0,0,False,不可行-海上
+PGE,-12.0,152.0,91.3,235.0,,False,False,596,0,0,False,不可行-海上
+PGE,-12.0,148.0,91.3,241.0,,False,False,295,0,0,False,不可行-海上
+PGE,-36.0,178.0,91.1,247.0,,False,False,305,0,0,False,不可行-海上
+PGE,10.0,-82.0,91.0,252.0,,False,False,228,0,0,False,不可行-海上
+PGE,56.0,-158.0,91.0,245.0,,False,False,2439,0,0,False,不可行-海上
 Fe,48.0,10.0,90.9,222.0,Germany,True,False,103,195,0,False,高优先级-标准复查
 Fe,42.0,18.0,90.9,228.0,,False,False,116,0,0,False,不可行-海上
-PGE,36.0,132.0,90.9,251.0,,False,False,350,0,0,False,不可行-海上
+PGE,-34.0,176.0,90.9,230.0,,False,False,336,0,0,False,不可行-海上
 Fe,38.0,-126.0,90.8,253.0,,False,False,317,0,0,False,不可行-海上
-PGE,22.0,-108.0,90.8,349.0,,False,False,880,0,0,False,不可行-海上
-PGE,70.0,-32.0,90.8,226.0,Greenland,True,True,782,24,0,False,低-极地冰盖
-PGE,-2.0,36.0,90.8,344.0,Kenya,True,False,121,22,0,False,高优先级-标准复查
+PGE,42.0,4.0,90.8,302.0,,False,False,211,0,0,False,不可行-海上
 Fe,34.0,10.0,90.7,230.0,Tunisia,True,False,312,10,0,False,高优先级-标准复查
 Fe,16.0,-102.0,90.7,247.0,,False,False,489,0,0,False,不可行-海上
-PGE,4.0,94.0,90.7,237.0,,False,False,859,0,0,False,不可行-海上
-PGE,0.0,98.0,90.7,246.0,,False,False,524,0,0,False,不可行-海上
-PGE,-42.0,176.0,90.7,233.0,,False,False,129,0,0,False,不可行-海上
 Fe,14.0,-88.0,90.6,225.0,Honduras,True,False,85,239,0,False,高优先级-标准复查
-PGE,38.0,144.0,90.6,235.0,,False,False,457,0,0,False,不可行-海上
-PGE,56.0,-150.0,90.6,223.0,,False,False,1946,0,0,False,不可行-海上
+PGE,36.0,132.0,90.6,251.0,,False,False,350,0,0,False,不可行-海上
+PGE,22.0,-108.0,90.6,349.0,,False,False,880,0,0,False,不可行-海上
 Fe,40.0,18.0,90.5,243.0,,False,False,213,0,0,False,不可行-海上
-PGE,10.0,40.0,90.5,348.0,Ethiopia,True,False,179,56,0,False,高优先级-标准复查
-PGE,-38.0,172.0,90.5,244.0,,False,False,276,0,0,False,不可行-海上
-PGE,44.0,-106.0,90.5,269.0,United States of America,True,False,481,99203,7,False,高优先级-标准复查
-PGE,-6.0,34.0,90.4,306.0,Tanzania,True,False,195,59,1,False,高优先级-标准复查
-PGE,-12.0,-74.0,90.4,230.0,Peru,True,False,332,1828,0,False,高优先级-标准复查
+PGE,-2.0,36.0,90.5,344.0,Kenya,True,False,121,22,0,False,高优先级-标准复查
+PGE,4.0,94.0,90.5,237.0,,False,False,859,0,0,False,不可行-海上
+PGE,0.0,98.0,90.5,246.0,,False,False,524,0,0,False,不可行-海上
+PGE,-42.0,176.0,90.4,233.0,,False,False,129,0,0,False,不可行-海上
+PGE,38.0,144.0,90.4,235.0,,False,False,457,0,0,False,不可行-海上
+PGE,56.0,-150.0,90.4,223.0,,False,False,1946,0,0,False,不可行-海上
 Fe,26.0,120.0,90.3,225.0,,False,False,190,0,0,False,不可行-海上
-PGE,4.0,100.0,90.3,251.0,,False,False,210,0,0,False,不可行-海上
+PGE,10.0,40.0,90.3,348.0,Ethiopia,True,False,179,58,0,False,高优先级-标准复查
 Fe,12.0,44.0,90.2,226.0,,False,False,103,0,0,False,不可行-海上
 Fe,-40.0,-74.0,90.2,227.0,,False,False,788,0,0,False,不可行-海上
-PGE,54.0,8.0,90.2,289.0,,False,False,275,0,0,False,不可行-海上
+PGE,-38.0,172.0,90.2,244.0,,False,False,276,0,0,False,不可行-海上
+PGE,44.0,-106.0,90.2,269.0,United States of America,True,False,481,99245,7,False,高优先级-标准复查
+PGE,68.0,-24.0,90.2,318.0,,False,False,439,0,0,False,不可行-海上
 Fe,52.0,-128.0,90.1,269.0,,False,False,458,0,0,False,不可行-海上
 Fe,2.0,-80.0,90.1,241.0,,False,False,297,0,0,False,不可行-海上
 Fe,54.0,-162.0,90.1,230.0,,False,False,2698,0,0,False,不可行-海上
-PGE,40.0,20.0,90.1,287.0,Albania,True,False,148,39,0,False,高优先级-标准复查
-PGE,2.0,96.0,90.1,242.0,,False,False,641,0,0,False,不可行-海上
-PGE,-14.0,-70.0,90.1,257.0,Peru,True,False,341,1828,0,False,高优先级-标准复查
+PGE,-6.0,34.0,90.1,306.0,Tanzania,True,False,195,62,1,False,高优先级-标准复查
+PGE,-12.0,-74.0,90.1,230.0,Peru,True,False,332,1828,0,False,高优先级-标准复查
 Fe,40.0,24.0,90.0,226.0,Greece,True,False,225,67,0,False,高优先级-标准复查
-PGE,24.0,-104.0,90.0,296.0,Mexico,True,False,414,1659,1,False,高优先级-标准复查

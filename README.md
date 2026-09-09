@@ -58,6 +58,8 @@ python3 scripts/build_watchlist.py  # 全球再勘查观察清单(可采性过�
 | 世界级矿床/油气省 | 汇编自 USGS 商品年鉴/公司披露/Wikipedia(见各 csv 行) | 高/中(坐标质心±1.5°) |
 | 全球矿点锚点 | **USGS MRDS**(mrdata.usgs.gov, 公开域 304k 点)，清洗去重后 12.1 万条 | 原始不入库；文件含来源 |
 | 全球专家汇编锚点 | **USGS mrdata 8 库**（斑岩/沉积 Cu、VMS、沉积 Au、红土 Ni-Co、REE、碳酸岩、主要矿床、全球铜评估）→ 7,719 条，抵消 MRDS 美国偏重 | 脚本 scripts/ingest_usgs_expert.py 复现 |
+| PP1802 关键矿产锚点 | **USGS PP1802 全球关键矿产**（2,125 点，KML）→ 468 条命中本仓库族（俄/澳/中南/中国补强） | data/raw/usgs_pp1802_anchors.csv |
+| 未开放权威源 | 中国矿产地库、俄 1:2.5M、非洲统一 GIS 的入口与"门" | 见 `docs/data_gap_catalog.md` |
 
 详见 `data/raw/SOURCES.md` 与 `docs/*`。所有"没把握"的地方都标了置信度，
 **不会**为缺失数据凭空编造 ppm。
@@ -70,6 +72,7 @@ python3 scripts/build_watchlist.py  # 全球再勘查观察清单(可采性过�
 - `docs/geo_distribution.md` —— 地理层：容易开采的世界级"宝藏"分布与规律
 - `docs/prospectivity.md` —— 勘探潜力层：从 MRDS 已知锚点外推的 2° "前沿格"方法与边界
 - `docs/methodology_watchlist.md` —— 观察清单方法论：可采性过滤 + 数据空洞标注
+- `docs/data_gap_catalog.md` —— 数据缺口清单：欠报国家权威源的入口、格式与"门"
 - `docs/roadmap.md` —— 路线图（核幔反演已落地、地理层/潜力层/观察清单已交付、细则待办）
 
 ## 已知局限（诚实声明）

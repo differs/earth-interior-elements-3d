@@ -209,7 +209,8 @@ def country_coverage_stats():
     mrds_c, prov_c = Counter(), Counter()
     anchors = REPO / "data" / "raw" / "mrds_anchors.csv"
     expert = REPO / "data" / "raw" / "usgs_expert_anchors.csv"
-    for p in (anchors, expert):
+    pp1802 = REPO / "data" / "raw" / "usgs_pp1802_anchors.csv"
+    for p in (anchors, expert, pp1802):
         if p.exists():
             with p.open(encoding="utf-8") as fh:
                 for row in csv.DictReader(fh):

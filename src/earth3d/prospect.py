@@ -32,6 +32,7 @@ ANCHOR_CAP = 5000          # 每族上限(性能+去美国偏重的折中)
 PROVINCE_WEIGHT = 3.0
 MRDS_FILE = REPO / "data" / "raw" / "mrds_anchors.csv"
 EXPERT_FILE = REPO / "data" / "raw" / "usgs_expert_anchors.csv"
+PP1802_FILE = REPO / "data" / "raw" / "usgs_pp1802_anchors.csv"
 PROVINCE_FILE = REPO / "data" / "raw" / "geo_world_class_deposits.csv"
 HYDRO_FILE = REPO / "data" / "raw" / "geo_hydrocarbon_provinces.csv"
 
@@ -82,12 +83,13 @@ def load_anchors() -> dict:
                 if fam in raw:
                     raw[fam].append((float(row["lat"]), float(row["lon"]), 1.0))
     # USGS 全球专家汇编(去偏: 补 MRDS 对俄/中/非洲的低估)
-    if EXPERT_FILE.exists():
-        with EXPERT_FILE.open(encoding="utf-8") as fh:
-            for row in csv.DictReader(fh):
-                fam = row["family"]
-                if fam in raw:
-                    raw[fam].append((float(row["lat"]), float(row["lon"]), 1.0))
+    for path in (EXPERT_FILE, PP1802_FILE):
+        if path.exists():
+            with path.open(encoding="utf-8") as fh:
+                for row in csv.DictReader(fh):
+                    fam = row["family"]
+                    if fam in raw:
+                        raw[fam].append((float(row["lat"]), float(row["lon"]), 1.0))
     for fam, lat, lon, w in _provinces():
         raw[fam].append((lat, lon, w))
 
