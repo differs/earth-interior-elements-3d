@@ -24,6 +24,7 @@ python3 scripts/make_plots.py       # 生成 4 张图（径向丰度/圈层储�
 python3 scripts/build_geo.py        # 地理层：世界级矿床/油气省 + 世界分布图
 python3 scripts/build_prospect.py   # 勘探潜力层：2° 前沿格(已知富集引力 P90)
 python3 scripts/build_prospect_rules.py  # 规则版：锚点+弧/裂谷加权评分(EF/窗口逻辑)
+python3 scripts/build_watchlist.py  # 全球再勘查观察清单(可采性过滤+数据空洞标注)
 # 可选：用 USGS MRDS 逐矿点(30 万)生成更密锚点(需先有 mrds.csv)
 #   MRDS_CSV=/path/to/mrds.csv python3 scripts/ingest_mrds.py
 ```
@@ -42,7 +43,8 @@ python3 scripts/build_prospect_rules.py  # 规则版：锚点+弧/裂谷加权�
 | `geo_family_summary.csv` / `geo_meta.json` | 按金属族统计与汇总 |
 | `prospect_frontiers.csv` / `prospect_meta.json` | 勘探潜力层：各族"前沿格"（高分 P90 且未标已知矿，附距最近锚点距离） |
 | `prospect_rules_frontiers.csv` / `prospect_rules_weights.csv` | **规则版评分**：锚点+弧/裂谷加权的前沿格与权重表（EF/生成窗逻辑规则化） |
-| `fig_*.png` | 径向剖面 / 圈层储量 / 富集因子 / 地核反演 / 世界"宝藏"分布图 / 各族前沿热力图 |
+| `reexploration_watchlist.csv` / `reexploration_meta.json` | **全球再勘查观察清单**：前沿格 + 可采性过滤(陆/冰/极地/城市距离) + 数据空洞标注(224 格欠报国优先) |
+| `fig_*.png` | 径向剖面 / 圈层储量 / 富集因子 / 地核反演 / 世界"宝藏"分布图 / 前沿热力图 / **观察清单世界图** |
 
 ## 数据出处与置信度
 
@@ -66,7 +68,8 @@ python3 scripts/build_prospect_rules.py  # 规则版：锚点+弧/裂谷加权�
 - `docs/generation_windows.md` —— 附加章：矿物/烃类的"生成窗口"与可达性
 - `docs/geo_distribution.md` —— 地理层：容易开采的世界级"宝藏"分布与规律
 - `docs/prospectivity.md` —— 勘探潜力层：从 MRDS 已知锚点外推的 2° "前沿格"方法与边界
-- `docs/roadmap.md` —— 路线图（核幔反演已落地、地理层/潜力层初版、规则打分待办）
+- `docs/methodology_watchlist.md` —— 观察清单方法论：可采性过滤 + 数据空洞标注
+- `docs/roadmap.md` —— 路线图（核幔反演已落地、地理层/潜力层/观察清单已交付、细则待办）
 
 ## 已知局限（诚实声明）
 
