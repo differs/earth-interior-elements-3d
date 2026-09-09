@@ -80,6 +80,23 @@ $$
 数据=MRDS 商品词 + mrdata + USGS PP1802(2,185 条)。权重理由全在
 `prospect_rules_weights.csv`。抽查: Ge/In→华南闪锌矿省、K→西伯利亚蒸发岩、P→安加拉。
 
+## 族内细分（v0.3m）
+
+父族的"铜高分格"常混着两种完全不同的成矿世界：**弧上的斑岩 vs 克拉通里的
+红层/沉积型铜**。用子型专属库把锚点分开重算(scripts/build_subtypes.py)：
+
+| 子型 | 父族 | 锚点源 | 前沿格特征(抽查) |
+|---|---|---|---|
+| Cu_porphyry | Cu | mrdata porcu | 安第斯/墨西哥/西南太平洋弧 |
+| Cu_sediment | Cu | mrdata sedcu | 加拿大元古代盆地等 |
+| Cu_VMS | Cu | mrdata vms | 弧-裂谷 VMS 带 |
+| Au_sed | Au | mrdata sedau | 卡林式邻区 + 秦岭式 |
+| ZnPb_SEDEX | ZnPb | mrdata sedznpb | 层控盆地 |
+
+输出 `outputs/subtype_frontiers.csv` 与 `subtype_parent_hints.csv`（父族前沿格附
+"最像哪个子型"）：Cu 族 120 个前沿格 = **90 斑岩 / 29 VMS / 1 沉积型**——
+说明现在的 Cu 高分格主要是斑岩语义，想找"中非式"新铜带应另建沉积型评分重心。
+
 **规则版真的改变了语义**（抽查验证）：
 - Cu 前沿从"已知矿团外围"移到**弧区无已知矿的格**（新几内亚弧、意大利弧、墨西哥弧）；
 - 金刚石前沿回到**远离弧的克拉通内部/边缘**（西澳、巴西、西伯利亚、卡普瓦尔）；

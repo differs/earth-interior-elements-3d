@@ -55,6 +55,10 @@
     "reexploration_watchlist.csv",
     "reexploration_watchlist_map.png",
     "reservoir_elements.csv",
+    "subtype_frontiers.csv",
+    "subtype_meta.json",
+    "subtype_parent_hints.csv",
+    "subtype_world_map.png",
     "summary.json"
   ]
 }

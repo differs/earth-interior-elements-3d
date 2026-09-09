@@ -1,0 +1,10 @@
+{
+  "subtypes": {
+    "Cu_porphyry": 690,
+    "Cu_sediment": 785,
+    "Cu_VMS": 852,
+    "Au_sed": 123,
+    "ZnPb_SEDEX": 506
+  },
+  "note": "父族前沿格附 closest_subtype 提示, 用于'同族不同成矿类型'拆读"
+}

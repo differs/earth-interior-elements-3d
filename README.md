@@ -27,6 +27,7 @@ python3 scripts/build_prospect_rules.py  # 规则版：锚点+弧/裂谷加权�
 python3 scripts/build_watchlist.py  # 全球再勘查观察清单(可采性过滤+数据空洞标注)
 python3 scripts/build_dossiers.py   # 立项卡: top 格聚合 EF/生成窗/规则/采矿证据 → 可派活结论
 python3 scripts/build_proposals.py  # 5 份一页纸野外立项建议书(代表格桌面核查包)
+python3 scripts/build_subtypes.py   # 族内细分: 斑岩/沉积/VMS/卡林式/SEDEX 独立前沿格
 # 可选：用 USGS MRDS 逐矿点(30 万)生成更密锚点(需先有 mrds.csv)
 #   MRDS_CSV=/path/to/mrds.csv python3 scripts/ingest_mrds.py
 ```
@@ -48,6 +49,7 @@ python3 scripts/build_proposals.py  # 5 份一页纸野外立项建议书(代表
 | `reexploration_watchlist.csv` / `reexploration_meta.json` | **全球再勘查观察清单**：前沿格 + 可采性过滤(陆/冰/极地/城市距离) + 数据空洞标注(224 格欠报国优先) |
 | `reexploration_dossiers.md` / `.csv` | **立项卡**：各族 top 候选格聚合 富集因子EF/生成窗/规则理由/现役采矿证据 → 逐格"下一步动作" |
 | `proposal_briefs.md` | **5 份一页纸野外立项建议书**：苏门答腊 Sn-W / 阿拉伯地盾 REE / 巴布亚弧 Au / 墨西哥 Sb / 沙特盆地油复查（含完整证据表与风险） |
+| `subtype_frontiers.csv` / `subtype_parent_hints.csv` | **族内细分**：斑岩/沉积/VMS Cu、卡林式 Au、SEDEX Zn-Pb 的独立前沿格 + 父族格"最像子型"提示（Cu 前沿 90 斑岩/29 VMS/1 沉积型） |
 | `fig_*.png` | 径向剖面 / 圈层储量 / 富集因子 / 地核反演 / 世界"宝藏"分布图 / 前沿热力图 / **观察清单世界图** |
 
 ## 数据出处与置信度
