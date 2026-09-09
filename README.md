@@ -20,8 +20,11 @@
 
 ```bash
 python3 scripts/build_models.py     # 生成全部 CSV/JSON（质量守恒校验会打印）
-python3 scripts/make_plots.py       # 生成 4 张图（径向丰度/圈层份额/富集因子/地核反演）
+python3 scripts/make_plots.py       # 生成 4 张图（径向丰度/圈层储量/富集因子/地核反演）
 python3 scripts/build_geo.py        # 地理层：世界级矿床/油气省 + 世界分布图
+python3 scripts/build_prospect.py   # 勘探潜力层：2° 前沿格(已知富集引力 P90)
+# 可选：用 USGS MRDS 逐矿点(30 万)生成更密锚点(需先有 mrds.csv)
+#   MRDS_CSV=/path/to/mrds.csv python3 scripts/ingest_mrds.py
 ```
 
 只需 `numpy`（画图再加 `matplotlib`），无 pandas 依赖。输出落在 `outputs/`：
@@ -36,7 +39,8 @@ python3 scripts/build_geo.py        # 地理层：世界级矿床/油气省 + �
 | `core_inversion_metals.csv` / `core_inversion_meta.json` | **核幔质量平衡反演**的地核金属解(纯金属端±σ)与合成一致表 |
 | `geo_deposits_processed.csv` / `geo_hydrocarbon_processed.csv` | 世界级金属省 / 超级油气煤省的"易采宝藏"分布（坐标/类型/可采档/EF/置信度） |
 | `geo_family_summary.csv` / `geo_meta.json` | 按金属族统计与汇总 |
-| `fig_*.png` | 径向剖面 / 圈层储量 / 富集因子 / 地核反演 / **世界"宝藏"分布图** |
+| `prospect_frontiers.csv` / `prospect_meta.json` | 勘探潜力层：各族"前沿格"（高分 P90 且未标已知矿，附距最近锚点距离） |
+| `fig_*.png` | 径向剖面 / 圈层储量 / 富集因子 / 地核反演 / 世界"宝藏"分布图 / 各族前沿热力图 |
 
 ## 数据出处与置信度
 
@@ -47,6 +51,8 @@ python3 scripts/build_geo.py        # 地理层：世界级矿床/油气省 + �
 | CI + BSE(pyrolite) | **McDonough & Sun (1995) 全元素表**（76 元素，脚本解析自 georefdatar 转录档） | 高 |
 | 地幔 | BSE 扣除地壳的质量平衡解 | 主量高/微量中 |
 | 地核 | **CI/BSE 核幔质量平衡反演**（强亲铁金属）+ 地震学轻元素预算 | Fe/Ni/Co/Cr 与文献吻合 ~1.5pp 内 |
+| 世界级矿床/油气省 | 汇编自 USGS 商品年鉴/公司披露/Wikipedia(见各 csv 行) | 高/中(坐标质心±1.5°) |
+| 全球矿点锚点 | **USGS MRDS**(mrdata.usgs.gov, 公开域 304k 点)，清洗去重后 12.1 万条 | 原始不入库；文件含来源 |
 
 详见 `data/raw/SOURCES.md` 与 `docs/*`。所有"没把握"的地方都标了置信度，
 **不会**为缺失数据凭空编造 ppm。
@@ -57,7 +63,8 @@ python3 scripts/build_geo.py        # 地理层：世界级矿床/油气省 + �
 - `docs/derivation.md` —— 仔细推导链（球壳质量积分、三区缩放守恒、富集因子、核幔反演）
 - `docs/generation_windows.md` —— 附加章：矿物/烃类的"生成窗口"与可达性
 - `docs/geo_distribution.md` —— 地理层：容易开采的世界级"宝藏"分布与规律
-- `docs/roadmap.md` —— 路线图（核幔反演已落地、地理层初版、横向不均/潜力预测待办）
+- `docs/prospectivity.md` —— 勘探潜力层：从 MRDS 已知锚点外推的 2° "前沿格"方法与边界
+- `docs/roadmap.md` —— 路线图（核幔反演已落地、地理层/潜力层初版、规则打分待办）
 
 ## 已知局限（诚实声明）
 

@@ -1,0 +1,25 @@
+{
+  "sigma_deg": 4.0,
+  "grid_deg": 2.0,
+  "anchor_cap_per_family": 5000,
+  "method": "gaussian-kernel known-deposit gravity + frontier cells",
+  "caveats": [
+    "MRDS 美国记录偏重",
+    "未预测未发现新矿, 只外推已知邻域",
+    "坐标 2° 单元, 用于全球尺度"
+  ],
+  "frontiers_total": 1320,
+  "anchors": {
+    "Au": 5000,
+    "Cu": 5000,
+    "Fe": 5000,
+    "NiCo": 2945,
+    "Li": 432,
+    "REE": 16,
+    "PGE": 2278,
+    "U": 5000,
+    "Diamond": 477,
+    "Coal": 155,
+    "OilGas": 12
+  }
+}
