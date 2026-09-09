@@ -26,6 +26,7 @@ python3 scripts/build_prospect.py   # 勘探潜力层：2° 前沿格(已知富�
 python3 scripts/build_prospect_rules.py  # 规则版：锚点+弧/裂谷加权评分(EF/窗口逻辑)
 python3 scripts/build_watchlist.py  # 全球再勘查观察清单(可采性过滤+数据空洞标注)
 python3 scripts/build_dossiers.py   # 立项卡: top 格聚合 EF/生成窗/规则/采矿证据 → 可派活结论
+python3 scripts/build_proposals.py  # 5 份一页纸野外立项建议书(代表格桌面核查包)
 # 可选：用 USGS MRDS 逐矿点(30 万)生成更密锚点(需先有 mrds.csv)
 #   MRDS_CSV=/path/to/mrds.csv python3 scripts/ingest_mrds.py
 ```
@@ -46,6 +47,7 @@ python3 scripts/build_dossiers.py   # 立项卡: top 格聚合 EF/生成窗/规�
 | `prospect_rules_frontiers.csv` / `prospect_rules_weights.csv` | **规则版评分**：锚点+弧/裂谷加权的前沿格与权重表（EF/生成窗逻辑规则化） |
 | `reexploration_watchlist.csv` / `reexploration_meta.json` | **全球再勘查观察清单**：前沿格 + 可采性过滤(陆/冰/极地/城市距离) + 数据空洞标注(224 格欠报国优先) |
 | `reexploration_dossiers.md` / `.csv` | **立项卡**：各族 top 候选格聚合 富集因子EF/生成窗/规则理由/现役采矿证据 → 逐格"下一步动作" |
+| `proposal_briefs.md` | **5 份一页纸野外立项建议书**：苏门答腊 Sn-W / 阿拉伯地盾 REE / 巴布亚弧 Au / 墨西哥 Sb / 沙特盆地油复查（含完整证据表与风险） |
 | `fig_*.png` | 径向剖面 / 圈层储量 / 富集因子 / 地核反演 / 世界"宝藏"分布图 / 前沿热力图 / **观察清单世界图** |
 
 ## 数据出处与置信度
