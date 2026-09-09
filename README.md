@@ -59,6 +59,7 @@ python3 scripts/build_watchlist.py  # 全球再勘查观察清单(可采性过�
 | 全球矿点锚点 | **USGS MRDS**(mrdata.usgs.gov, 公开域 304k 点)，清洗去重后 12.1 万条 | 原始不入库；文件含来源 |
 | 全球专家汇编锚点 | **USGS mrdata 8 库**（斑岩/沉积 Cu、VMS、沉积 Au、红土 Ni-Co、REE、碳酸岩、主要矿床、全球铜评估）→ 7,719 条，抵消 MRDS 美国偏重 | 脚本 scripts/ingest_usgs_expert.py 复现 |
 | PP1802 关键矿产锚点 | **USGS PP1802 全球关键矿产**（2,125 点，KML）→ 468 条命中本仓库族（俄/澳/中南/中国补强） | data/raw/usgs_pp1802_anchors.csv |
+| 全球现役采矿面 | **Maus et al. 全球采矿面**（19.2 万多边形，Zenodo 7307210）→ 质心点 `data/geo/osm_mining_points.csv`（中 1.5 万/俄 1.2 万/加 1.6 万）；**ODbL**，观察清单附 `mining_polygons_n` 列 | scripts/parse_osm_mining.py |
 | 未开放权威源 | 中国矿产地库、俄 1:2.5M、非洲统一 GIS 的入口与"门" | 见 `docs/data_gap_catalog.md` |
 
 详见 `data/raw/SOURCES.md` 与 `docs/*`。所有"没把握"的地方都标了置信度，

@@ -199,14 +199,18 @@ def classify_cell(lat, lon):
     return country, is_land, glacier, round(best)
 
 
+OSM_MINING = REPO / "data" / "geo" / "osm_mining_points.csv"
+
+
 def country_coverage_stats():
-    """国家级(按 NE 国名键): 公开库锚点条数与 本仓库世界级省数。
+    """国家级(按 NE 国名键): (公开库锚点条数, 本仓库世界级省数, 采矿多边形数)。
 
     公开库 = MRDS + USGS 全球专家汇编(porcu/sedcu/vms/sedau/laterite/ree/
-    carbonatite/major-deposits/铜评估)，口径 = "该国有多少条被权威库系统收录"。
+    carbonatite/major-deposits/铜评估) + PP1802；
+    采矿多边形 = Maus et al. 全球采矿面(OSM 整理成品, ODbL) → "现役采矿活动证据"。
     """
     from collections import Counter
-    mrds_c, prov_c = Counter(), Counter()
+    mrds_c, prov_c, mine_c = Counter(), Counter(), Counter()
     anchors = REPO / "data" / "raw" / "mrds_anchors.csv"
     expert = REPO / "data" / "raw" / "usgs_expert_anchors.csv"
     pp1802 = REPO / "data" / "raw" / "usgs_pp1802_anchors.csv"
@@ -215,6 +219,10 @@ def country_coverage_stats():
             with p.open(encoding="utf-8") as fh:
                 for row in csv.DictReader(fh):
                     mrds_c[(row["country"] or "").strip()] += 1
+    if OSM_MINING.exists():
+        with OSM_MINING.open(encoding="utf-8") as fh:
+            for row in csv.DictReader(fh):
+                mine_c[(row["country"] or "").strip()] += 1
     for p in (REPO / "data" / "raw" / "geo_world_class_deposits.csv",
               REPO / "data" / "raw" / "geo_hydrocarbon_provinces.csv"):
         with p.open(encoding="utf-8") as fh:
@@ -226,11 +234,11 @@ def country_coverage_stats():
         for ne in ne_names:
             out[ne] = sum(v for k, v in counter.items() if _contains(k, ne))
         return out
-    return roll(mrds_c), roll(prov_c)
+    return roll(mrds_c), roll(prov_c), roll(mine_c)
 
 
 def build_watchlist(frontier_path, out_path) -> list[dict]:
-    mrds_n, prov_n = country_coverage_stats()
+    mrds_n, prov_n, mine_n = country_coverage_stats()
     rows = []
     with open(frontier_path, encoding="utf-8") as fh:
         frontier = list(csv.DictReader(fh))
@@ -240,6 +248,7 @@ def build_watchlist(frontier_path, out_path) -> list[dict]:
         country, is_land, glacier, town = classify_cell(lat, lon)
         nm = mrds_n.get(country, 0) if country else 0
         np_ = prov_n.get(country, 0) if country else 0
+        mn = mine_n.get(country, 0) if country else 0
         if not is_land:
             tier = "不可行-海上"
         elif glacier or abs(lat) >= POLAR_LAT:
@@ -254,6 +263,7 @@ def build_watchlist(frontier_path, out_path) -> list[dict]:
             "is_land": is_land, "on_glacier": glacier,
             "nearest_city_km": town,
             "country_mrds_n": nm, "country_province_n": np_,
+            "mining_polygons_n": mn,
             "reporting_gap": (tier == "高优先级-数据空洞优先核验"),
             "tier": tier,
         })

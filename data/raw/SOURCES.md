@@ -25,14 +25,17 @@
 # 6. 圈层质量/几何 — 近似 PREM(1D 平均密度剖面)，密度分带与调参说明见
 #    docs/derivation.md
 #
-# --- data/geo/ 地理底图与辅助数据(Natural Earth 110m, 公有领域, nvkelso 镜像) ---
-#   ne_110m_land.geojson           陆地
+# --- data/geo/ 地理底图与辅助数据(Natural Earth 110m, 公有领域, nvkelso 镜像) ---#   ne_110m_land.geojson           陆地
 #   ne_110m_admin_0_countries.geojson  国家
 #   ne_110m_populated_places.geojson   主要城市
 #   ne_110m_glaciated_areas.geojson    冰盖/冰川
 #   pb2002_boundaries.json         Bird (2003) 板块边界(几何)
 #   gvp_holocene_volcanoes.csv     Smithsonian GVP 5.4.0 全球全新世火山(带构造背景,
 #                                  数据于 2026-08-16 下载; 镜像: eq-volcano-explorer)
+#   osm_mining_points.csv          全球现役采矿面质心(192,584 点; 派生自 Zenodo 7307210
+#                                  global_mining_polygons.gpkg ~117MB, ODbL 需署名原数据;
+#                                  原数据 Maus et al. 全球采矿面, 解析见
+#                                  scripts/parse_osm_mining.py)
 # 勘探锚点: data/raw/mrds_anchors.csv = USGS MRDS(mrdata.usgs.gov) 清洗去重子集,
 #           原始 304,632 行 137MB 不入库, 由 scripts/ingest_mrds.py 复现
 #          data/raw/usgs_expert_anchors.csv = USGS 全球专家汇编 8 库归一(7,719 条):
