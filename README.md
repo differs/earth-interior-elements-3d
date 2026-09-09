@@ -23,6 +23,7 @@ python3 scripts/build_models.py     # 生成全部 CSV/JSON（质量守恒校验
 python3 scripts/make_plots.py       # 生成 4 张图（径向丰度/圈层储量/富集因子/地核反演）
 python3 scripts/build_geo.py        # 地理层：世界级矿床/油气省 + 世界分布图
 python3 scripts/build_prospect.py   # 勘探潜力层：2° 前沿格(已知富集引力 P90)
+python3 scripts/build_prospect_rules.py  # 规则版：锚点+弧/裂谷加权评分(EF/窗口逻辑)
 # 可选：用 USGS MRDS 逐矿点(30 万)生成更密锚点(需先有 mrds.csv)
 #   MRDS_CSV=/path/to/mrds.csv python3 scripts/ingest_mrds.py
 ```
@@ -40,6 +41,7 @@ python3 scripts/build_prospect.py   # 勘探潜力层：2° 前沿格(已知富�
 | `geo_deposits_processed.csv` / `geo_hydrocarbon_processed.csv` | 世界级金属省 / 超级油气煤省的"易采宝藏"分布（坐标/类型/可采档/EF/置信度） |
 | `geo_family_summary.csv` / `geo_meta.json` | 按金属族统计与汇总 |
 | `prospect_frontiers.csv` / `prospect_meta.json` | 勘探潜力层：各族"前沿格"（高分 P90 且未标已知矿，附距最近锚点距离） |
+| `prospect_rules_frontiers.csv` / `prospect_rules_weights.csv` | **规则版评分**：锚点+弧/裂谷加权的前沿格与权重表（EF/生成窗逻辑规则化） |
 | `fig_*.png` | 径向剖面 / 圈层储量 / 富集因子 / 地核反演 / 世界"宝藏"分布图 / 各族前沿热力图 |
 
 ## 数据出处与置信度

@@ -154,3 +154,95 @@ def frontier_cells(family, pct, known, anchors, top=120, min_pct=90.0):
                      "nearest_anchor_lon": round(float(anchors[kmin, 1]), 2),
                      "nearest_km": round(float(km), 0)})
     return rows
+
+
+# ---------- 规则版：构造环境(弧/裂谷/板内)掩码评分 ----------
+
+GVP_FILE = REPO / "data" / "geo" / "gvp_holocene_volcanoes.csv"
+ENV_SIGMA_DEG = 4.0
+
+_ENV_TYPES = {
+    "arc": "subduction zone",
+    "rift": "rift zone",
+    "intra": "intraplate",
+}
+
+
+def load_gvp_env() -> dict:
+    """从 GVP 5.4.0(Holocene 火山, 真实) 读取环境点集 → {env: (lat[], lon[])}。"""
+    if not GVP_FILE.exists():
+        return {k: (np.empty(0), np.empty(0)) for k in _ENV_TYPES}
+    out = {k: ([], []) for k in _ENV_TYPES}
+    with GVP_FILE.open(encoding="utf-8", errors="replace") as fh:
+        fh.readline()
+        for row in csv.DictReader(fh):
+            ts = (row["Tectonic Setting"] or "").strip().lower()
+            env = next((k for k, tag in _ENV_TYPES.items() if tag in ts), None)
+            if env is None:
+                continue
+            try:
+                la, lo = float(row["Latitude"]), float(row["Longitude"])
+            except ValueError:
+                continue
+            out[env][0].append(la)
+            out[env][1].append(lo)
+    return {k: (np.array(v[0]), np.array(v[1])) for k, v in out.items()}
+
+
+def nearest_prox_grid(feat_lat, feat_lon, lat_c, lon_c, sigma=ENV_SIGMA_DEG):
+    """每个网格单元到最近环境特征的距离核 prox = exp(-dmin²/2σ²)，0..1。"""
+    n = len(feat_lat)
+    if n == 0:
+        return np.zeros((len(lat_c), len(lon_c)))
+    grid = np.zeros((len(lat_c), len(lon_c)))
+    for i, la in enumerate(lat_c):
+        dlat = la - feat_lat
+        cosl = np.cos(np.deg2rad(la))
+        for j0 in range(0, len(lon_c), 30):
+            j1 = min(j0 + 30, len(lon_c))
+            dlon = (lon_c[j0:j1, None] - feat_lon[None, :]) * cosl
+            d2 = dlat[None, :] ** 2 + dlon ** 2
+            grid[i, j0:j1] = np.exp(-d2.min(axis=1) / (2 * sigma ** 2))
+    return grid
+
+
+# 规则权重表：每条给出理由(来源=EF/生成窗/教科书成矿省类型)
+RULES = {
+    # family: (anchor_w, arc_w, rift_w, reason)
+    "Au":      (1.0, 1.0, 0.2, "斑岩/浅成低温金在弧; 造山型金靠锚点"),
+    "Cu":      (0.8, 1.6, 0.2, "斑岩铜主产俯冲弧(EF地壳富集+弧岩浆窗)"),
+    "Fe":      (1.6, 0.1, 0.1, "BIF 与前寒武纪克拉通锚点为主, 环境弱"),
+    "NiCo":    (1.2, 0.3, 0.8, "岩浆Ni-Cu多伴大火成岩省/裂谷; 红土在热带锚点"),
+    "Li":      (1.0, 0.6, 0.6, "盐湖锂在安第斯弧后; 伟晶岩在增生/裂谷带"),
+    "REE":     (1.6, 0.3, 0.8, "碳酸岩/碱性省多与裂谷或板内有关"),
+    "PGE":     (1.8, 0.2, 0.4, "层状杂岩体/撞击为锚点主导"),
+    "U":       (1.8, 0.1, 0.3, "不整合面/砂岩铀主要靠锚点"),
+    "Diamond": (2.5, -1.0, 0.0, "金刚石在克拉通根, 远离弧(负规则); 锚点为主"),
+    "Coal":    (1.6, 0.0, 0.4, "煤在陆内/裂谷盆地(无弧)"),
+    "OilGas":  (1.2, 0.0, 1.0, "油气在被动陆缘/裂谷盆地; 弧区无"),
+}
+
+
+def rule_grids(anchors, envs, weights, lat_c, lon_c):
+    """计算组合规则分数(原始)与锚点已知掩码。"""
+    a_w, arc_w, rift_w = weights
+    A = nearest_prox_grid(anchors[:, 0], anchors[:, 1], lat_c, lon_c) if len(anchors) else np.zeros((len(lat_c), len(lon_c)))
+    AR = nearest_prox_grid(envs["arc"][0], envs["arc"][1], lat_c, lon_c)
+    RI = nearest_prox_grid(envs["rift"][0], envs["rift"][1], lat_c, lon_c)
+    raw = a_w * A + arc_w * AR + rift_w * RI
+    # 已知格：离锚点 ≤2° (同 isotropic)
+    mind = np.full((len(lat_c), len(lon_c)), np.inf)
+    if len(anchors):
+        for i, la in enumerate(lat_c):
+            dlat = la - anchors[:, 0]
+            cosl = np.cos(np.deg2rad(la))
+            for j0 in range(0, len(lon_c), 40):
+                j1 = min(j0 + 40, len(lon_c))
+                dlon = (lon_c[j0:j1, None] - anchors[:, 1][None, :]) * cosl
+                mind[i, j0:j1] = np.sqrt(dlat[None, :] ** 2 + dlon ** 2).min(axis=1)
+    known = mind <= KNOWN_R_DEG
+    flat = raw.ravel()
+    pct = np.zeros_like(raw)
+    order = flat.argsort()
+    pct.ravel()[order] = np.linspace(0, 100, len(flat), endpoint=True)
+    return raw, pct, known

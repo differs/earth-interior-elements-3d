@@ -51,6 +51,44 @@ python3 scripts/build_prospect.py    # 5 秒内复算
 - `outputs/prospect_world_frontiers.png`：各族热力百分位图(黑点=已知锚点)
 - `outputs/prospect_meta.json`：参数与偏差声明
 
+## 规则版：把 EF/生成窗逻辑换成"加权规则评分"（v0.3c）
+
+各向同性核的升级版——不再是"每个已知点同等膨胀"，而是三类**真实环境核**按族加权：
+
+$$
+\text{score}(cell)=\underbrace{\alpha\cdot\text{nearAnchor}}_{\text{已知矿锚点}}
++\underbrace{\beta\cdot\text{nearArc}}_{\text{弧火山(GVP 俯冲型)}}
++\underbrace{\gamma\cdot\text{nearRift}}_{\text{裂谷火山(GVP 裂谷型)}}
+$$
+
+每个核都是"到最近特征的距离"高斯 $\exp(-d^2/2\sigma^2)$、$\sigma=4°$。
+权重表(锚点/弧/裂谷 + 理由)见 `outputs/prospect_rules_weights.csv`，核心几行：
+
+| 族 | 锚点 | 弧 | 裂谷 | 理由(EF/窗口) |
+|---|---|---|---|---|
+| Cu | 0.8 | **+1.6** | 0.2 | 斑岩铜主在俯冲弧(地壳富集+弧岩浆窗) |
+| Au | 1.0 | +1.0 | 0.2 | 浅成低温/斑岩金在弧；造山型金靠锚点 |
+| REE | 1.6 | 0.3 | +0.8 | 碳酸岩/碱性省多与裂谷/板内张裂有关 |
+| NiCo | 1.2 | 0.3 | +0.8 | 岩浆Ni-Cu伴大火成岩省；红土在低纬锚点 |
+| **Diamond** | 2.5 | **−1.0** | 0 | 金刚石只谈克拉通根、**远离俯冲弧**(负规则) |
+| OilGas | 1.2 | 0 | +1.0 | 油气在被动陆缘/裂谷盆地，弧区无 |
+
+环境数据是**真实的**：GVP 5.4.0 全球全新世火山 1,215 座，按 Tectonic Setting 字段分
+弧(838)/裂谷(221)/板内——`data/geo/gvp_holocene_volcanoes.csv`。
+
+**规则版真的改变了语义**（抽查验证）：
+- Cu 前沿从"已知矿团外围"移到**弧区无已知矿的格**（新几内亚弧、意大利弧、墨西哥弧）；
+- 金刚石前沿回到**远离弧的克拉通内部/边缘**（西澳、巴西、西伯利亚、卡普瓦尔）；
+- REE 前沿聚焦 Basin&Range/裂谷碱性省。
+
+### 规则版仍缺的掩码（诚实清单）
+- **克拉通多边形**：全球免费档缺（只有 AK/澳洲局部）→ 金刚石靠"锚点+弧负规则"间接表达；
+- **沉积盆地多边形**：油气/煤靠锚点+弱裂谷，不能单独"盆地掩码"；
+- GVP 火山含热点(板内)不是纯弧；把这些织进来 + 更细的族内规则是下一步。
+
+产物：`prospect_rules_frontiers.csv` / `prospect_rules_weights.csv` /
+`prospect_rules_world_map.png` / `prospect_rules_meta.json`。
+
 ## 怎么读前沿格
 
 示例(全球尺度第一印象)：

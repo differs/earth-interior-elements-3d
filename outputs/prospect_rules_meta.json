@@ -1,0 +1,93 @@
+{
+  "weights_table": [
+    {
+      "family": "Au",
+      "anchor_w": 1.0,
+      "arc_w": 1.0,
+      "rift_w": 0.2,
+      "reason": "斑岩/浅成低温金在弧; 造山型金靠锚点"
+    },
+    {
+      "family": "Cu",
+      "anchor_w": 0.8,
+      "arc_w": 1.6,
+      "rift_w": 0.2,
+      "reason": "斑岩铜主产俯冲弧(EF地壳富集+弧岩浆窗)"
+    },
+    {
+      "family": "Fe",
+      "anchor_w": 1.6,
+      "arc_w": 0.1,
+      "rift_w": 0.1,
+      "reason": "BIF 与前寒武纪克拉通锚点为主, 环境弱"
+    },
+    {
+      "family": "NiCo",
+      "anchor_w": 1.2,
+      "arc_w": 0.3,
+      "rift_w": 0.8,
+      "reason": "岩浆Ni-Cu多伴大火成岩省/裂谷; 红土在热带锚点"
+    },
+    {
+      "family": "Li",
+      "anchor_w": 1.0,
+      "arc_w": 0.6,
+      "rift_w": 0.6,
+      "reason": "盐湖锂在安第斯弧后; 伟晶岩在增生/裂谷带"
+    },
+    {
+      "family": "REE",
+      "anchor_w": 1.6,
+      "arc_w": 0.3,
+      "rift_w": 0.8,
+      "reason": "碳酸岩/碱性省多与裂谷或板内有关"
+    },
+    {
+      "family": "PGE",
+      "anchor_w": 1.8,
+      "arc_w": 0.2,
+      "rift_w": 0.4,
+      "reason": "层状杂岩体/撞击为锚点主导"
+    },
+    {
+      "family": "U",
+      "anchor_w": 1.8,
+      "arc_w": 0.1,
+      "rift_w": 0.3,
+      "reason": "不整合面/砂岩铀主要靠锚点"
+    },
+    {
+      "family": "Diamond",
+      "anchor_w": 2.5,
+      "arc_w": -1.0,
+      "rift_w": 0.0,
+      "reason": "金刚石在克拉通根, 远离弧(负规则); 锚点为主"
+    },
+    {
+      "family": "Coal",
+      "anchor_w": 1.6,
+      "arc_w": 0.0,
+      "rift_w": 0.4,
+      "reason": "煤在陆内/裂谷盆地(无弧)"
+    },
+    {
+      "family": "OilGas",
+      "anchor_w": 1.2,
+      "arc_w": 0.0,
+      "rift_w": 1.0,
+      "reason": "油气在被动陆缘/裂谷盆地; 弧区无"
+    }
+  ],
+  "sigma_deg": 4.0,
+  "caveats": [
+    "GVP 火山=岩浆活动代理(含热点), 非纯弧",
+    "缺少克拉通/沉积盆地掩码: Diamond/OilGas 主要靠锚点+负规则",
+    "MRDS 美国偏重"
+  ],
+  "gvp_n": {
+    "arc": 838,
+    "rift": 221,
+    "intra": 149
+  },
+  "frontiers_total": 1234
+}
