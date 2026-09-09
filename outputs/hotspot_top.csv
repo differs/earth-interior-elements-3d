@@ -1,0 +1,528 @@
+cell_lat,cell_lon,n_families,families,country,is_land,nearest_city_km
+50.0,-126.0,22,As Ba Be Bi Cr CsRb F Graphite Li Mn NiCo P REE Sb Se Sn Sr TaNb Te U V W,Canada,True,222
+52.0,-124.0,20,Ag As Ba Be Bi Cr CsRb Graphite Li NiCo REE Sb Sn Sr TaNb Te V W ZnPb Zr,Canada,True,309
+50.0,-128.0,19,As Ba Bi Cr CsRb Graphite Li Mn NiCo P Sb Sn Sr TaNb Te Ti V W Zr,Canada,True,360
+20.0,-104.0,17,Ag As Au Be Bi Coal Mo NiCo PGE Sb Se Sn Sr Te V W Zr,Mexico,True,513
+52.0,-126.0,16,As Bi Cr CsRb F Li NiCo PGE REE Sb Sn TaNb Ti V W Zr,Canada,True,365
+40.0,-124.0,16,Be Coal F Ge Hf In K Li P REE Se Sr TaNb Te U V,United States of America,True,283
+54.0,-128.0,13,Ag Au Ba Be Cr F Ga NiCo PGE REE TaNb U Zr,Canada,True,624
+52.0,-122.0,13,As Be Bi Cr Graphite Li Sb Sn Sr Te V ZnPb Zr,Canada,True,313
+44.0,-120.0,13,Coal CsRb Ga Ge Graphite Hf Li Re Sc Se Tl V Zr,United States of America,True,633
+30.0,-108.0,13,Coal Ga In K Li NiCo OilGas PGE REE Sr TaNb Ti Zr,Mexico,True,894
+28.0,-114.0,13,As Bi CsRb F Fe Graphite Li OilGas TaNb Ti U V Zr,Mexico,True,784
+38.0,14.0,12,Ag Ba Bi Cr Cu F Li Mn NiCo Sb Sr ZnPb,Italy,True,238
+36.0,-110.0,12,Be Bi CsRb Ga Hf In Li OilGas REE Sc Sr Tl,United States of America,True,605
+18.0,-102.0,12,As Au Bi Coal Cr NiCo Sb Se Sn Sr V Zr,Mexico,True,342
+12.0,42.0,12,Ba Be Graphite K Mn NiCo PGE REE Sr TaNb Ti U,Djibouti,True,133
+-2.0,-76.0,12,Ag As Bi Cu Graphite Li Mn Mo P Sn W ZnPb,Peru,True,342
+56.0,-128.0,11,As Be Cr F Ga Graphite Sn TaNb Te V Zr,Canada,True,816
+44.0,-122.0,11,CsRb F Ge K REE Re Sc Se Sr TaNb Tl,United States of America,True,593
+40.0,16.0,11,Ba Cr Cu F K Li Mn NiCo Sb V ZnPb,Italy,True,354
+34.0,-104.0,11,Coal CsRb Ga Ge Graphite Li OilGas P Se Sr Ti,United States of America,True,644
+28.0,-110.0,11,As Be Bi Cr In K Li NiCo OilGas TaNb Zr,Mexico,True,993
+24.0,-102.0,11,Be Bi Coal Ge Mn Mo PGE Se Te Ti U,Mexico,True,251
+-2.0,34.0,11,Ga K Li Mn P PGE Sr TaNb Ti V Zr,Tanzania,True,302
+60.0,-156.0,10,Cr CsRb F Graphite K PGE Sc TaNb U Zr,United States of America,True,2393
+60.0,-132.0,10,CsRb Ga Graphite P Sc Sn Sr Tl V Zr,Canada,True,1320
+52.0,-120.0,10,As Be Bi Graphite Li Sb Se Sn Sr Te,Canada,True,375
+46.0,-120.0,10,Ba Coal CsRb Ge Hf REE Re Se Sr Tl,United States of America,True,433
+32.0,-116.0,10,Coal Cr CsRb Ge Hf In REE Re Se Tl,Mexico,True,309
+8.0,42.0,10,Be Graphite Mn NiCo PGE REE Sr TaNb Ti U,Ethiopia,True,286
+54.0,-126.0,9,Ag Ba F REE TaNb Ti V ZnPb Zr,Canada,True,561
+52.0,96.0,9,F Graphite Li Mn REE TaNb Ti V Zr,Russia,True,902
+50.0,-124.0,9,Ba Be CsRb F K Li REE Se TaNb,Canada,True,102
+46.0,-122.0,9,F Hf REE Re Sc Se Sr Te Tl,United States of America,True,374
+36.0,-120.0,9,Ga Hf In REE Re Sc Se TaNb Tl,United States of America,True,270
+34.0,-102.0,9,Coal Mn NiCo OilGas PGE REE TaNb Ti Zr,United States of America,True,691
+30.0,-112.0,9,Cr CsRb Ga Hf OilGas P Sn Sr Zr,Mexico,True,740
+22.0,-104.0,9,Ba Be Bi Coal Fe Mn Mo Sb W,Mexico,True,553
+-32.0,-68.0,9,Coal Ge In P Re Sb Sc Se Sr,Argentina,True,295
+58.0,-128.0,8,Be CsRb Sb Sc Sn U W ZnPb,Canada,True,1021
+54.0,116.0,8,Be Ga Li P PGE TaNb Ti V,Russia,True,927
+48.0,-124.0,8,Coal F Hf Li REE Re Se TaNb,United States of America,True,156
+44.0,12.0,8,Au Be Bi Ga Ge Mn Mo W,Italy,True,36
+44.0,-124.0,8,CsRb F Ge K REE Sc Sr TaNb,United States of America,True,590
+42.0,-102.0,8,Coal CsRb Diamond Se Te V ZnPb Zr,United States of America,True,355
+42.0,-120.0,8,CsRb Ga Ge Graphite Hf In Re Sc,United States of America,True,511
+40.0,24.0,8,As Au Be Bi Mo Re Sb Se,Greece,True,225
+40.0,-102.0,8,Coal CsRb Graphite K Se TaNb Te Zr,United States of America,True,256
+34.0,-110.0,8,CsRb Ge Hf In OilGas REE Se Zr,United States of America,True,758
+32.0,-114.0,8,Coal Ga Ge Hf In REE Se Tl,Mexico,True,456
+28.0,-108.0,8,Be Li OilGas Se Sr TaNb Ti U,Mexico,True,803
+18.0,-96.0,8,Ag Au Bi F Sb Se Sn Ti,Mexico,True,367
+18.0,-92.0,8,Ag Ba Cu Mo Sb Sn W ZnPb,Mexico,True,353
+18.0,-100.0,8,As Be Coal Graphite P REE Sr Zr,Mexico,True,185
+18.0,-98.0,8,Ag As P Sr Ti W ZnPb Zr,Mexico,True,200
+14.0,-84.0,8,As CsRb Graphite Mn Mo Se Te W,Nicaragua,True,320
+2.0,-78.0,8,Ag As Cr Cu Li Mn P Ti,Colombia,True,252
+58.0,-130.0,7,Cr CsRb Mn Sc Sr TaNb Zr,Canada,True,1070
+54.0,118.0,7,F Mn PGE TaNb Ti V ZnPb,Russia,True,1028
+48.0,4.0,7,In Mn NiCo P PGE Ti ZnPb,France,True,154
+46.0,10.0,7,Ba Bi Graphite K NiCo PGE TaNb,Italy,True,131
+46.0,-118.0,7,Coal Ge Hf K Li Sr Tl,United States of America,True,529
+44.0,2.0,7,Be K Li NiCo PGE TaNb U,France,True,170
+44.0,4.0,7,Be Graphite K Li NiCo TaNb U,France,True,260
+44.0,6.0,7,As Be Bi Ge K Li TaNb,France,True,116
+44.0,16.0,7,Be Ga Ge Li Sb Ti V,Croatia,True,192
+42.0,-124.0,7,F In Li P REE Sr TaNb,United States of America,True,488
+42.0,-116.0,7,CsRb Ge Hf In REE Re Sc,United States of America,True,719
+42.0,-118.0,7,Coal CsRb Ge Hf In Re Sc,United States of America,True,600
+42.0,-114.0,7,CsRb Ga Ge Hf In Re Sc,United States of America,True,798
+40.0,-122.0,7,Coal K REE Re Se Sr TaNb,United States of America,True,249
+40.0,22.0,7,As Be Bi Mo Re Se ZnPb,Greece,True,227
+38.0,24.0,7,Ag Au Cu Sb Sr Te W,Greece,True,24
+38.0,-110.0,7,CsRb Hf In Li REE Sc Tl,United States of America,True,475
+38.0,-102.0,7,Coal Graphite K Mn Sr TaNb Zr,United States of America,True,323
+36.0,-102.0,7,Be Coal CsRb Graphite NiCo OilGas Zr,United States of America,True,492
+36.0,-112.0,7,Coal CsRb Hf K OilGas Sc Tl,United States of America,True,607
+34.0,-108.0,7,Cr CsRb Ge Graphite In OilGas Sr,United States of America,True,692
+26.0,-104.0,7,As Coal Ge K Mo TaNb Ti,Mexico,True,369
+24.0,-106.0,7,As Ba Bi Cr NiCo Sr U,Mexico,True,601
+2.0,36.0,7,Ba Fe Li Mn P Sr TaNb,Kenya,True,376
+0.0,-76.0,7,Ag As Ba Cu Graphite Li Sb,Ecuador,True,279
+0.0,-80.0,7,Bi Graphite K P Sb Sn W,Ecuador,True,168
+-14.0,-72.0,7,Ba Graphite Re Ti Tl V Zr,Peru,True,497
+-28.0,-70.0,7,Be Cr CsRb Ga Ge In V,Chile,True,582
+-28.0,-68.0,7,Cr CsRb K Re Sr Te Ti,Argentina,True,656
+-36.0,-68.0,7,Be Cr Li Re Sb Sn Ti,Argentina,True,374
+-36.0,-72.0,7,F K P Re Sc Se W,Chile,True,310
+66.0,-138.0,6,Be F Ga Re Te Tl,Canada,True,2047
+56.0,114.0,6,Ga NiCo PGE TaNb V ZnPb,Russia,True,1020
+54.0,-122.0,6,As Bi REE Sb TaNb W,Canada,True,531
+54.0,-132.0,6,CsRb Graphite Sc Sn Sr Te,Canada,True,806
+50.0,8.0,6,In Li OilGas Se Te U,Germany,True,141
+50.0,-112.0,6,Be Coal K Sr U Zr,Canada,True,804
+50.0,-114.0,6,Ge Graphite Mn Re Te Zr,Canada,True,662
+48.0,8.0,6,As Bi Ga Graphite Li ZnPb,Germany,True,127
+48.0,6.0,6,Ga In Li TaNb U ZnPb,France,True,163
+48.0,-114.0,6,Coal Ga Ge K Se Tl,United States of America,True,685
+46.0,2.0,6,Bi Ga Ge PGE V ZnPb,France,True,319
+46.0,4.0,6,Ga Ge Graphite Mn Ti V,France,True,167
+44.0,-108.0,6,CsRb Ge REE Sc Sr Tl,United States of America,True,535
+42.0,-110.0,6,In Li Sc Sr TaNb Te,United States of America,True,491
+40.0,-118.0,6,Coal Ge Hf In REE Re,United States of America,True,453
+40.0,-108.0,6,CsRb Ga In OilGas Sc Tl,United States of America,True,259
+36.0,138.0,6,Be In Re Se Sn W,Japan,True,161
+34.0,-106.0,6,Coal Graphite In OilGas Re Sr,United States of America,True,645
+32.0,-110.0,6,Coal CsRb Hf OilGas REE Se,United States of America,True,800
+32.0,-102.0,6,Be Coal F TaNb U Zr,United States of America,True,683
+30.0,-110.0,6,CsRb OilGas PGE Se Sr TaNb,Mexico,True,897
+30.0,-106.0,6,Ga K OilGas Sr Te Zr,Mexico,True,736
+22.0,-98.0,6,Au Be Bi Cr Mo Se,Mexico,True,308
+16.0,-94.0,6,Ba Cu P Sb W ZnPb,Mexico,True,403
+12.0,-84.0,6,Ba CsRb Mo Sr W Zr,Nicaragua,True,230
+10.0,40.0,6,NiCo PGE REE Sr TaNb U,Ethiopia,True,179
+8.0,44.0,6,NiCo PGE REE Sr TaNb U,Ethiopia,True,174
+4.0,36.0,6,Li NiCo OilGas PGE REE TaNb,Kenya,True,499
+2.0,38.0,6,F NiCo OilGas PGE REE TaNb,Kenya,True,388
+0.0,38.0,6,F K NiCo OilGas PGE REE,Kenya,True,194
+0.0,32.0,6,F Mn REE Sr Ti V,Uganda,True,74
+0.0,-78.0,6,Bi F Sb Sn Ti W,Ecuador,True,61
+-2.0,38.0,6,Hf Mn REE TaNb Ti Zr,Kenya,True,154
+-4.0,36.0,6,Diamond Hf K Mn REE Zr,Tanzania,True,244
+-6.0,34.0,6,Diamond Mn P PGE REE TaNb,Tanzania,True,195
+-16.0,-72.0,6,Ba Be Fe In Li Zr,Peru,True,414
+-16.0,-74.0,6,Bi Graphite Re Se Sn W,Peru,True,549
+-24.0,-64.0,6,Be CsRb In K Li TaNb,Argentina,True,567
+-26.0,-70.0,6,Be Bi CsRb F Se Sn,Chile,True,799
+-26.0,-64.0,6,Ba Be CsRb F K Sn,Argentina,True,644
+-32.0,-70.0,6,Be Li Sb Sr Te Ti,Argentina,True,171
+-34.0,-68.0,6,Bi Re Sc Se Sr Ti,Argentina,True,253
+-36.0,-66.0,6,Ag As Ba Coal K Sr,Argentina,True,511
+-42.0,-74.0,6,Ag Au Cu Mn Mo Sb,Chile,True,996
+-50.0,-72.0,6,Ba Cu Mo Sb Sr ZnPb,Argentina,True,1845
+64.0,-142.0,5,Be Ga Graphite Ti Tl,United States of America,True,1987
+62.0,-148.0,5,CsRb K Re Sc V,United States of America,True,2083
+62.0,-150.0,5,CsRb Graphite P Re Sc,United States of America,True,2174
+60.0,-154.0,5,Be CsRb K Sc U,United States of America,True,2286
+58.0,162.0,5,Ag Cu Ga PGE Sn,Russia,True,2973
+56.0,118.0,5,Mn NiCo OilGas REE Te,Russia,True,1174
+56.0,96.0,5,P REE Ti V ZnPb,Russia,True,1166
+56.0,94.0,5,REE Se TaNb Te ZnPb,Russia,True,1257
+56.0,-130.0,5,CsRb Ga Mn Sc Sr,Canada,True,879
+54.0,104.0,5,Graphite K Mn REE Ti,Russia,True,706
+54.0,114.0,5,P PGE REE TaNb V,Russia,True,838
+52.0,98.0,5,Be Li NiCo P V,Russia,True,782
+52.0,100.0,5,Ga Li NiCo Ti V,Russia,True,671
+52.0,94.0,5,REE Se TaNb Te Zr,Russia,True,1027
+52.0,-118.0,5,Be Bi Ge Graphite W,Canada,True,471
+50.0,-122.0,5,CsRb Ge K Li Zr,Canada,True,114
+50.0,-116.0,5,CsRb Li Se Ti Zr,Canada,True,519
+50.0,12.0,5,Bi Mn P Tl ZnPb,Germany,True,173
+48.0,12.0,5,Ge Li NiCo PGE U,Germany,True,210
+48.0,0.0,5,K Li Mn TaNb U,France,True,198
+46.0,6.0,5,Ga Mn NiCo TaNb U,France,True,26
+46.0,-116.0,5,Ge K Li Sc Tl,United States of America,True,646
+46.0,-108.0,5,Graphite REE Sc Se Tl,United States of America,True,738
+44.0,8.0,5,K Li Mn NiCo ZnPb,Italy,True,56
+44.0,-118.0,5,CsRb Hf Sc Sr Tl,United States of America,True,705
+42.0,12.0,5,Ag Au Bi Mo W,Italy,True,39
+40.0,-110.0,5,Ge Hf In Li REE,United States of America,True,429
+38.0,22.0,5,Ag Au Ba Cu Te,Greece,True,152
+38.0,28.0,5,Ba Cu F P W,Turkey,True,346
+38.0,-112.0,5,Graphite OilGas REE Sc Tl,United States of America,True,637
+38.0,-104.0,5,Ga Ge In OilGas Se,United States of America,True,212
+36.0,-114.0,5,Coal CsRb OilGas Sc Tl,United States of America,True,442
+36.0,140.0,5,Bi Mo Re Sn W,Japan,True,41
+34.0,-116.0,5,CsRb In OilGas Se Tl,United States of America,True,206
+34.0,10.0,5,Ba Graphite Mn Sr ZnPb,Tunisia,True,312
+32.0,-108.0,5,Coal CsRb OilGas REE Zr,United States of America,True,902
+32.0,-104.0,5,Graphite P Se Sr Te,United States of America,True,789
+30.0,-102.0,5,Coal CsRb Graphite K P,United States of America,True,508
+28.0,120.0,5,Be Li Re Sb TaNb,China,True,365
+28.0,-106.0,5,Coal Ga OilGas Re Te,Mexico,True,619
+26.0,-108.0,5,Re Sn Sr TaNb Te,Mexico,True,768
+26.0,118.0,5,Be Bi F Re Sn,China,True,374
+20.0,-102.0,5,As Be Sr V Zr,Mexico,True,306
+18.0,122.0,5,As Graphite V W ZnPb,Philippines,True,231
+16.0,-92.0,5,Ag Au Mo P Sn,Mexico,True,220
+16.0,-86.0,5,As CsRb Mo Sn W,Honduras,True,248
+10.0,-84.0,5,As CsRb Sb Se Te,Costa Rica,True,12
+8.0,38.0,5,Graphite Li NiCo OilGas TaNb,Ethiopia,True,138
+8.0,40.0,5,Graphite Li NiCo REE TaNb,Ethiopia,True,184
+6.0,36.0,5,Graphite Li NiCo PGE TaNb,Ethiopia,True,450
+4.0,34.0,5,NiCo PGE REE Sr V,Uganda,True,284
+2.0,-74.0,5,Ag Au Be Mo Sb,Colombia,True,289
+2.0,32.0,5,NiCo REE Sr Ti V,Uganda,True,198
+-2.0,32.0,5,Li Mn REE V Zr,Tanzania,True,216
+-2.0,40.0,5,Graphite Hf P REE TaNb,Kenya,True,363
+-14.0,-70.0,5,Ga Graphite Li Re U,Peru,True,341
+-14.0,-74.0,5,In Re Se Sn Tl,Peru,True,396
+-18.0,-64.0,5,Be F In Se U,Bolivia,True,176
+-20.0,-68.0,5,F P Sr Ti U,Bolivia,True,306
+-20.0,-66.0,5,F Mn Mo Re Sr,Bolivia,True,132
+-24.0,-70.0,5,Ba CsRb P Sr W,Chile,True,738
+-26.0,-68.0,5,Ge Graphite In P Se,Argentina,True,823
+-34.0,-70.0,5,Be Bi Li Sn TaNb,Chile,True,87
+-40.0,-72.0,5,As P PGE V W,Chile,True,739
+-48.0,-74.0,5,Ag Ba Cu Sr U,Chile,True,1643
+-50.0,-74.0,5,Cu Mo PGE Sb ZnPb,Chile,True,1862
+66.0,-148.0,4,Fe Ga P Zr,United States of America,True,2344
+66.0,-158.0,4,CsRb Ge Graphite Sc,United States of America,True,2723
+66.0,-150.0,4,Ga P Sc Zr,United States of America,True,2415
+64.0,-158.0,4,Be F K V,United States of America,True,2633
+64.0,-148.0,4,CsRb K P Sc,United States of America,True,2207
+62.0,-142.0,4,F P Tl V,United States of America,True,1831
+62.0,-152.0,4,Ga Graphite Re Sc,United States of America,True,2267
+62.0,-156.0,4,Be CsRb Graphite P,United States of America,True,2460
+62.0,-160.0,4,CsRb F Sc Zr,United States of America,True,2659
+62.0,-144.0,4,Ga P Te Tl,United States of America,True,1911
+60.0,-140.0,4,Sc Sr Te U,United States of America,True,1604
+60.0,-150.0,4,Be Bi Re V,United States of America,True,2078
+60.0,-160.0,4,Re Sc Te V,United States of America,True,2610
+60.0,-138.0,4,CsRb Re Sc Tl,Canada,True,1522
+58.0,116.0,4,NiCo PGE REE TaNb,Russia,True,1273
+58.0,-156.0,4,Ba Graphite Mn Sn,United States of America,True,2344
+56.0,120.0,4,NiCo OilGas REE Ti,Russia,True,1265
+56.0,116.0,4,Be NiCo OilGas REE,Russia,True,1091
+54.0,96.0,4,Bi REE Se Te,Russia,True,1019
+52.0,14.0,4,Mn Tl U V,Germany,True,71
+52.0,16.0,4,Ge Graphite Tl U,Poland,True,186
+52.0,102.0,4,Be F TaNb V,Russia,True,574
+52.0,8.0,4,Be In Se Te,Germany,True,214
+50.0,102.0,4,Graphite REE TaNb Ti,Mongolia,True,427
+50.0,-108.0,4,Coal Diamond Mn Te,Canada,True,1090
+50.0,-118.0,4,CsRb Sr V Zr,Canada,True,378
+50.0,14.0,4,Ga Ti Tl V,Czechia,True,32
+48.0,10.0,4,Graphite Li TaNb U,Germany,True,103
+48.0,-120.0,4,Coal CsRb REE Zr,United States of America,True,270
+48.0,-122.0,4,Coal Ge Hf REE,United States of America,True,164
+48.0,2.0,4,In Mn PGE ZnPb,France,True,99
+48.0,14.0,4,Ba F K Tl,Austria,True,177
+46.0,12.0,4,Ge Graphite Li Ti,Italy,True,194
+46.0,-110.0,4,Ge REE Sc Tl,United States of America,True,807
+46.0,0.0,4,Be Ge TaNb ZnPb,France,True,364
+46.0,-112.0,4,CsRb Ge Sc Tl,United States of America,True,900
+44.0,0.0,4,Li NiCo TaNb U,France,True,207
+44.0,-110.0,4,Li Re Sr Tl,United States of America,True,630
+44.0,-106.0,4,Diamond PGE Sc Tl,United States of America,True,481
+44.0,10.0,4,Ba Be Graphite W,Italy,True,196
+42.0,-108.0,4,Ge REE Sc Tl,United States of America,True,357
+42.0,140.0,4,Re Sn Ti W,Japan,True,702
+42.0,20.0,4,Be Graphite Re Se,Albania,True,76
+42.0,-106.0,4,CsRb Ge Sc Tl,United States of America,True,265
+42.0,-122.0,4,Hf In K Se,United States of America,True,470
+40.0,-116.0,4,Coal Ge Hf Sc,United States of America,True,606
+40.0,-106.0,4,Ga In OilGas Tl,United States of America,True,91
+40.0,140.0,4,Ag As Mn Re,Japan,True,480
+38.0,16.0,4,Cr Cu Li NiCo,Italy,True,268
+38.0,-108.0,4,CsRb OilGas Sc Tl,United States of America,True,325
+38.0,140.0,4,Ga In Mo V,Japan,True,258
+36.0,10.0,4,As K Sn W,Tunisia,True,91
+36.0,-118.0,4,Ga In Sc Se,United States of America,True,218
+34.0,132.0,4,Be In Mo ZnPb,Japan,True,331
+32.0,-106.0,4,In Li OilGas Sr,United States of America,True,866
+32.0,-112.0,4,Coal Hf REE Se,United States of America,True,624
+28.0,-104.0,4,Coal Ge K OilGas,Mexico,True,447
+26.0,-106.0,4,Cr Graphite TaNb Ti,Mexico,True,568
+24.0,-104.0,4,Se Te V W,Mexico,True,414
+22.0,-102.0,4,Ba Sr W Zr,Mexico,True,412
+22.0,-100.0,4,Mo Se Te W,Mexico,True,298
+20.0,-98.0,4,Be Cu Graphite W,Mexico,True,134
+18.0,-94.0,4,Cu Graphite Sb W,Mexico,True,527
+12.0,40.0,4,NiCo OilGas REE TaNb,Ethiopia,True,346
+8.0,124.0,4,Ag Ba Se ZnPb,Philippines,True,805
+0.0,40.0,4,Mn P Ti Zr,Kenya,True,382
+-2.0,28.0,4,Be NiCo PGE V,Dem. Rep. Congo,True,215
+-2.0,36.0,4,F Hf PGE Sr,Kenya,True,121
+-6.0,150.0,4,Au Cr NiCo PGE,Papua New Guinea,True,494
+-10.0,36.0,4,Graphite Mn NiCo TaNb,Tanzania,True,425
+-10.0,32.0,4,Mn PGE Ti V,Zambia,True,484
+-10.0,-74.0,4,In Se Te Tl,Peru,True,403
+-12.0,-72.0,4,Be Sn Tl W,Peru,True,549
+-12.0,-70.0,4,As Be Sn Zr,Peru,True,538
+-12.0,36.0,4,Graphite TaNb Ti V,Mozambique,True,326
+-14.0,-76.0,4,In Se Te Tl,Peru,True,245
+-16.0,-70.0,4,Ba F Ga K,Peru,True,205
+-18.0,-70.0,4,Be F K V,Peru,True,258
+-20.0,-70.0,4,Bi In Te U,Chile,True,436
+-22.0,-64.0,4,Bi In U W,Bolivia,True,354
+-22.0,-66.0,4,Be CsRb Re Se,Argentina,True,338
+-26.0,32.0,4,Coal Hf In U,Mozambique,True,59
+-30.0,-70.0,4,Ga Ge In Sc,Chile,True,372
+-36.0,-70.0,4,Cr P Sc Sn,Argentina,True,291
+-40.0,176.0,4,Au Cr TaNb V,New Zealand,True,177
+-40.0,-68.0,4,Ag Au P ZnPb,Argentina,True,767
+-40.0,-70.0,4,As F Sb V,Argentina,True,732
+-42.0,-70.0,4,F Sb V W,Argentina,True,954
+68.0,-152.0,3,CsRb OilGas Re,United States of America,True,2619
+68.0,-146.0,3,CsRb OilGas Re,United States of America,True,2435
+68.0,-144.0,3,CsRb Re Te,United States of America,True,2380
+68.0,-150.0,3,Ga Re Zr,United States of America,True,2555
+66.0,-136.0,3,Ga Tl U,Canada,True,2002
+66.0,-144.0,3,CsRb Ga Tl,United States of America,True,2213
+66.0,-142.0,3,CsRb Graphite Tl,United States of America,True,2153
+66.0,-152.0,3,P Sc Te,United States of America,True,2488
+66.0,-160.0,3,Ge Sc Zr,United States of America,True,2805
+64.0,-150.0,3,K Sc V,United States of America,True,2287
+64.0,-140.0,3,Ga Te Tl,Canada,True,1922
+62.0,-146.0,3,Be Ga TaNb,United States of America,True,1995
+62.0,-158.0,3,Be CsRb K,United States of America,True,2559
+60.0,162.0,3,Bi Cr Te,Russia,True,3139
+60.0,-136.0,3,Be CsRb Tl,Canada,True,1447
+60.0,-130.0,3,CsRb F Sc,Canada,True,1270
+60.0,-158.0,3,F Sc Zr,United States of America,True,2501
+58.0,158.0,3,Au Cu Ga,Russia,True,2822
+58.0,118.0,3,NiCo REE Te,Russia,True,1341
+56.0,102.0,3,K REE TaNb,Russia,True,959
+56.0,-132.0,3,CsRb P Sc,United States of America,True,957
+54.0,98.0,3,Graphite NiCo V,Russia,True,919
+54.0,-124.0,3,Ag REE TaNb,Canada,True,529
+54.0,106.0,3,Graphite Mn Ti,Russia,True,679
+52.0,10.0,3,Be Li U,Germany,True,239
+52.0,0.0,3,In K Mn,United Kingdom,True,56
+52.0,92.0,3,P V Zr,Russia,True,968
+52.0,12.0,3,P Se Ti,Germany,True,112
+52.0,-116.0,3,Be Bi F,Canada,True,586
+52.0,82.0,3,In Se Tl,Russia,True,735
+50.0,-110.0,3,Coal K Te,Canada,True,947
+50.0,6.0,3,Be K OilGas,Luxembourg,True,44
+50.0,-120.0,3,CsRb K Zr,Canada,True,239
+48.0,-2.0,3,NiCo P Ti,France,True,335
+48.0,98.0,3,Be REE V,Mongolia,True,664
+48.0,86.0,3,Coal In Tl,China,True,482
+48.0,-112.0,3,CsRb Se Tl,United States of America,True,829
+46.0,-102.0,3,Coal Mn Te,United States of America,True,737
+46.0,20.0,3,Coal Se Te,Serbia,True,136
+46.0,-114.0,3,Ge Sc Tl,United States of America,True,774
+44.0,-116.0,3,Ge Li Sc,United States of America,True,799
+44.0,-112.0,3,CsRb Ga Li,United States of America,True,749
+44.0,18.0,3,Coal Re Se,Bosnia and Herz.,True,35
+40.0,-120.0,3,Coal REE Re,United States of America,True,322
+40.0,-112.0,3,Ga Ge Hf,United States of America,True,599
+40.0,-104.0,3,Ge In Sr,United States of America,True,89
+38.0,-118.0,3,Hf In REE,United States of America,True,387
+36.0,-92.0,3,Coal Diamond Sc,United States of America,True,740
+36.0,-116.0,3,Coal Sc Se,United States of America,True,297
+36.0,-108.0,3,CsRb OilGas Sr,United States of America,True,493
+34.0,136.0,3,Au Bi Te,Japan,True,89
+34.0,-114.0,3,Coal Ge Tl,United States of America,True,390
+34.0,-112.0,3,In OilGas Tl,United States of America,True,574
+34.0,-118.0,3,Ga In Tl,United States of America,True,22
+30.0,-104.0,3,K PGE Zr,United States of America,True,601
+30.0,120.0,3,Coal Re V,China,True,193
+26.0,-102.0,3,As U V,Mexico,True,171
+26.0,-112.0,3,Graphite K OilGas,Mexico,True,1077
+26.0,116.0,3,Ga Ge In,China,True,450
+24.0,-110.0,3,Bi PGE V,Mexico,True,993
+24.0,116.0,3,Ga Ge In,China,True,264
+20.0,-100.0,3,Cr Te Ti,Mexico,True,110
+16.0,44.0,3,K NiCo ZnPb,Yemen,True,75
+14.0,-90.0,3,CsRb Mo Sn,Guatemala,True,90
+14.0,122.0,3,As Ga Graphite,Philippines,True,129
+10.0,46.0,3,Graphite REE U,Somaliland,True,218
+4.0,98.0,3,Mo Sn Zr,Indonesia,True,420
+2.0,40.0,3,Mn NiCo U,Kenya,True,508
+2.0,30.0,3,Be Li Zr,Dem. Rep. Congo,True,342
+2.0,-76.0,3,As Li PGE,Colombia,True,359
+0.0,28.0,3,Li Mn NiCo,Dem. Rep. Congo,True,315
+0.0,36.0,3,Li OilGas TaNb,Kenya,True,169
+0.0,34.0,3,Graphite K Mn,Kenya,True,162
+-2.0,-78.0,3,F K Ti,Ecuador,True,206
+-4.0,144.0,3,Ag Au Mo,Papua New Guinea,True,702
+-4.0,104.0,3,Au Mn Sn,Indonesia,True,395
+-4.0,38.0,3,K Li NiCo,Tanzania,True,330
+-4.0,32.0,3,Mn REE V,Tanzania,True,301
+-4.0,28.0,3,Mn PGE V,Dem. Rep. Congo,True,166
+-6.0,38.0,3,Hf Li Zr,Tanzania,True,166
+-6.0,36.0,3,Graphite Hf REE,Tanzania,True,34
+-8.0,34.0,3,Li Mn NiCo,Tanzania,True,279
+-8.0,30.0,3,Mn PGE TaNb,Dem. Rep. Congo,True,519
+-8.0,148.0,3,Ag Cr Mo,Papua New Guinea,True,185
+-8.0,146.0,3,Ag Cr Mo,Papua New Guinea,True,209
+-12.0,34.0,3,PGE Ti V,Malawi,True,222
+-14.0,-68.0,3,Be K Li,Bolivia,True,278
+-14.0,34.0,3,Mn PGE V,Malawi,True,23
+-16.0,-68.0,3,Re Se U,Bolivia,True,57
+-18.0,-66.0,3,Be K Li,Bolivia,True,140
+-18.0,-68.0,3,Cr Re Ti,Bolivia,True,168
+-22.0,32.0,3,Hf In U,Mozambique,True,444
+-26.0,-66.0,3,F In Re,Argentina,True,778
+-28.0,-66.0,3,CsRb K Re,Argentina,True,750
+-34.0,-66.0,3,As Coal Graphite,Argentina,True,435
+-38.0,-68.0,3,As Graphite U,Argentina,True,561
+-38.0,-66.0,3,F K W,Argentina,True,658
+-38.0,-72.0,3,F Re Sb,Chile,True,521
+-38.0,-70.0,3,F Re Sb,Argentina,True,510
+-42.0,-72.0,3,As Sb ZnPb,Chile,True,959
+-44.0,-70.0,3,Au Sb U,Argentina,True,1176
+-48.0,-72.0,3,Ag As Cu,Argentina,True,1623
+-48.0,-70.0,3,Sb U ZnPb,Argentina,True,1620
+70.0,-28.0,2,PGE REE,Greenland,True,701
+70.0,136.0,2,Diamond In,Russia,True,2906
+68.0,-154.0,2,CsRb Re,United States of America,True,2686
+68.0,-148.0,2,CsRb Re,United States of America,True,2493
+68.0,-156.0,2,CsRb Ge,United States of America,True,2755
+66.0,-156.0,2,CsRb Sc,United States of America,True,2643
+66.0,-154.0,2,P Sc,United States of America,True,2564
+66.0,-140.0,2,Tl Zr,Canada,True,2098
+66.0,-146.0,2,Ga P,United States of America,True,2277
+66.0,-162.0,2,Ga Ge,United States of America,True,2889
+66.0,-164.0,2,Ga Ge,United States of America,True,2974
+64.0,-138.0,2,F V,Canada,True,1862
+64.0,-144.0,2,CsRb Tl,United States of America,True,2056
+62.0,-130.0,2,Re Tl,Canada,True,1477
+62.0,-138.0,2,Ga Tl,Canada,True,1686
+62.0,-140.0,2,F Tl,Canada,True,1756
+60.0,-162.0,2,Re U,United States of America,True,2719
+60.0,114.0,2,Diamond Te,Russia,True,1419
+60.0,-164.0,2,Bi Graphite,United States of America,True,2830
+60.0,152.0,2,Bi Te,Russia,True,2843
+60.0,-134.0,2,P Tl,Canada,True,1379
+58.0,160.0,2,Cu Sn,Russia,True,2895
+58.0,120.0,2,NiCo REE,Russia,True,1418
+58.0,122.0,2,Bi TaNb,Russia,True,1502
+58.0,110.0,2,Ga Te,Russia,True,1140
+58.0,112.0,2,Ga K,Russia,True,1171
+56.0,100.0,2,PGE REE,Russia,True,1015
+56.0,124.0,2,REE TaNb,Russia,True,1469
+56.0,98.0,2,REE Ti,Russia,True,1085
+56.0,110.0,2,K PGE,Russia,True,923
+56.0,-126.0,2,F ZnPb,Canada,True,772
+56.0,-120.0,2,Ga Te,Canada,True,777
+56.0,90.0,2,Se Te,Russia,True,1332
+54.0,120.0,2,NiCo TaNb,Russia,True,1136
+54.0,112.0,2,PGE REE,Russia,True,764
+54.0,10.0,2,PGE V,Germany,True,249
+54.0,12.0,2,Mn PGE,Germany,True,189
+54.0,-120.0,2,Te ZnPb,Canada,True,568
+54.0,102.0,2,Mn TaNb,Russia,True,758
+54.0,-118.0,2,F Re,Canada,True,633
+52.0,158.0,2,Cu Ti,Russia,True,2317
+52.0,104.0,2,P REE,Russia,True,499
+52.0,116.0,2,Ga Mn,Russia,True,792
+52.0,90.0,2,Mn Se,Russia,True,929
+52.0,-4.0,2,Ge K,United Kingdom,True,213
+52.0,84.0,2,In Tl,Russia,True,872
+50.0,98.0,2,NiCo Zr,Mongolia,True,690
+50.0,88.0,2,Tl U,Russia,True,689
+50.0,90.0,2,U Zr,Mongolia,True,713
+50.0,96.0,2,Mn V,Russia,True,829
+50.0,116.0,2,Mn V,Russia,True,702
+50.0,10.0,2,Graphite Ti,Germany,True,281
+50.0,32.0,2,Hf Sc,Ukraine,True,116
+50.0,104.0,2,Ga Graphite,Mongolia,True,314
+50.0,22.0,2,Ge Tl,Poland,True,258
+50.0,74.0,2,In Se,Kazakhstan,True,224
+48.0,-116.0,2,Li Tl,United States of America,True,542
+48.0,80.0,2,Coal Tl,Kazakhstan,True,709
+48.0,-110.0,2,Bi Se,United States of America,True,973
+48.0,38.0,2,Hf Sc,Ukraine,True,607
+48.0,18.0,2,Ge Tl,Slovakia,True,68
+48.0,20.0,2,Ge Tl,Hungary,True,88
+46.0,8.0,2,TaNb V,Switzerland,True,110
+46.0,18.0,2,Be Ge,Hungary,True,156
+46.0,-104.0,2,CsRb K,United States of America,True,701
+46.0,-106.0,2,CsRb Te,United States of America,True,701
+46.0,34.0,2,Hf Sc,Russia,True,409
+44.0,-114.0,2,Li Sc,United States of America,True,883
+44.0,-102.0,2,Coal K,United States of America,True,534
+44.0,-76.0,2,Ge Hf,United States of America,True,159
+42.0,-2.0,2,Mn U,Spain,True,227
+42.0,-112.0,2,In TaNb,United States of America,True,641
+40.0,20.0,2,Bi Ga,Albania,True,148
+40.0,-114.0,2,Ge Hf,United States of America,True,761
+38.0,-116.0,2,REE Sc,United States of America,True,483
+38.0,-122.0,2,REE Re,United States of America,True,42
+38.0,-100.0,2,U V,United States of America,True,473
+38.0,-78.0,2,CsRb U,United States of America,True,132
+38.0,52.0,2,Coal K,,True,264
+38.0,-80.0,2,Coal Hf,United States of America,True,279
+38.0,-114.0,2,Graphite Sc,United States of America,True,581
+36.0,136.0,2,Au Re,Japan,True,110
+36.0,-104.0,2,In OilGas,United States of America,True,425
+34.0,-100.0,2,K OilGas,United States of America,True,646
+32.0,12.0,2,P Sr,Libya,True,149
+30.0,-100.0,2,Coal OilGas,United States of America,True,449
+30.0,16.0,2,K Sr,Libya,True,418
+28.0,-98.0,2,Coal Ge,United States of America,True,323
+28.0,-102.0,2,Bi OilGas,Mexico,True,307
+28.0,116.0,2,Ga In,China,True,636
+26.0,-98.0,2,Ge Se,United States of America,True,236
+24.0,-100.0,2,Be Mn,Mexico,True,189
+22.0,106.0,2,Ge In,Vietnam,True,108
+18.0,42.0,2,NiCo REE,Saudi Arabia,True,376
+18.0,44.0,2,K REE,Saudi Arabia,True,295
+18.0,-90.0,2,Sb W,Mexico,True,155
+16.0,120.0,2,Ba W,Philippines,True,77
+12.0,-86.0,2,Cu Graphite,Nicaragua,True,34
+12.0,38.0,2,K NiCo,Ethiopia,True,338
+8.0,46.0,2,Mn Sr,Ethiopia,True,274
+8.0,126.0,2,Mo Se,Philippines,True,916
+8.0,-74.0,2,As Be,Colombia,True,378
+6.0,-76.0,2,F P,Colombia,True,263
+4.0,38.0,2,Graphite OilGas,Ethiopia,True,565
+4.0,-74.0,2,Cr F,Colombia,True,67
+4.0,42.0,2,P TaNb,Somalia,True,431
+2.0,28.0,2,NiCo PGE,Dem. Rep. Congo,True,495
+2.0,34.0,2,Be Zr,Uganda,True,245
+0.0,100.0,2,PGE Sn,Indonesia,True,377
+0.0,30.0,2,Mn Zr,Uganda,True,217
+-2.0,102.0,2,Ga Sn,Indonesia,True,420
+-4.0,34.0,2,Li REE,Tanzania,True,311
+-4.0,30.0,2,Mn TaNb,Burundi,True,99
+-4.0,-78.0,2,P Ti,Peru,True,425
+-6.0,32.0,2,NiCo TaNb,Tanzania,True,413
+-8.0,32.0,2,NiCo V,Tanzania,True,460
+-8.0,36.0,2,Li PGE,Tanzania,True,204
+-10.0,148.0,2,Au Cu,Papua New Guinea,True,107
+-10.0,30.0,2,Diamond REE,Zambia,True,605
+-10.0,-78.0,2,In Tl,Peru,True,250
+-12.0,32.0,2,Graphite REE,Zambia,True,293
+-12.0,30.0,2,Ge TaNb,Zambia,True,423
+-16.0,-66.0,2,Be Se,Bolivia,True,236
+-18.0,-62.0,2,Sc U,Bolivia,True,363
+-18.0,130.0,2,Diamond Hf,Australia,True,1153
+-22.0,-70.0,2,Bi Sr,Chile,True,593
+-22.0,-68.0,2,Be CsRb,Bolivia,True,436
+-24.0,28.0,2,Coal In,South Africa,True,191
+-24.0,-66.0,2,Re Se,Argentina,True,557
+-26.0,30.0,2,Hf In,South Africa,True,118
+-28.0,30.0,2,Coal Hf,South Africa,True,208
+-30.0,-68.0,2,Li Re,Argentina,True,457
+-32.0,-66.0,2,Ba U,Argentina,True,464
+-34.0,-64.0,2,Be V,Argentina,True,516
+-38.0,178.0,2,TaNb V,New Zealand,True,313
+-44.0,-72.0,2,Au Sb,Chile,True,1180
+-46.0,-72.0,2,Ba Sr,Chile,True,1401
+-50.0,-70.0,2,Ba Sr,Argentina,True,1842

@@ -123,6 +123,19 @@ def main():
         md.append("")
 
     (od / "reexploration_dossiers.md").write_text("\n".join(md), encoding="utf-8")
+    # 子型提示: (family, cell_lat, cell_lon) -> subtype
+    hints = {}
+    hp_ = od / "subtype_parent_hints.csv"
+    if hp_.exists():
+        with hp_.open(encoding="utf-8") as fh:
+            for r in csv.DictReader(fh):
+                hints[(r["family"], r["cell_lat"], r["cell_lon"])] = (
+                    r.get("closest_subtype", ""), r.get("closest_subtype_km", ""))
+    for row in out_csv:
+        sub, km = hints.get((row["family"], row["cell_lat"], row["cell_lon"]),
+                            ("", ""))
+        row["closest_subtype"] = sub
+        row["closest_subtype_km"] = km
     cols = list(out_csv[0].keys())
     with (od / "reexploration_dossiers.csv").open("w", newline="",
                                                   encoding="utf-8") as fh:

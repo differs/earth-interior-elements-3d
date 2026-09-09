@@ -16,6 +16,29 @@
 合计恰好 5.972e24 kg = 真实地球质量），再把每个圈层的元素丰度摊到每一深度壳上，
 输出"哪一层、哪个元素、多少 ppm、多少公斤"的长表数据与图。
 
+## 项目结构
+
+```
+src/earth3d/          Python 库
+  elements.py          元素常量(原子量/金施密特分类)
+  commodities.py       商品词→42 族分类(词边界防误命中)
+  reservoirs.py        圈层成分(CRC/M&S95/质量平衡)
+  layering.py          PREM 近似分层几何(质量守恒)
+  inversion.py         核幔质量平衡反演地核
+  model.py             储库/径向元素质量长表
+  enrichment.py        富集因子 EF 与立体归宿
+  geo.py               世界级省/油气省地理层
+  prospect.py          潜力评分(规则版 42 族) + 前沿格
+  subtypes.py          族内细分(斑岩/沉积/VMS/卡林式/SEDEX)
+  watchlist.py         观察清单(可采性过滤+数据空洞)
+  vis.py               结构图
+data/                  raw 成分表、geo 底图、mrds/expert/PP1802/OSM 锚点
+scripts/               build_* 一键复算; ingest_*/parse_* 数据重建
+outputs/               CSV/JSON/PNG 全部产物(字节级稳定)
+docs/                  hypotheses/derivation/geo/prospectivity/watchlist/
+                       data_gap_catalog/review_method_monograph(综述)
+```
+
 ## 快速上手
 
 ```bash
@@ -28,6 +51,7 @@ python3 scripts/build_watchlist.py  # 全球再勘查观察清单(可采性过�
 python3 scripts/build_dossiers.py   # 立项卡: top 格聚合 EF/生成窗/规则/采矿证据 → 可派活结论
 python3 scripts/build_proposals.py  # 5 份一页纸野外立项建议书(代表格桌面核查包)
 python3 scripts/build_subtypes.py   # 族内细分: 斑岩/沉积/VMS/卡林式/SEDEX 独立前沿格
+python3 scripts/build_hotspots.py   # 同格多族前沿叠加 → 多金属富集候选(陆上)
 # 可选：用 USGS MRDS 逐矿点(30 万)生成更密锚点(需先有 mrds.csv)
 #   MRDS_CSV=/path/to/mrds.csv python3 scripts/ingest_mrds.py
 ```
@@ -46,8 +70,9 @@ python3 scripts/build_subtypes.py   # 族内细分: 斑岩/沉积/VMS/卡林式/
 | `geo_family_summary.csv` / `geo_meta.json` | 按金属族统计与汇总 |
 | `prospect_frontiers.csv` / `prospect_meta.json` | 勘探潜力层：各族"前沿格"（高分 P90 且未标已知矿，附距最近锚点距离） |
 | `prospect_rules_frontiers.csv` / `prospect_rules_weights.csv` | **规则版评分**：锚点+弧/裂谷加权的前沿格与权重表（EF/生成窗逻辑规则化） |
-| `reexploration_watchlist.csv` / `reexploration_meta.json` | **全球再勘查观察清单**：前沿格 + 可采性过滤(陆/冰/极地/城市距离) + 数据空洞标注(224 格欠报国优先) |
-| `reexploration_dossiers.md` / `.csv` | **立项卡**：各族 top 候选格聚合 富集因子EF/生成窗/规则理由/现役采矿证据 → 逐格"下一步动作" |
+| `reexploration_watchlist.csv` / `reexploration_meta.json` | **全球再勘查观察清单**：前沿格 + 可采性过滤(陆/冰/极地/城市距离) + 数据空洞标注(42 族, 欠报国优先核验) |
+| `reexploration_dossiers.md` / `.csv` | **立项卡**：各族 top 候选格聚合 富集因子EF/生成窗/规则理由/现役采矿证据/子型提示 → 逐格"下一步动作" |
+| `hotspot_top.csv` / `hotspot_world_map.png` | **同格多族叠加热区**：各族 P90 前沿格重叠(陆上 527 格) → 多金属富集候选 |
 | `proposal_briefs.md` | **5 份一页纸野外立项建议书**：苏门答腊 Sn-W / 阿拉伯地盾 REE / 巴布亚弧 Au / 墨西哥 Sb / 沙特盆地油复查（含完整证据表与风险） |
 | `subtype_frontiers.csv` / `subtype_parent_hints.csv` | **族内细分**：斑岩/沉积/VMS Cu、卡林式 Au、SEDEX Zn-Pb 的独立前沿格 + 父族格"最像子型"提示（Cu 前沿 90 斑岩/29 VMS/1 沉积型） |
 | `fig_*.png` | 径向剖面 / 圈层储量 / 富集因子 / 地核反演 / 世界"宝藏"分布图 / 前沿热力图 / **观察清单世界图** |
