@@ -20,7 +20,8 @@
 
 ```bash
 python3 scripts/build_models.py     # 生成全部 CSV/JSON（质量守恒校验会打印）
-python3 scripts/make_plots.py       # 生成 3 张图（径向丰度/圈层份额/富集因子）
+python3 scripts/make_plots.py       # 生成 4 张图（径向丰度/圈层份额/富集因子/地核反演）
+python3 scripts/build_geo.py        # 地理层：世界级矿床/油气省 + 世界分布图
 ```
 
 只需 `numpy`（画图再加 `matplotlib`），无 pandas 依赖。输出落在 `outputs/`：
@@ -33,7 +34,9 @@ python3 scripts/make_plots.py       # 生成 3 张图（径向丰度/圈层份�
 | `element_fate_crust_mantle_core.csv` | 关键元素在地壳/地幔/地核的储量份额 |
 | `enrichment_crust_vs_mantle.csv` | 地壳/地幔(BSE)富集因子 + 归宿判定 |
 | `core_inversion_metals.csv` / `core_inversion_meta.json` | **核幔质量平衡反演**的地核金属解(纯金属端±σ)与合成一致表 |
-| `fig_*.png` | 径向剖面 / 圈层储量 / 富集因子 / **地核反演对照** 四图 |
+| `geo_deposits_processed.csv` / `geo_hydrocarbon_processed.csv` | 世界级金属省 / 超级油气煤省的"易采宝藏"分布（坐标/类型/可采档/EF/置信度） |
+| `geo_family_summary.csv` / `geo_meta.json` | 按金属族统计与汇总 |
+| `fig_*.png` | 径向剖面 / 圈层储量 / 富集因子 / 地核反演 / **世界"宝藏"分布图** |
 
 ## 数据出处与置信度
 
@@ -50,10 +53,11 @@ python3 scripts/make_plots.py       # 生成 3 张图（径向丰度/圈层份�
 
 ## 文档导航
 
-- `docs/hypotheses.md` —— 大胆假设清单（H-1…H-6，每一条都写明后果与可撤性）
-- `docs/derivation.md` —— 仔细推导链（球壳质量积分、三区缩放守恒、富集因子数学）
+- `docs/hypotheses.md` —— 大胆假设清单（H-1…H-9，每一条都写明后果与可撤性）
+- `docs/derivation.md` —— 仔细推导链（球壳质量积分、三区缩放守恒、富集因子、核幔反演）
 - `docs/generation_windows.md` —— 附加章：矿物/烃类的"生成窗口"与可达性
-- `docs/roadmap.md` —— 下一版路线（核幔分异反演、下地幔歧见、横向不均等）
+- `docs/geo_distribution.md` —— 地理层：容易开采的世界级"宝藏"分布与规律
+- `docs/roadmap.md` —— 路线图（核幔反演已落地、地理层初版、横向不均/潜力预测待办）
 
 ## 已知局限（诚实声明）
 
@@ -64,6 +68,8 @@ python3 scripts/make_plots.py       # 生成 3 张图（径向丰度/圈层份�
   `element_fate` 表里的"地核份额"会被低估（真实情况它们绝大多数在地核），
   这是"未建模不臆造"原则的代价，见 `docs/hypotheses.md` H-6。
 - 微量元素表需机器核对（见 roadmap），提交前请对照原始文献。
+- 地理层坐标是**世界级省/区带质心，±1.5° 近似**，只够看图与全球尺度统计，
+  精确定位需接 USGS MRDS 逐矿点库（见 `docs/geo_distribution.md`）。
 
 ## Roadmap 预览
 

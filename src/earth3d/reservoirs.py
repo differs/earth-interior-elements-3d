@@ -96,7 +96,7 @@ def _oceanic_ppm() -> dict:
 def global_crust_ppm() -> dict:
     """大陆+洋壳按质量加权的全球地壳成分(ppm, 元素并集)。"""
     cc, oc = _crust_csv_ppm(), _oceanic_ppm()
-    els = set(cc) | set(oc)
+    els = sorted(set(cc) | set(oc))
     return {el: (cc.get(el, 0.0) * M_CONT_CRUST + oc.get(el, 0.0) * M_OCEAN_CRUST)
             / M_CRUST for el in els}
 
@@ -109,7 +109,7 @@ def _mantle_ppm() -> dict:
     """地幔 = (BSE·M_sil − 全球地壳·M_crust)/M_mantle；负值归零并补回氧。"""
     bse, crust = _bse_ppm(), global_crust_ppm()
     out = {}
-    for el in set(bse) | set(crust):
+    for el in sorted(set(bse) | set(crust)):
         v = (bse.get(el, 0.0) * M_SILICATE - crust.get(el, 0.0) * M_CRUST) / M_MANTLE
         out[el] = max(v, 0.0)
     non_o = sum(v for k, v in out.items() if k != "O")

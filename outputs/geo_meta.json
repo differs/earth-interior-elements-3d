@@ -1,0 +1,83 @@
+{
+  "n_metals": 54,
+  "n_hydro": 16,
+  "families": [
+    {
+      "family": "Au",
+      "n_provinces": 10,
+      "countries": "Nevada美国、乌兹别克斯坦、俄罗斯、加拿大、加纳、南非、坦桑尼亚、澳大利亚西澳",
+      "median_tier": 3,
+      "high_conf": 7
+    },
+    {
+      "family": "Coal",
+      "n_provinces": 4,
+      "countries": "中国、南非、澳大利亚、美国",
+      "median_tier": 3,
+      "high_conf": 1
+    },
+    {
+      "family": "Cu",
+      "n_provinces": 8,
+      "countries": "刚果金/赞比亚、印度尼西亚、智利、澳大利亚、美国犹他、蒙古",
+      "median_tier": 3,
+      "high_conf": 8
+    },
+    {
+      "family": "Diamond",
+      "n_provinces": 7,
+      "countries": "俄罗斯、加拿大、南非、博茨瓦纳、安哥拉、澳大利亚",
+      "median_tier": 3,
+      "high_conf": 2
+    },
+    {
+      "family": "Fe",
+      "n_provinces": 5,
+      "countries": "乌克兰、加拿大、巴西、澳大利亚西澳",
+      "median_tier": 4,
+      "high_conf": 3
+    },
+    {
+      "family": "Li",
+      "n_provinces": 6,
+      "countries": "刚果金、智利、澳大利亚西澳、玻利维亚、阿根廷",
+      "median_tier": 5,
+      "high_conf": 2
+    },
+    {
+      "family": "NiCo",
+      "n_provinces": 6,
+      "countries": "中国、俄罗斯、加拿大、印度尼西亚、新喀里多尼亚",
+      "median_tier": 2,
+      "high_conf": 3
+    },
+    {
+      "family": "OilGas",
+      "n_provinces": 12,
+      "countries": "中国、俄罗斯、卡塔尔/伊朗、哈萨克斯坦、墨西哥湾、巴西、挪威、沙特阿拉伯、科威特、美国、美国阿拉斯加",
+      "median_tier": 5,
+      "high_conf": 9
+    },
+    {
+      "family": "PGE",
+      "n_provinces": 3,
+      "countries": "南非、津巴布韦、美国蒙大拿",
+      "median_tier": 2,
+      "high_conf": 1
+    },
+    {
+      "family": "REE",
+      "n_provinces": 5,
+      "countries": "中国、澳大利亚西澳、美国加州",
+      "median_tier": 4,
+      "high_conf": 2
+    },
+    {
+      "family": "U",
+      "n_provinces": 4,
+      "countries": "加拿大、哈萨克斯坦、澳大利亚北领地、纳米比亚",
+      "median_tier": 4,
+      "high_conf": 2
+    }
+  ]
+}

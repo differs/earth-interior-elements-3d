@@ -57,7 +57,7 @@ def element_fate(rs: dict | None = None) -> list[dict]:
         "core": rs["core"]["ppm"],
     }
     out = []
-    for el in set(comp["crust"]) | set(comp["mantle"]) | set(comp["core"]):
+    for el in sorted(set(comp["crust"]) | set(comp["mantle"]) | set(comp["core"])):
         share = {k: comp[k].get(el, 0.0) * 1e-6 * shell_mass[k] for k in comp}
         tot = sum(share.values())
         if tot <= 0:

@@ -22,7 +22,7 @@ def global_crust_ppm(rs: dict) -> dict:
     """大陆+洋壳按质量加权的平均地壳成分(元素并集)。"""
     m_cc = rs["continental_crust"]["mass_kg"]
     m_oc = rs["oceanic_crust"]["mass_kg"]
-    els = set(rs["continental_crust"]["ppm"]) | set(rs["oceanic_crust"]["ppm"])
+    els = sorted(set(rs["continental_crust"]["ppm"]) | set(rs["oceanic_crust"]["ppm"]))
     return {
         el: (rs["continental_crust"]["ppm"].get(el, 0.0) * m_cc
              + rs["oceanic_crust"]["ppm"].get(el, 0.0) * m_oc) / (m_cc + m_oc)

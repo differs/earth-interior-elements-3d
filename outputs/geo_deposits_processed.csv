@@ -1,0 +1,55 @@
+name,country,primary,secondary,geol_type,access,lat,lon,scale_note,note,confidence,source,family,tier,ef_primary
+Witwatersrand盆地,南非,Au,U,砾岩型(S型)/古砂金,地下,-26.2,28.0,历史累计>5万吨金,含铀；全球最深金矿之一(>3km),high,USGS 矿物年鉴/行业综述,Au,2,3.31
+Abitibi绿岩带,加拿大(安大略/魁北克),Au,Ag/Cu/Zn,绿岩带造山型(太古宙),露天+地下,48.5,-79.5,>6500t金,北美最大绿岩金矿集区,high,加拿大地质调查综述,Au,3,3.31
+Yilgarn/Kalgoorlie,澳大利亚西澳,Au,Ni,绿岩带造山型(太古宙),露天+地下,-30.7,121.5,Golden Mile 历史>1900t,超镁铁镍矿伴生,high,USGS/AIG 综述,Au,3,3.31
+Carlin趋势,Nevada美国,Au,Ag,卡林型(沉积岩交代),地下+露天,40.8,-116.3,累计>2000t,热液交代灰岩成矿,high,USGS MRDS/NSR综述,Au,1,3.31
+Muruntau,乌兹别克斯坦,Au,—,黑色页岩造山型,露天,41.5,64.6,>4000t金,世界最大露天金矿之一,high,USGS/矿业年鉴,Au,4,3.31
+Sukhoi Log,俄罗斯(伊尔库茨克),Au,—,黑色页岩造山型,地下,58.6,116.5,>1000t金,大型未采黑色页岩型,medium,NEDRA,Au,2,3.31
+Obuasi(Ashanti),加纳,Au,—,绿岩带造山型,地下,5.9,-1.65,累计>1500t,Birimian 绿岩,high,矿业公司披露,Au,2,3.31
+Geita/Lake Victoria,坦桑尼亚,Au,—,绿岩带造山型,露天+地下,-2.87,32.23,湖区>3000t(全区),太古宙绿岩,high,USGS,Au,3,3.31
+Olympiada,俄罗斯(叶尼塞岭),Au,Ag,黑色页岩造山型,露天+地下,60.5,91.5,>700t,俄罗斯重要金矿,medium,NEDRA,Au,3,3.31
+Hemlo,加拿大(安大略),Au,—,变质岩造山型,地下,48.2,-85.9,>600t,太古宙变质岩容矿,medium,安大略地调,Au,2,3.31
+Escondida,智利,Cu,Au/Ag,斑岩型(安第斯弧),露天,-24.27,-69.07,品位~0.6% 铜储量巨大,全球最大产铜矿,high,矿业公司/CRU,Cu,4,1.633
+Chuquicamata,智利,Cu,Mo,斑岩型(安第斯弧),露天+地下,-22.31,-68.9,百年老矿,超大型斑岩,high,USGS,Cu,3,1.633
+El Teniente,智利,Cu,Mo,斑岩型(安第斯弧),地下,-34.08,-70.35,全球最大地下铜矿,斑岩-角砾岩筒,high,CODELCO,Cu,2,1.633
+Grasberg,印度尼西亚(巴布亚),Cu,Au,斑岩-矽卡岩型,露天+地下,-4.05,137.13,铜金超巨型,世界级Cu-Au,high,Freeport,Cu,3,1.633
+Bingham Canyon,美国犹他,Cu,Au/Mo,斑岩型,露天,40.52,-112.15,百年超大型,斑岩-角砾岩,high,USGS,Cu,4,1.633
+Oyu Tolgoi,蒙古,Cu,Au,斑岩型,地下,43.02,106.86,>3000万吨铜当量,绿洲斑岩带,high,Rio Tinto,Cu,2,1.633
+Olympic Dam,澳大利亚(南澳),Cu,U; Au/Ag,铁氧化物铜金(IOCG),地下,-30.44,136.86,全球最大铀伴生/巨型铜,大型IOCG,high,BHP,Cu,2,1.633
+中非铜带(Konkola等),刚果金/赞比亚,Cu,Co,沉积岩容矿(砂岩-页岩),地下,-12.32,27.98,铜储量亿吨级,世界Co主产区,high,USGS,Cu,2,1.633
+Pilbara/Hamersley,澳大利亚西澳,Fe,—,条带状铁建造(BIF),露天,-22.6,118.0,数十亿吨铁矿石,世界最大铁矿石产区,high,Rio/BHP/MAC,Fe,4,0.994
+Carajás,巴西,Fe,Cu/Mn,铁英岩/风化富集,露天,-6.06,-50.18,S11D>18亿吨级,超富铁矿+伴生,high,Vale,Fe,4,0.994
+Quadrilátero Ferrífero,巴西(米纳斯),Fe,Au,铁英岩(BIF),露天,-20.1,-43.5,历史数百亿吨,古老BIF矿集区,high,Vale,Fe,4,0.994
+Krivoy Rog,乌克兰,Fe,—,铁英岩(BIF),露天+地下,48.0,33.5,大型BIF,东欧最大铁矿区,medium,乌克兰地调,Fe,3,0.994
+Labrador Trough,加拿大(魁北克/拉布拉多),Fe,—,铁英岩(BIF),露天,54.6,-66.5,大型BIF,IOC 矿山,medium,加拿大地调,Fe,4,0.994
+Sudbury,加拿大(安大略),Ni,Cu/PGE,岩浆硫化物(撞击坑),地下,46.6,-81.2,镍+PGM 超巨型,撞击熔体成矿,high,Vale,NiCo,2,0.035
+Norilsk,俄罗斯,Ni,Cu/Co/PGE,岩浆硫化物(西伯利亚大火成岩省),地下,69.35,88.2,世界最大Ni-Cu-PGE,溢流玄武岩成矿,high,Nornickel,NiCo,2,0.035
+New Caledonia 红土镍,新喀里多尼亚,Ni,Co,红土型(风化),露天,-21.3,165.4,红土型镍钴,超基性岩风化,high,行业综述,NiCo,4,0.035
+Sorowako,印度尼西亚(苏拉威西),Ni,Co,红土型(风化),露天,-2.53,121.36,红土镍,超基性岩风化,medium,Vale,NiCo,4,0.035
+Voisey's Bay,加拿大(拉布拉多),Ni,Cu/Co,岩浆硫化物,地下,56.4,-61.9,高品位Ni,拉斑玄武质通道成矿,medium,Vale,NiCo,2,0.035
+Jinchuan,中国(甘肃),Ni,Cu/Co/PGE,岩浆硫化物,地下,38.5,102.2,中国最大镍矿,二叠纪基性-超基性,medium,中国矿业年鉴,NiCo,2,0.035
+Salar de Atacama,智利,Li,K,盐湖卤水(大陆蒸发),卤水抽取,-23.5,-68.3,卤水锂亿吨级LCE,安第斯高盐湖,high,SQM/Albemarle,Li,5,10.959
+Salar de Uyuni,玻利维亚,Li,B/K,盐湖卤水,卤水抽取,-20.3,-66.9,世界最大卤水锂资源,高盐湖+盐壳,medium,YLB,Li,5,10.959
+Hombre Muerto,阿根廷,Li,K,盐湖卤水,卤水抽取,-25.3,-67.1,卤水锂,Livent/丰业,medium,公司披露,Li,5,10.959
+Greenbushes,澳大利亚西澳,Li,Ta/Sn,伟晶岩型(LCT),露天+地下,-33.86,116.05,全球最大硬岩锂矿,巨型LCT伟晶岩,high,Albemarle/Tianqi,Li,3,10.959
+Pilgangoora,澳大利亚西澳,Li,Ta,伟晶岩型(LCT),露天,-21.2,119.3,大型硬岩锂,Pilbara伟晶岩田,medium,Pilbara Minerals,Li,4,10.959
+Manono,刚果金,Li,Sn/Ta,伟晶岩型(LCT),露天,-7.5,26.9,巨型伟晶岩锂,东非伟晶岩带,medium,AVZ(开发中),Li,4,10.959
+Bayan Obo,中国(内蒙古),REE,Fe/Nb,碳酸岩-热液交代,露天,41.78,109.9,全球最大轻稀土,白云鄂博Fe-Nb-REE,high,中国稀土/地调,REE,4,
+Mountain Pass,美国加州,REE,—,碳酸岩型,露天,35.47,-115.52,美国最大稀土矿,碳酸岩,high,MP Materials,REE,4,
+Mt Weld,澳大利亚西澳,REE,—,碳酸岩风化(磷灰石残余),露天,-28.9,122.4,高品位稀土,碳酸岩风化壳,medium,Lynas,REE,4,
+南岭离子吸附型稀土,中国(赣南粤北),REE,Y,离子吸附型(风化壳),原地浸出,25.2,114.9,中重稀土主来源,花岗岩风化离子吸附,medium,中国稀土管理,REE,4,
+Maoniuping,中国(四川冕宁),REE,Pb,碳酸岩型,露天,28.55,102.18,大型轻稀土,碳酸岩脉群,medium,中国地质,REE,4,
+Bushveld 杂岩体,南非,PGE,Cr/Ni/Cu,层状镁铁质侵入体,地下,-24.9,28.9,全球>70% PGE,Merensky/UG2 层状矿,high,USGS/Amplats,PGE,2,
+Great Dyke,津巴布韦,PGE,Ni,层状岩墙,地下,-17.5,30.4,PGM层,古元古代层状岩墙,medium,行业综述,PGE,2,
+Stillwater,美国蒙大拿,PGE,Ni/Cu,层状镁铁质侵入体,地下,45.4,-109.9,北美唯一PGE主矿,层状杂岩体,medium,Sibanye,PGE,2,
+Athabasca (Cigar Lake/McArthur),加拿大(萨斯喀彻温),U,Ni,不整合面型,地下,58.3,-104.6,世界最高品位铀矿,元古宙不整合面,high,Cameco/Orano,U,2,751.563
+Chu-Sarysu (Mynkuduk等),哈萨克斯坦,U,Re,砂岩型(地浸),原地浸出,45.4,66.6,全球最大产铀国主区,砂岩地浸ISL,high,Kazatomprom,U,4,751.563
+Rössing/Husab,纳米比亚,U,—,白岗岩/碱性岩型,露天,-22.7,14.9,大型铀矿,纳米比亚白岗岩,medium,Rio/CNNC,U,4,751.563
+Ranger,澳大利亚北领地,U,—,不整合面-蚀变型,露天,-12.68,132.9,已闭坑但富集,蚀变带铀,medium,ERA,U,4,751.563
+Kimberley 金伯利岩筒,南非,Diamond,—,金伯利岩型(克拉通根),露天+地下,-28.74,24.77,经典金伯利岩,古克拉通深源金刚石,high,De Beers,Diamond,3,
+Jwaneng,博茨瓦纳,Diamond,—,金伯利岩型,露天,-24.51,24.71,全球产值最高钻石矿,厚岩筒,high,De Beers,Diamond,4,
+Orapa,博茨瓦纳,Diamond,—,金伯利岩型,露天,-21.3,25.36,大型岩筒,岩筒群,medium,De Beers,Diamond,4,
+Argyle,澳大利亚(金伯利),Diamond,—,橄榄石-煌斑岩型(lamproite),露天+地下,-16.71,128.39,历史粉钻主源(已闭坑),lamproite,medium,Rio Tinto,Diamond,3,
+Lac de Gras (Ekati/Diavik),加拿大(西北领地),Diamond,—,金伯利岩型(北克拉通),露天+地下,-64.5,-110.6,北半球高纬岩筒,Slave克拉通,medium,Rio/BHP,Diamond,3,
+Mirny/Udachnaya,俄罗斯(萨哈),Diamond,—,金伯利岩型(西伯利亚克拉通),露天+地下,62.5,113.9,世界最大岩筒之一,西伯利亚克拉通,medium,Alrosa,Diamond,3,
+Catoca,安哥拉,Diamond,—,金伯利岩型,露天,-9.4,20.3,大型岩筒,刚果克拉通,medium,Endiama,Diamond,4,
