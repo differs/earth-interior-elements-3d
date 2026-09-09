@@ -116,6 +116,15 @@ def main() -> int:
         return (r.get("latitude"), r.get("longitude"), r.get("country"),
                 r.get("depname"), r.get("deptype"))
     all_rows.extend(_rows("ree/main.csv", ree, "REE"))
+    # 豆荚状铬铁矿 → Cr；沉积岩型 Zn-Pb → ZnPb
+    all_rows.extend(_rows("podchrome/main.csv",
+                          lambda r: (r.get("latitude"), r.get("longitude"),
+                                     r.get("country"), r.get("depname"),
+                                     r.get("deptype")), "Cr"))
+    all_rows.extend(_rows("sedznpb/main.csv",
+                          lambda r: (r.get("latitude"), r.get("longitude"),
+                                     r.get("country"), r.get("depname"),
+                                     r.get("deptype")), "ZnPb"))
     # 全球主要矿床(按 commodity 词归族, 一个记录可多族)
     p = EX / "ofr20051294/deposit.csv"
     if p.exists():

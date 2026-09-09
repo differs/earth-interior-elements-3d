@@ -41,6 +41,9 @@
 - [x] **全球现役采矿证据(OSM/遥感)入仓**：Maus et al. 全球采矿面 19.2 万多边形→质心
       data/geo/osm_mining_points.csv(ODbL, scripts/parse_osm_mining.py)；观察清单新增
       mining_polygons_n 列(俄/中/加/巴西现役采矿证据量)
+- [x] **评分族 11→20 扩展**：新增 Zn-Pb/Cr/Mn/W/Sn/Sb/V/Ti/Ta-Nb；数据补 podchrome(铬
+      1124)、sedznpb(Zn-Pb 506)、PP1802 临界金属(Mn/W/Sn/Sb/V/Ti/Ta-Nb 437)、MRDS
+      商品词(Zn-Pb 3 万/W 6 千...)；全链(prospect/rules/watchlist)重算并字节级稳定
 - [ ] 对中国/俄等仍有大 gap 的国家：喂入该国地质调查成矿图件(俄 1:200万/中 1:100万/
       非洲 SEG 图层)——全球免费档仍缺，最可能来自各机构开放数据页或需申请
 - [ ] 把"最近主要城市/距已知矿"合成 1-5 星"分派优先级"打分

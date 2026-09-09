@@ -76,6 +76,69 @@
       "arc_w": 0.0,
       "rift_w": 1.0,
       "reason": "油气在被动陆缘/裂谷盆地; 弧区无"
+    },
+    {
+      "family": "ZnPb",
+      "anchor_w": 1.6,
+      "arc_w": 0.4,
+      "rift_w": 0.5,
+      "reason": "SEDEX/MVT 在裂谷-被动陆缘盆地, VMS 在弧"
+    },
+    {
+      "family": "Cr",
+      "anchor_w": 1.8,
+      "arc_w": 1.0,
+      "rift_w": 0.4,
+      "reason": "豆荚状铬铁矿在蛇绿岩/汇聚带, 层状在杂岩锚点"
+    },
+    {
+      "family": "Mn",
+      "anchor_w": 1.8,
+      "arc_w": 0.1,
+      "rift_w": 0.4,
+      "reason": "锰多在沉积盆地/洋壳锰结核背景, 锚点为主"
+    },
+    {
+      "family": "W",
+      "anchor_w": 1.5,
+      "arc_w": 1.2,
+      "rift_w": 0.2,
+      "reason": "白钨矿矽卡岩/黑钨矿脉伴弧-碰撞花岗岩"
+    },
+    {
+      "family": "Sn",
+      "anchor_w": 1.5,
+      "arc_w": 1.2,
+      "rift_w": 0.2,
+      "reason": "锡石多与弧/后碰撞酸性花岗岩有关"
+    },
+    {
+      "family": "Sb",
+      "anchor_w": 1.5,
+      "arc_w": 1.2,
+      "rift_w": 0.2,
+      "reason": "辉锑矿浅成低温多沿俯冲弧/造山带"
+    },
+    {
+      "family": "V",
+      "anchor_w": 1.7,
+      "arc_w": 0.2,
+      "rift_w": 0.3,
+      "reason": "钒在沉积岩/钒钛磁铁矿, 锚点为主"
+    },
+    {
+      "family": "Ti",
+      "anchor_w": 1.6,
+      "arc_w": 0.3,
+      "rift_w": 0.4,
+      "reason": "钛铁矿砂矿/层状侵入体与岩体相关"
+    },
+    {
+      "family": "TaNb",
+      "anchor_w": 1.6,
+      "arc_w": 0.5,
+      "rift_w": 0.7,
+      "reason": "Ta-Nb 伟晶岩/碳酸岩多沿裂谷与增生带"
     }
   ],
   "sigma_deg": 4.0,
@@ -89,5 +152,5 @@
     "rift": 221,
     "intra": 149
   },
-  "frontiers_total": 1210
+  "frontiers_total": 2285
 }

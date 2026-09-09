@@ -36,7 +36,10 @@ from earth3d.prospect import (  # noqa: E402
 
 FAM_ZH = {"Au": "金 Au", "Cu": "铜 Cu", "Fe": "铁 Fe", "NiCo": "镍钴 Ni-Co",
           "Li": "锂 Li", "REE": "稀土 REE", "PGE": "铂族 PGE", "U": "铀 U",
-          "Diamond": "金刚石", "Coal": "煤", "OilGas": "油气"}
+          "Diamond": "金刚石", "Coal": "煤", "OilGas": "油气",
+          "ZnPb": "锌铅 Zn-Pb", "Cr": "铬 Cr", "Mn": "锰 Mn", "W": "钨 W",
+          "Sn": "锡 Sn", "Sb": "锑 Sb", "V": "钒 V", "Ti": "钛 Ti",
+          "TaNb": "钽铌 Ta-Nb"}
 
 
 def _write(path, rows, cols):
