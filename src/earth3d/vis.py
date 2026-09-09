@@ -108,3 +108,48 @@ def fig_enrichment(out_path, enrichment_rows):
     fig.savefig(out_path, dpi=150)
     plt.close(fig)
     return out_path
+
+
+def fig_core_inversion(out_path, inv_rows, core_merged_ppm=None):
+    """地核成分：反演合成表 vs 文献对照。
+
+    - Fe 取合成表值(已扣除轻元素预算)；Ni/Co/Cr/W/Mo 取反演金属端；
+    - 其余金属(ppm 量级)在纵轴 wt% 下不可见，故仅在图注说明。
+    """
+    rows = {r["element"]: r for r in inv_rows}
+    lit_map = {"Fe": 85.5, "Ni": 5.2, "Co": 0.25, "Cr": 0.9, "Si": 6.0, "S": 1.9}
+    model = {}
+    lit = {}
+    for e, lv in lit_map.items():
+        if e == "Fe":
+            if core_merged_ppm:
+                model[e] = core_merged_ppm.get("Fe", 0.0) / 1e4
+        else:
+            r = rows.get(e)
+            if r is None:
+                continue
+            model[e] = r["C_core_pure_metal_pct"]
+        lit[e] = lv
+    names = [e for e in ["Fe", "Ni", "Co", "Cr"] + ["Si", "S"] if e in model]
+    x = np.arange(len(names))
+    w = 0.36
+    fig, ax = plt.subplots(figsize=(9, 5.5))
+    ax.bar(x - w / 2, [model[e] for e in names], w, label="本模型反演合成表",
+           color="#C0392B", alpha=0.9)
+    ax.bar(x + w / 2, [lit[e] for e in names], w, label="文献 (McDonough 2003)",
+           color="#8C5A2B", alpha=0.65)
+    for xi, e in zip(x, names):
+        ax.text(xi - w / 2, model[e], f"{model[e]:.2f}",
+                ha="center", va="bottom", fontsize=7)
+        ax.text(xi + w / 2, lit[e], f"{lit[e]:.1f}",
+                ha="center", va="bottom", fontsize=7)
+    ax.set_xticks(x)
+    ax.set_xticklabels(names)
+    ax.set_ylabel("地核成分 wt%")
+    ax.set_title("核幔质量平衡反演的地核成分 vs 文献 (PGE 等为 ppm 级见图表文件)")
+    ax.legend(fontsize=8)
+    ax.set_ylim(0, max(max(model.values()), max(lit.values())) * 1.18)
+    fig.tight_layout()
+    fig.savefig(out_path, dpi=150)
+    plt.close(fig)
+    return out_path

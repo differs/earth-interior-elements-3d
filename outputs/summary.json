@@ -16,15 +16,27 @@
   "element_count": {
     "continental_crust": 83,
     "oceanic_crust": 11,
-    "mantle": 57,
-    "core": 7
+    "mantle": 83,
+    "core": 19
+  },
+  "core_inversion": {
+    "x_ref_mean": 1.8494784110933356,
+    "x_ref_rel_std": 0.002440987997742963,
+    "merged_Fe_pct": 84.09632588513972
   },
   "files": [
+    "core_inversion_meta.json",
+    "core_inversion_metals.csv",
     "element_fate_crust_mantle_core.csv",
     "enrichment_crust_vs_mantle.csv",
+    "fig_core_inversion.png",
+    "fig_element_fate.png",
+    "fig_enrichment_crust_vs_mantle.png",
+    "fig_radial_abundance.png",
     "radial_elements.csv",
     "radial_meta.json",
     "radial_region_element_mass.csv",
-    "reservoir_elements.csv"
+    "reservoir_elements.csv",
+    "summary.json"
   ]
 }

@@ -35,7 +35,45 @@ def main():
     outdir = Path(args.outdir)
     outdir.mkdir(parents=True, exist_ok=True)
 
-    rs = get_reservoirs()
+    # ---- 0. 核幔质量平衡反演地核成分(用 CI/BSE 全表) ----
+    from earth3d.inversion import solve_core  # noqa: E402
+
+    inv = solve_core()
+    rs = get_reservoirs(core_ppm=inv["core_ppm"])
+    print("=" * 62)
+    print("核幔质量平衡反演 地核成分  (纯金属端 / 合成一致表)")
+    print("-" * 62)
+    for r in inv["rows"]:
+        if r["element"] in ("Fe", "Ni", "Co", "Cr", "W", "Mo"):
+            lit = f"  [lit {r['lit_wt']*100:.1f}%]" if r["lit_wt"] else ""
+            print(f"  {r['element']:<3} 纯金属端 {r['C_core_pure_metal_pct']:6.2f}%{lit}")
+    fe_pct = inv["meta"]["merged_Fe_pct"]
+    print(f"  Fe 合成表 = {fe_pct:.2f}%   (文献 85.5%，轻元素预算 "
+          f"{inv['meta']['light_budget_ppm_total']/1e4:.1f}%)")
+    print(f"  X_ref = {inv['meta']['x_ref_mean']:.4f} ± "
+          f"{inv['meta']['x_ref_rel_std']*100:.2f}%  "
+          f"(n={inv['meta']['n_refractory_sample']})")
+    inv_rows = [dict(r) for r in inv["rows"]]
+    for r in inv_rows:
+        r["C_core_pure_metal_pct"] = round(r["C_core_pure_metal_pct"], 6)
+        for k in ("C_CI_ppm", "C_BSE_ppm", "C_earth_ppm",
+                  "C_core_pure_metal_ppm", "C_core_plus_lo_ppm",
+                  "C_core_plus_hi_ppm"):
+            r[k] = round(r[k], 6)
+        if r.get("lit_wt") is not None:
+            r["lit_pct"] = round(r["lit_wt"] * 100, 3)
+        else:
+            r["lit_pct"] = None
+    write_csv(outdir / "core_inversion_metals.csv", inv_rows,
+              ["element", "C_CI_ppm", "C_BSE_ppm", "C_earth_ppm",
+               "C_core_pure_metal_ppm", "C_core_pure_metal_pct",
+               "sigma_rel", "C_core_plus_lo_ppm", "C_core_plus_hi_ppm",
+               "lit_wt", "lit_pct"])
+    write_json(outdir / "core_inversion_meta.json", {
+        **{k: v for k, v in inv["meta"].items() if k != "lit_comparison"},
+        "core_ppm_merged": inv["core_ppm"],
+    })
+
     meta, bins = build_regions()
 
     # ---- 校验：几何质量 vs 文献目标 ----
@@ -102,6 +140,11 @@ def main():
         "density_scales": {k: round(v, 4) for k, v in meta["scales"].items()},
         "element_count": {
             k: len(v["ppm"]) for k, v in rs.items()
+        },
+        "core_inversion": {
+            "x_ref_mean": inv["meta"]["x_ref_mean"],
+            "x_ref_rel_std": inv["meta"]["x_ref_rel_std"],
+            "merged_Fe_pct": inv["meta"]["merged_Fe_pct"],
         },
         "files": [p.name for p in sorted(outdir.iterdir())],
     }

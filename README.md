@@ -32,7 +32,8 @@ python3 scripts/make_plots.py       # 生成 3 张图（径向丰度/圈层份�
 | `radial_region_element_mass.csv` | 按圈层聚合的元素质量 |
 | `element_fate_crust_mantle_core.csv` | 关键元素在地壳/地幔/地核的储量份额 |
 | `enrichment_crust_vs_mantle.csv` | 地壳/地幔(BSE)富集因子 + 归宿判定 |
-| `fig_*.png` | 径向丰度剖面、圈层储量份额、富集因子三图 |
+| `core_inversion_metals.csv` / `core_inversion_meta.json` | **核幔质量平衡反演**的地核金属解(纯金属端±σ)与合成一致表 |
+| `fig_*.png` | 径向剖面 / 圈层储量 / 富集因子 / **地核反演对照** 四图 |
 
 ## 数据出处与置信度
 
@@ -40,8 +41,9 @@ python3 scripts/make_plots.py       # 生成 3 张图（径向丰度/圈层份�
 |---|---|---|
 | 大陆地壳 | CRC Handbook 97th (2016-2017) 大陆地壳丰度表 | 高 |
 | 洋壳(MORB) | Gale et al. (2013) MORB 玻璃主量平均 | 高(主量) |
-| 地幔(pyrolite/BSE) | McDonough & Sun (1995)；主量氧化物质谱换算，微量=教科书级≈参考值 | 主量高/微量中 |
-| 地核 | McDonough (2003) 汇编；轻元素配比=本仓库假设档位 | Fe/Ni 中/轻元素低 |
+| CI + BSE(pyrolite) | **McDonough & Sun (1995) 全元素表**（76 元素，脚本解析自 georefdatar 转录档） | 高 |
+| 地幔 | BSE 扣除地壳的质量平衡解 | 主量高/微量中 |
+| 地核 | **CI/BSE 核幔质量平衡反演**（强亲铁金属）+ 地震学轻元素预算 | Fe/Ni/Co/Cr 与文献吻合 ~1.5pp 内 |
 
 详见 `data/raw/SOURCES.md` 与 `docs/*`。所有"没把握"的地方都标了置信度，
 **不会**为缺失数据凭空编造 ppm。
@@ -65,11 +67,11 @@ python3 scripts/make_plots.py       # 生成 3 张图（径向丰度/圈层份�
 
 ## Roadmap 预览
 
-1. 全元素 BSE/CI 表机器核对（GeoREM/GERM、McDonough & Sun 全表）
-2. 核-幔质量平衡**反演地核成分**（把 v0.1 的"文献直给"升级为"方程解出"）
-3. 温度-压力剖面 + 各矿种生成窗 → 从"分布"走向"产状与可达性"
-4. 俯冲带/地幔柱的 3D 偏离项（横向建模）
-5. 单元测试 + CI + 数据校验器
-6. 交互式 3D 可视化
+- [x] CI/BSE 全元素表(M&S 1995, 76 元素) 并入并做氧差归一
+- [x] **核幔质量平衡反演地核成分**（强亲铁金属；Fe/Ni/Co/Cr 与文献吻合）
+- [ ] 中等挥发亲硫金属(Cu/Zn/Pb/…/S) 加入挥发亏损参数后纳入反演
+- [ ] 下地幔成分歧见参数化 + 横向不均(俯冲带/地幔柱) 的 3D 偏离项
+- [ ] P-T 剖面 + 生成窗 → 从"分布"走向"产状与可达性"
+- [ ] 单元测试 + CI + 数据校验器、交互式 3D 可视化
 
 MIT License。数据引用见 `data/raw/SOURCES.md`。
