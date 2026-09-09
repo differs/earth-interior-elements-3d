@@ -48,6 +48,8 @@
     "radial_elements.csv",
     "radial_meta.json",
     "radial_region_element_mass.csv",
+    "reexploration_dossiers.csv",
+    "reexploration_dossiers.md",
     "reexploration_meta.json",
     "reexploration_watchlist.csv",
     "reexploration_watchlist_map.png",

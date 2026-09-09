@@ -44,6 +44,8 @@
 - [x] **评分族 11→20 扩展**：新增 Zn-Pb/Cr/Mn/W/Sn/Sb/V/Ti/Ta-Nb；数据补 podchrome(铬
       1124)、sedznpb(Zn-Pb 506)、PP1802 临界金属(Mn/W/Sn/Sb/V/Ti/Ta-Nb 437)、MRDS
       商品词(Zn-Pb 3 万/W 6 千...)；全链(prospect/rules/watchlist)重算并字节级稳定
+- [x] **立项卡**：scripts/build_dossiers.py——各族 top 候选格聚合 EF/生成窗/规则理由/
+      采矿证据/物流 → outputs/reexploration_dossiers.md(.csv) 带"下一步动作"
 - [ ] 对中国/俄等仍有大 gap 的国家：喂入该国地质调查成矿图件(俄 1:200万/中 1:100万/
       非洲 SEG 图层)——全球免费档仍缺，最可能来自各机构开放数据页或需申请
 - [ ] 把"最近主要城市/距已知矿"合成 1-5 星"分派优先级"打分
