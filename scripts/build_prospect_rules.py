@@ -43,7 +43,10 @@ FAM_ZH = {"Au": "金 Au", "Cu": "铜 Cu", "Fe": "铁 Fe", "NiCo": "镍钴", "Li"
           "ZnPb": "锌铅", "Cr": "铬", "Mn": "锰", "W": "钨",
           "Sn": "锡", "Sb": "锑", "V": "钒", "Ti": "钛", "TaNb": "钽铌",
           "Ag": "银", "Mo": "钼", "Re": "铼", "Bi": "铋", "As": "砷",
-          "Be": "铍", "CsRb": "铯铷", "Sc": "钪", "Zr": "锆", "Graphite": "石墨"}
+          "Be": "铍", "CsRb": "铯铷", "Sc": "钪", "Zr": "锆", "Graphite": "石墨",
+          "Ga": "镓 Ga", "Ge": "锗 Ge", "In": "铟 In", "Tl": "铊 Tl",
+          "Se": "硒 Se", "Te": "碲 Te", "Hf": "铪 Hf", "Sr": "锶 Sr",
+          "Ba": "钡 Ba", "F": "氟 F", "K": "钾 K", "P": "磷 P"}
 
 
 def _land():

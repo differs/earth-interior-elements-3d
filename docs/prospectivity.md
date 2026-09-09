@@ -76,10 +76,9 @@ $$
 环境数据是**真实的**：GVP 5.4.0 全球全新世火山 1,215 座，按 Tectonic Setting 字段分
 弧(838)/裂谷(221)/板内——`data/geo/gvp_holocene_volcanoes.csv`。
 
-**v0.3k 扩展到 30 族**：在 Au/Cu/Fe/NiCo/Li/REE/PGE/U/Diamond/Coal/OilGas 之上
-新增 Zn-Pb、Cr、Mn、W、Sn、Sb、V、Ti、Ta-Nb(20) 与 Ag、Mo、Re、Bi、As、Be、
-Cs-Rb、Sc、Zr、石墨(30)。数据=MRDS 商品词 + mrdata podchrome/sedznpb +
-USGS PP1802(1,450 条)。权重理由全在 `prospect_rules_weights.csv`。
+**v0.3l 扩展到 42 族**：30 之上再增 Ga/Ge/In/Tl/Hf/Se/Te/Sr/Ba/F/K/P(技术/工业/肥料)；
+数据=MRDS 商品词 + mrdata + USGS PP1802(2,185 条)。权重理由全在
+`prospect_rules_weights.csv`。抽查: Ge/In→华南闪锌矿省、K→西伯利亚蒸发岩、P→安加拉。
 
 **规则版真的改变了语义**（抽查验证）：
 - Cu 前沿从"已知矿团外围"移到**弧区无已知矿的格**（新几内亚弧、意大利弧、墨西哥弧）；

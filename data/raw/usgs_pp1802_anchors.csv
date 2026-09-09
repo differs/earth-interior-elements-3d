@@ -1,4 +1,45 @@
 family,lat,lon,country,commodity
+Ba,-41.774,145.539,Australia,"Rosebery [Barite; Gallium|Bedded-volcanic; Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ba,-37.0,-70.0,Argentina,Neuquen-Mendoza [Barite|Bedded-sedimentary]
+Ba,-31.344,138.692,Australia,"Flinders Range [Barite|Vein, cavity-fill, metasomatic]"
+Ba,-29.9,-66.999,Argentina,La Helvecia [Barite|Bedded-sedimentary]
+Ba,-29.25,18.79,South Africa,Aggeneys-Gamsberg [Barite|Bedded-sedimentary]
+Ba,-19.6667,-46.95,Brazil,"Araxá [Niobium and Tantalum; Barite; Rare-Earth Elements|Carbonatite; Vein, cavity-fill, metasomatic]"
+Ba,-13.924,-39.008,Brazil,Camamu [Barite|Bedded-sedimentary]
+Ba,14.02,79.32,India,Cuddapah [Barite|Bedded-sedimentary]
+Ba,18.605,99.009,Thailand,Northern Thailand [Barite|Bedded-sedimentary]
+Ba,19.353,105.403,Vietnam,"Nghe An [Barite|Vein, cavity-fill, metasomatic]"
+Ba,21.983,103.975,Vietnam,"Mau Xe [Barite|Vein, cavity-fill, metasomatic]"
+Ba,22.485,-83.779,Cuba,Gertrudas-Jugua [Barite|Bedded-sedimentary]
+Ba,27.059,66.665,Pakistan,Lasbela-Khuzdar [Barite|Bedded-sedimentary]
+Ba,27.15,109.167,China,Jiangnan [Barite|Bedded-sedimentary]
+Ba,28.833,-110.133,Mexico,Sonora [Barite|Bedded-sedimentary]
+Ba,30.0,110.0,China,Qinling [Barite|Bedded-sedimentary]
+Ba,31.576,-9.022,Morocco,"Jebel Irhoud [Barite|Vein, cavity-fill, metasomatic]"
+Ba,32.2,-2.8,Morocco,"Zelmou [Barite|Vein, cavity-fill, metasomatic]"
+Ba,32.842,51.767,Iran,Dorreh Kashan [Barite|Bedded-volcanic]
+Ba,33.875,-82.28,United States of America,Barite Hill [Barite|Bedded-volcanic]
+Ba,34.161,-84.798,United States of America,Cartersville [Barite|Residual]
+Ba,34.471,-92.816,United States of America,Ouachita Mountains [Barite|Bedded-sedimentary]
+Ba,35.4809,-115.534,United States of America,"Mountain Pass [Barite; Rare-Earth Elements|Vein, cavity-fill, metasomatic; Carbonatite]"
+Ba,35.6014,-84.4611,United States of America,Sweetwater district [Fluorite; Barite|Mississippi Valley-type F; Residual]
+Ba,38.0121,-90.7242,United States of America,Southeast Missouri Barite district [Barite|Residual]
+Ba,38.076,31.368,Turkey,"Isparta [Barite|Vein, cavity-fill, metasomatic]"
+Ba,38.5958,-92.8603,United States of America,"Central Missouri [Gallium; Barite|Ga in Mississippi Valley-type; Vein, cavity-fill, metasomatic]"
+Ba,40.229,9.03,Italy,Sardinia [Barite|Bedded-sedimentary]
+Ba,40.58,-116.696,United States of America,Nevada [Barite|Bedded-sedimentary]
+Ba,41.738,140.976,Japan,Kuroko [Barite|Bedded-volcanic]
+Ba,42.5,43.6833,Georgia,"Chordi [Barite|Vein, cavity-fill, metasomatic]"
+Ba,44.284,72.946,Kazakhstan,Chiganak [Barite|Bedded-sedimentary]
+Ba,44.4917,41.3617,Russia,Madneuli [Barite|Bedded-volcanic]
+Ba,46.435,1.297,France,"Chaillac [Barite|Vein, cavity-fill, metasomatic]"
+Ba,48.27,70.242,Kazakhstan,Zhayrem district [Barite|Bedded-volcanic]
+Ba,48.908,-117.868,United States of America,Flagstaff Mountain [Barite|Bedded-sedimentary]
+Ba,51.129,8.063,Germany,Meggen [Barite; Gallium|Bedded-sedimentary; Ga in Clastic-dominated Pb-Zn]
+Ba,51.8906,10.4194,Germany,Rammelsberg [Gallium; Barite|Ga in Clastic-dominated Pb-Zn; Bedded-sedimentary]
+Ba,63.0,-130.0,Canada,Selwyn Basin [Barite|Bedded-sedimentary]
+Ba,68.0613,-162.8567,United States of America,Red Dog [Barite; Gallium; Germanium|Bedded-sedimentary; Ga in Clastic-dominated Pb-Zn; Sedimentary exhalative Pb-Zn]
+Ba,68.15,-157.454,United States of America,Cutaway basin [Barite|Bedded-sedimentary]
 Be,-41.75,145.36,Australia,Mount Lindsay [Beryllium; Tin|Non-pegmatite; Hydrothermal]
 Be,-41.4862,146.0687,Australia,Moina [Fluorite; Beryllium|Tin-granite-related; Non-pegmatite]
 Be,-41.4128,145.5153,Australia,Mount Bischoff [Tin; Beryllium|Hydrothermal; Non-pegmatite]
@@ -311,6 +352,578 @@ Be,67.6333,36.7,Russia,Western Keivy [Beryllium|Pegmatite]
 Be,67.8917,34.6115,Russia,Lovozero Deposit [Rare-Earth Elements; Beryllium; Niobium and Tantalum|Peralkaline igneous; Non-pegmatite; Alkaline granite and syenite]
 Be,68.15,33.2833,Russia,Orlinogorski [Beryllium|Non-pegmatite]
 Be,68.9543,33.1076,Russia,Murmansk [Beryllium|Pegmatite]
+F,-41.4862,146.0687,Australia,Moina [Fluorite; Beryllium|Tin-granite-related; Non-pegmatite]
+F,-32.5019,-64.7945,Argentina,"Cerros Negros [Fluorite|Volcanics of ""normal"" evolution]"
+F,-28.1333,31.9,South Africa,Hlabisa [Fluorite|Deposit type unclassified]
+F,-26.6222,-49.2595,Brazil,"Santa Catarina district [Fluorite|Alkaline-intrusion-related veins, skarns, and carbonate replacements]"
+F,-25.717,26.092,South Africa,Marico district [Fluorite|Mississippi Valley-type F]
+F,-25.2553,28.5811,South Africa,Vergenoeg [Fluorite|Tin-granite-related]
+F,-24.8577,28.1707,South Africa,Zwartkloof [Fluorite|Tin granite]
+F,-24.7471,-49.181,Brazil,Mato Preto [Fluorite|Carbonatite-Related F]
+F,-24.4815,28.6584,South Africa,Buffalo [Fluorite|Tin-granite-related]
+F,-20.0667,16.7667,Namibia,Okorusu [Fluorite|Carbonatite-Related F]
+F,-17.9333,34.2,Mozambique,Macossa [Fluorite|Deposit type unclassified]
+F,-17.5779,34.3103,Mozambique,Canxixe area [Fluorite|Deposit type unclassified]
+F,-16.4075,127.9839,Australia,Speewah [Fluorite|Carbonatite-Related F]
+F,-16.4,32.5833,Mozambique,Chioco-Djanguire area [Fluorite|Deposit type unclassified]
+F,-16.317,34.083,Mozambique,Mount Muambe [Fluorite|Carbonatite-Related F]
+F,0.3334,35.627,Kenya,"Kimwarer [Fluorite|Alkaline-volcanic-related epithermal veins, breccia-fills, and carbonate replacements]"
+F,12.7316,30.8371,Sudan,Jebel Semeih (J. Sumayh) [Fluorite|Deposit type unclassified]
+F,13.3667,99.4667,Thailand,Yang Hak district [Fluorite|Deposit type unclassified]
+F,17.8792,98.775,Thailand,Doi Tao district [Fluorite|Deposit type unclassified]
+F,18.2127,98.8189,Thailand,Ban Hong [Fluorite|Subalkaline-Volcanic-Related Epithermal F]
+F,18.589,-99.5446,Mexico,"La Azul deposit, Taxco district [Fluorite|Deposit type unclassified]"
+F,21.5702,-100.1771,Mexico,"El Refugio mine [Fluorite|Related to volcanics of ""normal evolution""]"
+F,21.6479,105.667,Vietnam,Nui Phao [Fluorite|Tin-granite-related]
+F,21.9441,-100.5816,Mexico,"Las Cuevas [Fluorite|Related to volcanics of ""normal evolution""]"
+F,21.9969,74.0628,India,Amba Dongar [Fluorite|Carbonatite-Related F]
+F,25.66,113.17,China,Shizhuyuan District [Fluorite|Tin-granite-related; Felsic and intermediate intrusion-associated]
+F,26.85,-105.8622,Mexico,Parral district [Fluorite|Deposit type unclassified]
+F,26.95,112.8675,China,Shuangjiangkou [Fluorite|Deposit type unclassified]
+F,27.3,100.0833,China,Mahuaping [Fluorite|Tin-granite-related]
+F,28.025,118.9008,China,"Badu [Fluorite|Related to volcanics of ""normal evolution""]"
+F,28.4567,101.9775,China,Maoniuping [Rare-Earth Elements; Fluorite|Carbonatite-Related F]
+F,28.5424,-102.4964,Mexico,Encantada-Buenavista [Fluorite|Salt-Related Carbonate-Hosted F]
+F,28.5853,109.4739,China,Huayuan district [Fluorite|Mississippi Valley-type F]
+F,28.6667,118.9333,China,"Hushan [Fluorite|Related to volcanics of ""normal evolution""]"
+F,28.9167,119.7,China,"Houshu [Fluorite|Related to volcanics of ""normal evolution""]"
+F,28.9893,119.8893,China,"Yangjia-Wuyi [Fluorite|Related to volcanics of ""normal evolution""]"
+F,29.1833,112.9833,China,"Donggangshan [Fluorite|Related to volcanics of ""normal evolution""]"
+F,29.2582,-102.5424,Mexico,Aguachile [Fluorite; Beryllium|Alkaline-Volcanic-Related Epithermal F; Carbonate-hosted Be]
+F,29.3667,113.45,China,Taolin [Fluorite|Tin granite]
+F,29.4379,67.1485,Pakistan,Kalat district [Fluorite|Mississippi Valley-type F]
+F,30.5333,118.7675,China,Zhuancum [Fluorite|Deposit type unclassified]
+F,30.5833,119.8675,China,"Yinzishan [Fluorite|Related to volcanics of ""normal evolution""]"
+F,31.4,114.5667,China,Huahe [Fluorite|Peralkaline to Alkaline-Intrusion-Related F]
+F,32.5333,113.85,China,"Jianshan [Fluorite|Related to volcanics of ""normal evolution""]"
+F,32.6123,-107.7541,United States of America,White Eagle [Fluorite|Alkaline-Volcanic-Related Epithermal F]
+F,32.7255,-108.6763,United States of America,Great Eagle [Fluorite|Alkaline-Volcanic-Related Epithermal F]
+F,33.3171,-108.8214,United States of America,Huckleberry mine [Fluorite|Alkaline-Volcanic-Related Epithermal F]
+F,33.5578,-5.8081,Morocco,El Hammam [Fluorite|Tin-granite-related]
+F,33.7667,112.0833,China,Chenlou [Fluorite|Deposit type unclassified]
+F,34.4427,-2.997,Morocco,Jebel Tirremi [Fluorite|Peralkaline to Alkaline-Intrusion-Related F]
+F,35.6014,-84.4611,United States of America,Sweetwater district [Fluorite; Barite|Mississippi Valley-type F; Residual]
+F,36.3415,10.2044,Tunisia,Hammam Zriba [Fluorite|Salt-Related Carbonate-Hosted F]
+F,36.8871,-2.6303,Spain,Bétic Cordillera region [Fluorite|Deposit type unclassified]
+F,36.8896,-116.6811,United States of America,Daisy mine [Fluorite|Alkaline-Volcanic-Related Epithermal F]
+F,36.9251,-2.5421,Spain,Sierra Gador district [Fluorite|Deposit type unclassified]
+F,37.299,-88.235,United States of America,Illinois-Kentucky fluorspar district [Fluorite; Gallium|Mississippi Valley-type]
+F,37.521,-88.354,United States of America,Hicks Dome [Fluorite; Beryllium|Carbonatite-Related F; Pegmatite]
+F,38.2167,-113.8333,United States of America,Indian Peak district [Fluorite|Alkaline-Volcanic-Related Epithermal F]
+F,38.6316,-106.0664,United States of America,Brown's Canyon district [Fluorite|Deposit type unclassified]
+F,38.8371,68.9387,Tajikistan,Takob [Fluorite|Deposit type unclassified]
+F,39.436,9.475,Italy,Bruncu Molentinu [Fluorite|Deposit type unclassified]
+F,39.517,9.256,Italy,Muscadroxiu-GennaTres Montis-S'Acqua Frida (Silius mine) [Fluorite|Salt-Related Carbonate-Hosted F]
+F,39.617,31.365,Turkey,Kizilcaören (a.k.a. Beylikahir) [Fluorite|Carbonatite-Related F]
+F,39.7216,-113.1971,United States of America,Spor Mountain [Beryllium; Fluorite|Volcanogenic-hosted Be; Peralkaline to Alkaline-Intrusion-Related F]
+F,40.128,-105.3987,United States of America,Jamestown district [Fluorite|Peralkaline to Alkaline-Intrusion-Related F]
+F,40.9244,-106.2744,United States of America,"Northgate district [Fluorite|Alkaline-volcanic-related epithermal veins, breccia-fills, and carbonate replacements]"
+F,41.2058,70.5331,Uzbekistan,Suppatash [Fluorite|Deposit type unclassified]
+F,41.9497,2.593,Spain,Osor [Fluorite|Salt-Related Carbonate-Hosted F]
+F,42.067,12.1441,Italy,Pianciano-Castel Giuliano [Fluorite|Tuffaceous Limy Lacustrine Sediment-hosted F]
+F,42.5414,2.3148,France,Escaro [Fluorite|Salt-Related Carbonate-Hosted F]
+F,42.5755,11.7469,Italy,Santo Maria di Sala [Fluorite|Tuffaceous Limy Lacustrine Sediment-hosted F]
+F,42.808,-117.7199,United States of America,Rome occurrence [Fluorite|Tuffaceous Limy Lacustrine Sediment-hosted F]
+F,43.1167,75.1167,Kazakhstan,Taskainar (Taskaynar) [Fluorite|Tin-granite-related]
+F,43.1231,111.27,China,"Sumochagan Obo [Fluorite|Related to volcanics of ""normal evolution""]"
+F,43.4277,-5.6219,Spain,Asturias region [Fluorite|Salt-Related Carbonate-Hosted F]
+F,43.8211,2.3782,France,Montroc [Fluorite|Salt-Related Carbonate-Hosted F]
+F,43.8731,2.406,France,Le Burc [Fluorite|Salt-Related Carbonate-Hosted F]
+F,44.1662,132.1922,Russia,Voznesenka and Pogranichny [Fluorite|Tin-granite-related; Felsic and intermediate intrusion-associated]
+F,44.1667,132.1833,Russia,Pogranichny [Fluorite|Tin-granite-related]
+F,44.3729,104.1629,Mongolia,Mushugai-Khudag [Fluorite|Carbonatite-Related F]
+F,44.7058,110.7389,Mongolia,Urgun (Örgön) [Fluorite|Alkaline-Volcanic-Related Epithermal F]
+F,44.8541,-114.5036,United States of America,Meyers Cove [Fluorite|Subalkaline-volcanic-related epithermal veins and replacements]
+F,45.0492,3.4951,France,Le Barlet [Fluorite|Salt-Related Carbonate-Hosted F]
+F,45.06,-78.19,Canada,Fission (Richardson) mine [Fluorite|Carbonatite-Related F]
+F,46.0062,-113.8881,United States of America,"Crystal Mountain [Fluorite|Skarns, greisens, veins, and replacements related to strongly differentiated granites]"
+F,46.2681,109.4417,Mongolia,Bor Ondor [Fluorite|Alkaline-Volcanic-Related Epithermal F]
+F,46.3671,110.0417,Mongolia,Zuum-Tsagaan-Del [Fluorite|Alkaline-Volcanic-Related Epithermal F]
+F,46.4211,1.3081,France,Rossignol [Fluorite|Salt-Related Carbonate-Hosted F]
+F,46.5,109.333,Mongolia,Adag [Fluorite|Alkaline-Volcanic-Related Epithermal F]
+F,46.9159,-55.4072,Canada,St. Lawrence district [Fluorite|Peralkaline to Alkaline-Intrusion-Related F]
+F,46.974,4.078,France,Argentolle [Fluorite|Salt-Related Carbonate-Hosted F]
+F,47.218,18.505,Hungary,Pakozd [Fluorite|Tin granite]
+F,47.7733,111.1693,Mongolia,Berkh [Fluorite|Alkaline-Volcanic-Related Epithermal F]
+F,49.9819,78.7299,Kazakhstan,"Karadzhal [Fluorite|Skarns, greisens, veins, and replacements related to strongly differentiated granites]"
+F,50.9167,105.6167,Russia,Naransky [Fluorite|Peralkaline to Alkaline-Intrusion-Related F]
+F,51.0108,116.5294,Russia,"Kalangui [Fluorite|Related to volcanics of ""normal evolution""]"
+F,51.3051,92.1325,Russia,Karasug [Fluorite|Carbonatite-Related F]
+F,51.6737,109.5605,Russia,"Yermakovka (Yermakovsky, Ermakovsky) [Fluorite|Peralkaline to Alkaline-Intrusion-Related F]"
+F,51.9097,92.3972,Russia,Chaakhol [Fluorite|Carbonatite-Related F]
+F,53.2743,-1.6929,United Kingdom,Southern Pennine Orefield [Fluorite|Mississippi Valley-type F]
+F,53.837,57.8089,Russia,Suran I & Suran II [Fluorite|Subalkaline-volcanic-related epithermal veins and replacements]
+F,54.7946,-2.1734,United Kingdom,Northern Pennine Orefield [Fluorite|Mississippi Valley-type F]
+F,54.9,113.1167,Russia,Auninsky [Fluorite|Peralkaline to Alkaline-Intrusion-Related F]
+F,65.4756,-167.155,United States of America,Lost River [Fluorite; Beryllium; Tin|Skarn and Greisen-Hosted Be-F]
+Ga,-42.4213,146.5263,Australia,Ouse-Saint Leonards [Gallium|Ga in Bauxite]
+Ga,-41.8333,145.5333,Australia,"Mount Read [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,-41.774,145.539,Australia,"Rosebery [Barite; Gallium|Bedded-volcanic; Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,-34.535,150.367,Australia,Moss Vale [Gallium|Ga in Bauxite]
+Ga,-33.0796,149.1652,Australia,"Woodlawn [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,-32.9397,116.4578,Australia,Mount Saddleback [Gallium|Ga in Bauxite]
+Ga,-32.8946,115.9259,Australia,Willowdale [Gallium|Ga in Bauxite]
+Ga,-32.8,116.467,Australia,Boddington [Gallium|Ga in Bauxite]
+Ga,-32.5849,116.0557,Australia,Huntly [Gallium|Ga in Bauxite]
+Ga,-32.5735,116.1651,Australia,Darling Range [Gallium|Ga in Bauxite]
+Ga,-32.5476,115.9907,Australia,Del Park [Gallium|Ga in Bauxite]
+Ga,-32.3244,116.0644,Australia,Jarrahdale [Gallium|Ga in Bauxite]
+Ga,-32.037,115.8329,Australia,Alcoa [Gallium|Ga in Bauxite]
+Ga,-31.9667,141.4667,Australia,Broken Hill [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,-31.1614,145.6567,Australia,Elura [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,-29.2572,18.8019,South Africa,Big Syncline [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,-29.2519,18.9811,South Africa,Gamsberg [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,-29.2325,18.7303,South Africa,Black Mountain [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,-28.7795,116.966,Australia,"Golden Grove [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,-28.4742,23.5969,South Africa,Bushy Park [Gallium|Ga in Mississippi Valley-type]
+Ga,-27.9506,16.7644,Namibia,Rosh Pinah [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,-27.8564,153.1144,Australia,Tambourine [Gallium|Ga in Bauxite]
+Ga,-27.8113,-50.3169,Brazil,Lages [Gallium|Ga in Bauxite]
+Ga,-27.4306,24.2697,South Africa,Pering [Gallium|Ga in Mississippi Valley-type]
+Ga,-21.87,140.92,Australia,Cannington [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,-21.8609,-46.5858,Brazil,Poço de Caldas [Gallium|Ga in Bauxite]
+Ga,-21.4475,-42.8758,Brazil,Cataguases [Gallium|Ga in Bauxite]
+Ga,-21.1145,-44.2095,Brazil,São João del Rei [Gallium|Ga in Bauxite]
+Ga,-20.9966,117.9994,Australia,"Mons Cupri [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,-20.57,139.472,Australia,Mount Isa [Gallium; Cobalt|Ga and Co in Clastic-dominated Pb-Zn]
+Ga,-20.5467,139.2822,Australia,Hilton [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,-20.25,140.15,Australia,Dugald River [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,-20.2,-43.4842,Brazil,Ouro Prêto [Gallium|Ga in Bauxite]
+Ga,-19.7675,139.07,Australia,Lady Loretta [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,-19.4261,18.0219,Namibia,Khusib Springs [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,-19.2394,17.7161,Namibia,Tsumeb [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,-19.2269,122.28,Australia,Admiral Bay [Gallium|Ga in Mississippi Valley-type]
+Ga,-18.75,138.63,Australia,Century [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,-18.3075,125.7722,Australia,Pillara [Gallium|Ga in Mississippi Valley-type]
+Ga,-17.5039,-46.8208,Brazil,Morro Agudo [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,-16.5386,136.1497,Australia,Coxco [Gallium|Ga in Mississippi Valley-type]
+Ga,-16.4328,136.9958,Australia,McArthur River [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,-15.4428,128.9589,Australia,Sorby Hills [Gallium|Ga in Mississippi Valley-type]
+Ga,-15.2218,125.9908,Australia,Mitchell Plateau [Gallium|Ga in Bauxite]
+Ga,-14.2065,28.2971,Zambia,Kabwe [Gallium; Germanium|Ga in Clastic-dominated Pb-Zn; Ge in Kipushi Zn-Pb-Cu]
+Ga,-14.037,126.1259,Australia,Cape Bougainville [Gallium|Ga in Bauxite]
+Ga,-12.6499,141.8667,Australia,Weipa [Gallium|Ga in Bauxite]
+Ga,-12.5339,141.8369,Australia,Andoom [Gallium|Ga in Bauxite]
+Ga,-12.2632,136.8404,Australia,Gove [Gallium|Ga in Bauxite]
+Ga,-11.7694,27.2356,Democratic Republic of the Congo,Kipushi [Gallium; Germanium|Ga and Ge in Kipushi Zn-Pb-Cu]
+Ga,-11.6903,-49.0774,Brazil,Paragominos [Gallium|Ga in Bauxite]
+Ga,-11.2664,136.6224,Australia,Marchinbar Island [Gallium|Ga in Bauxite]
+Ga,-11.167,132.5574,Australia,Croker Island [Gallium|Ga in Bauxite]
+Ga,-4.9246,-47.5052,Brazil,Açailândia [Gallium|Ga in Bauxite]
+Ga,-3.806,-49.6636,Brazil,Tucuruí [Gallium|Ga in Bauxite]
+Ga,-3.7994,-49.6206,Brazil,João Bernardo [Gallium|Ga in Bauxite]
+Ga,-2.9631,-51.8556,Brazil,Carajás [Gallium|Ga in Bauxite]
+Ga,-1.6794,-56.4482,Brazil,Porto Trombetas [Gallium|Ga in Bauxite]
+Ga,-1.054,-59.797,Brazil,Pitinga [Gallium|Ga in Bauxite]
+Ga,-0.8989,-52.3775,Brazil,Almeirim [Gallium|Ga in Bauxite]
+Ga,0.15,110.7984,Indonesia,Tayan [Gallium|Ga in Bauxite]
+Ga,0.2416,101.7478,Indonesia,Riau Archipelago [Gallium|Ga in Bauxite]
+Ga,0.4331,33.2182,Uganda,Jinja [Gallium|Ga in Bauxite]
+Ga,0.7469,104.2292,Indonesia,Galang Island [Gallium|Ga in Bauxite]
+Ga,0.7816,104.5463,Indonesia,Bintan Island [Gallium|Ga in Bauxite]
+Ga,0.9599,104.4939,Indonesia,Kijang [Gallium|Ga in Bauxite]
+Ga,1.4391,-52.022,Brazil,Amapá [Gallium|Ga in Bauxite]
+Ga,4.3481,-56.7501,Suriname,Bakhuis Mountains [Gallium|Ga in Bauxite]
+Ga,4.7261,-52.3093,French Guyana,Roura Mountains [Gallium|Ga in Bauxite]
+Ga,4.8636,-54.6303,Suriname,Nassau Mountains [Gallium|Ga in Bauxite]
+Ga,4.9234,-52.3271,French Guyana,Carriére Sophie [Gallium|Ga in Bauxite]
+Ga,5.5708,-54.2785,Suriname,Moengo-Ricanau [Gallium|Ga in Bauxite]
+Ga,5.592,-55.1103,Suriname,Onverdacht [Gallium|Ga in Bauxite]
+Ga,5.6041,10.0803,Cameroon,Fongo-Tongo [Gallium|Ga in Bauxite]
+Ga,5.6482,-55.2125,Suriname,Lelydorp [Gallium|Ga in Bauxite]
+Ga,5.6807,10.2152,Cameroon,Bamboutos Mount [Gallium|Ga in Bauxite]
+Ga,6.1621,-0.5923,Ghana,Kibi [Gallium|Ga in Bauxite]
+Ga,6.2475,-2.2874,Ghana,Awaso [Gallium|Ga in Bauxite]
+Ga,6.5665,-0.7666,Ghana,Mount Ejuanema [Gallium|Ga in Bauxite]
+Ga,6.8942,13.0476,Cameroon,Martap [Gallium|Ga in Bauxite]
+Ga,6.9681,12.8701,Cameroon,Minim [Gallium|Ga in Bauxite]
+Ga,7.413,13.4371,Cameroon,Adamaoua [Gallium|Ga in Bauxite]
+Ga,9.4751,-13.7488,Guinea,Los Islands [Gallium|Ga in Bauxite]
+Ga,9.8897,-13.1111,Guinea,Kindia [Gallium|Ga in Bauxite]
+Ga,10.1977,77.5014,India,Palni Hills [Gallium|Ga in Bauxite]
+Ga,10.4038,-13.5733,Guinea,"Fria, Fria Kimbo [Gallium|Ga in Bauxite]"
+Ga,10.7347,-13.0426,Guinea,Diandian-Ouroubé [Gallium|Ga in Bauxite]
+Ga,11.0938,-13.7676,Guinea,Sangaredi [Gallium|Ga in Bauxite]
+Ga,11.358,-12.4609,Guinea,Pita-Labé [Gallium|Ga in Bauxite]
+Ga,11.43,76.88,India,Kotagiri [Gallium|Ga in Bauxite]
+Ga,11.4915,-11.8048,Guinea,Tougué [Gallium|Ga in Bauxite]
+Ga,11.6881,-12.2196,Guinea,"Dalaba, Dabola [Gallium|Ga in Bauxite]"
+Ga,11.7032,78.122,India,Salem [Gallium|Ga in Bauxite]
+Ga,11.7467,78.1445,India,Belgaum [Gallium|Ga in Bauxite]
+Ga,11.7492,-14.217,Guinea-Bissau,Boé [Gallium|Ga in Bauxite]
+Ga,11.8004,125.3825,Philippines,"Sulat [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,11.8163,78.2199,India,Yercaud II [Gallium|Ga in Bauxite]
+Ga,11.8271,78.2278,India,Shevaroy Hills [Gallium|Ga in Bauxite]
+Ga,12.0287,75.2072,India,Kannur [Gallium|Ga in Bauxite]
+Ga,13.217,124.1492,Philippines,"Hixbar [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,16.6614,98.6619,Thailand,Paedang [Gallium|Ga in Mississippi Valley-type]
+Ga,16.6905,74.2614,India,Kolhapur [Gallium|Ga in Bauxite]
+Ga,17.8858,-77.1523,Jamaica,Cockpit [Gallium|Ga in Bauxite]
+Ga,17.9069,83.2047,India,South Kottavalasa [Gallium|Ga in Bauxite]
+Ga,17.9086,83.2322,India,North Kottavalasa [Gallium|Ga in Bauxite]
+Ga,17.9639,-77.6208,Jamaica,Saint Elizabeth [Gallium|Ga in Bauxite]
+Ga,17.9836,-77.6267,Jamaica,Essex Valley [Gallium|Ga in Bauxite]
+Ga,18.0346,-77.056,Jamaica,Saint Catherine [Gallium|Ga in Bauxite]
+Ga,18.0699,-77.5527,Jamaica,Manchester [Gallium|Ga in Bauxite]
+Ga,18.073,-77.5011,Jamaica,Kendall Core [Gallium|Ga in Bauxite]
+Ga,18.2939,82.9801,India,Galikonda [Gallium|Ga in Bauxite]
+Ga,18.3276,-77.2404,Jamaica,Saint Ann [Gallium|Ga in Bauxite]
+Ga,18.3446,82.8631,India,Anantagiri Hills [Gallium|Ga in Bauxite]
+Ga,18.3555,-77.1231,Jamaica,Claremont-Moneague [Gallium|Ga in Bauxite]
+Ga,18.5654,82.9645,India,Koraput [Gallium|Ga in Bauxite]
+Ga,19.7113,83.3986,India,Lanjigarh [Gallium|Ga in Bauxite]
+Ga,20.7134,-156.1896,United States of America,East Maui [Gallium|Ga in Bauxite]
+Ga,21.0006,-156.5453,United States of America,West Maui [Gallium|Ga in Bauxite]
+Ga,21.2493,81.6075,India,Surguja [Gallium|Ga in Bauxite]
+Ga,21.4877,83.9804,India,Sambalpur [Gallium|Ga in Bauxite]
+Ga,21.8625,70.2601,India,Jamnagar [Gallium|Ga in Bauxite]
+Ga,21.875,106.7502,Vietnam,"Langshon, Lang Sen [Gallium|Ga in Bauxite]"
+Ga,22.0592,-159.5023,United States of America,Kauai [Gallium|Ga in Bauxite]
+Ga,22.0939,82.2025,India,Bilaspur [Gallium|Ga in Bauxite]
+Ga,22.1221,69.2913,India,Nandana [Gallium|Ga in Bauxite]
+Ga,22.3182,69.0428,India,Kalyanpur [Gallium|Ga in Bauxite]
+Ga,22.5583,83.9214,India,Sargipali [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,22.6248,109.1843,China,Dajia [Gallium|Ga in Bauxite]
+Ga,22.6428,-83.9558,Cuba,Santa Lucia [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,22.7065,81.7393,India,Amarkantak [Gallium|Ga in Bauxite]
+Ga,22.7417,99.725,China,"Laochang [Gallium; Indium; Germanium|Ga, Ge, and In in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,23.2044,106.3487,China,Xinxu [Gallium|Ga in Bauxite]
+Ga,23.4457,84.6916,India,Lohardaga [Gallium|Ga in Bauxite]
+Ga,23.6,104.24,China,"Bainiuchang [Gallium; Indium; Germanium|Ga, Ge, and In in Clastic-dominated Sedimentary exhalative Pb-Zn]"
+Ga,23.6655,70.7319,India,Kutch-Kathiawar [Gallium|Ga in Bauxite]
+Ga,23.8129,80.3865,India,Katni [Gallium|Ga in Bauxite]
+Ga,23.8667,99.1833,China,Mengxing [Gallium|Ga in Mississippi Valley-type]
+Ga,24.1285,84.1857,India,Palamau [Gallium|Ga in Bauxite]
+Ga,24.36,73.72,India,Mochia [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,24.5542,113.7222,China,"Dabaoshan [Gallium; Indium; Germanium|Ga, Ge, and In in Clastic-dominated Sedimentary exhalative Pb-Zn]"
+Ga,24.6553,84.5772,India,Ranchi [Gallium|Ga in Bauxite]
+Ga,24.8776,102.8212,China,Kunmin [Gallium|Ga in Bauxite]
+Ga,24.9503,74.1339,India,Rajpura-Dariba [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,25.0,74.13,India,Mokanpura North [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,25.0036,74.1456,India,Sindesar [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,25.11,113.6292,China,Fankou [Gallium; Germanium|Ga in Mississippi Valley-type; Sedimentary-exhalative Pb-Zn]
+Ga,25.3786,86.5095,India,Monghyr [Gallium|Ga in Bauxite]
+Ga,25.8322,74.7386,India,Rampura-Agucha [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,26.2333,64.6617,Pakistan,Duddar [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,26.2358,107.6653,China,Niujiaotang [Gallium|Ga in Mississippi Valley-type]
+Ga,26.5816,99.4567,China,Jinding [Germanium; Gallium|Sandstone-hosted; Ga in Clastic-dominated Pb-Zn]
+Ga,26.6339,103.7003,China,Huize [Gallium; Germanium|Ga and Ge in Mississippi Valley-type]
+Ga,26.6592,106.5904,China,Queyang [Gallium|Ga in Bauxite]
+Ga,27.65,75.53,India,Saladipura [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,29.1428,-103.6658,Mexico,Tres Marias [Gallium|Ga in Mississippi Valley-type]
+Ga,31.0331,55.2806,Iran,Mehdiabad [Gallium|Ga in Mississippi Valley-type; Clastic-dominated]
+Ga,31.7488,55.7677,Iran,Koushk [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,31.7517,-85.2892,United States of America,Eufaula [Gallium|Ga in Mississippi Valley-type]
+Ga,32.7797,-83.3741,United States of America,"New Georgia Group [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,32.8236,-4.9375,Morocco,Touissit-Bou Beker-El Abed [Gallium|Ga in Mississippi Valley-type]
+Ga,33.0,-85.9319,United States of America,"Hillabee [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,33.0856,-109.3606,United States of America,"Yavapai [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,33.1189,74.809,India,Jamu and Kashmir [Gallium|Ga in Bauxite]
+Ga,33.2722,-85.9556,United States of America,"Ashland [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,33.8458,105.3603,China,Dengjiashan [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,33.95,106.8333,China,Bafangshan [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,33.9794,105.6911,China,Changba [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,34.2434,-83.797,United States of America,"Hall, Veneer [Gallium|Ga in Bauxite]"
+Ga,34.2942,-83.9997,United States of America,"Chestatee [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,34.4558,-112.1939,United States of America,"Binghampton [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,34.545,-113.2303,United States of America,"Bruce [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,34.6791,-92.2758,United States of America,Pulaski-Saline [Gallium|Ga in Bauxite]
+Ga,34.7053,-112.0904,United States of America,"Iron King [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,34.7508,-112.1094,United States of America,"Jerome [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,34.7909,33.2595,Cyprus,"Mousoulos [Gallium|Ga in Volcanogenic Massive Sulfide, Cypress type]"
+Ga,34.9333,32.8667,Cyprus,"Mavrovouni [Gallium|Ga in Volcanogenic Massive Sulfide, Cypress type]"
+Ga,35.0089,-84.3947,United States of America,"Ducktown [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,35.4678,-115.5133,United States of America,"Blue Moon [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,35.7592,-105.6689,United States of America,"Pecos [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,36.0767,-83.6131,United States of America,Eastern Tennessee [Gallium|Ga in Mississippi Valley-type]
+Ga,36.1953,-85.9333,United States of America,Elmwood-Gordonsville district [Gallium; Germanium|Ga and Ge in Mississippi Valley-type]
+Ga,36.3408,-92.8078,United States of America,Northern Arkansas [Gallium|Ga in Mississippi Valley-type]
+Ga,36.5431,120.127,China,Nanting [Gallium|Ga in Bauxite]
+Ga,36.5754,32.047,Turkey,Masatdagi [Gallium|Ga in Bauxite]
+Ga,36.7257,-85.3932,United States of America,Central Kentucky-Tennessee [Gallium|Ga in Mississippi Valley-type]
+Ga,36.8469,-80.9203,United States of America,Austinville [Gallium|Ga in Mississippi Valley-type]
+Ga,37.0694,-113.8036,United States of America,Apex Mine [Gallium; Germanium; Indium|Ga and Ge in Kipushi Cu-Zn]
+Ga,37.0833,-94.65,United States of America,Tri-State District [Gallium|Ga in Mississippi Valley-type]
+Ga,37.2745,31.8863,Turkey,Dogankuzu [Gallium|Ga in Bauxite]
+Ga,37.2861,31.8847,Turkey,Çatmakaya [Gallium|Ga in Bauxite]
+Ga,37.299,-88.235,United States of America,Illinois-Kentucky fluorspar district [Fluorite; Gallium|Mississippi Valley-type]
+Ga,37.3993,-6.5282,Spain,"Sotiel [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,37.4493,31.8782,Turkey,Seydisehir [Gallium|Ga in Bauxite]
+Ga,37.51,-91.12,United States of America,West Fork [Gallium|Ga in Mississippi Valley-type]
+Ga,37.58,-91.13,United States of America,Buick [Gallium|Ga in Mississippi Valley-type]
+Ga,37.6067,-7.1206,Spain,"Iberian Pyrite Belt [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,37.6329,-90.7241,United States of America,Southeast Missouri Pb-Zn district [Gallium|Ga in Mississippi Valley-type]
+Ga,37.6374,-91.1297,United States of America,Magmont-West [Gallium|Ga in Mississippi Valley-type]
+Ga,37.6927,-6.5963,Spain,"Rio Tinto [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,37.6993,-6.8982,Spain,"La Zarza [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,37.7,-8.0833,Portugal,"Castro Verde [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,37.7048,-91.1097,United States of America,Viburnum Trend [Gallium|Ga in Mississippi Valley-type]
+Ga,37.8594,-8.1582,Portugal,"Estação [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,37.8669,-8.1649,Portugal,"Moinho [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,37.8958,-90.5225,United States of America,Old Lead Belt [Gallium|Ga in Mississippi Valley-type]
+Ga,37.9544,-120.7442,United States of America,"Gopher Ridge [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,37.9842,-120.6478,United States of America,"Keystone [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,37.9871,-120.6477,United States of America,"North Keystone [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,38.08,-90.88,United States of America,Indian Creek [Gallium|Ga in Mississippi Valley-type]
+Ga,38.2302,-120.8749,United States of America,"Penn [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,38.3089,-7.7047,Portugal,Portel [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,38.3416,-120.8871,United States of America,"Newton [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,38.3539,22.8242,Greece,Helicon [Gallium|Ga in Bauxite]
+Ga,38.5019,-120.9667,United States of America,"Copper Hill [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,38.5429,22.6087,Greece,Khiona [Gallium|Ga in Bauxite]
+Ga,38.5958,-92.8603,United States of America,"Central Missouri [Gallium; Barite|Ga in Mississippi Valley-type; Vein, cavity-fill, metasomatic]"
+Ga,39.175,-121.2917,United States of America,"Smartville [Gallium|Ga in Volcanogenic Massive Sulfide, Cypress type]"
+Ga,39.5091,-120.8394,United States of America,"Bald Mountain [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,39.6917,-121.4314,United States of America,"Big Bend [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,39.91,-123.67,United States of America,Little Red Mountain [Gallium|Ga in Bauxite]
+Ga,40.226,-3.6477,Spain,"Filon Sur [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,40.2985,140.5653,Japan,"Hanaoka [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,40.3285,140.7483,Japan,"Uchinotai-Uwamuki [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,40.3985,140.7153,Japan,"Furutobe-Ainai [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,40.5422,-117.5569,United States of America,"Big Mike [Gallium|Ga in Volcanogenic Massive Sulfide, Cypress type]"
+Ga,40.5544,-75.405,United States of America,Friedensville [Gallium|Ga in Mississippi Valley-type]
+Ga,40.7123,-122.5155,United States of America,"Stowell [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,40.7253,-122.4981,United States of America,"Balaklala [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,40.73,123.59,China,Qingchengzi [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,40.733,-122.5108,United States of America,"Early Bird [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,40.7333,-122.0833,United States of America,"Afterthought [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,40.7611,-122.4536,United States of America,"Mammoth [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,40.7694,-122.465,United States of America,"Iron Mountain [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,40.7812,-122.4644,United States of America,"Sutro [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,40.7992,-122.2028,United States of America,"Bully Hill-Rising Star [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,41.1157,-74.5874,United States of America,Franklin [Beryllium; Gallium|Pegmatite; Ga in Clastic-dominated Pb-Zn]
+Ga,41.2306,109.32,China,Jiashengpan [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,41.3294,0.8728,Spain,"San Antonio [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,41.7172,46.4142,Azerbaijan,Filizchai [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,41.8633,-123.3711,United States of America,"Gray Eagle [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,41.95,-123.1167,United States of America,"Blue Ledge [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,42.0,-123.757,United States of America,Turner Albright [Cobalt; Gallium|Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide]
+Ga,42.2587,-123.6612,United States of America,Eight Dollar Mountain [Gallium|Ga in Bauxite]
+Ga,42.264,63.9002,Uzbekistan,Kokpatas [Gallium|Ga in Bauxite]
+Ga,42.2945,69.6183,Kazakhstan,Shimkent [Gallium|Ga in Bauxite]
+Ga,42.3522,-124.2983,United States of America,Red Flats [Gallium|Ga in Bauxite]
+Ga,42.4927,-89.0321,United States of America,Wisconsin-Illinois [Gallium|Ga in Mississippi Valley-type]
+Ga,42.5644,-72.8783,United States of America,"Hawley-Bernard [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,42.8271,-90.0122,United States of America,Upper Mississippi Valley district [Gallium|Ga in Mississippi Valley-type]
+Ga,42.8361,22.6501,Bulgaria,Tran [Gallium|Ga in Bauxite]
+Ga,42.9389,20.9167,Serbia,Trepça [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,42.9651,-123.4399,United States of America,Nickel Mountain [Gallium|Ga in Bauxite]
+Ga,43.0083,140.6583,Japan,"Kunitomi [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,43.1564,-72.2909,United States of America,"Standing Pond [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,43.17,-1.49,Spain,Arditurri [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,43.345,-4.0847,Spain,Reocin [Gallium|Ga in Mississippi Valley-type]
+Ga,43.8425,19.8074,Serbia,Mackat [Gallium|Ga in Bauxite]
+Ga,43.8833,-72.3537,United States of America,"Orange & Gove [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,43.9242,3.6228,France,Cevennes [Gallium|Ga in Mississippi Valley-type]
+Ga,43.9275,142.736,Japan,"Motoyama [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,44.1298,-68.8741,United States of America,"North Haven [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,44.2385,19.7465,Serbia,Pocuta [Gallium|Ga in Bauxite]
+Ga,44.2519,-75.3997,United States of America,Balmat-Edwards [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,44.2686,-71.6308,United States of America,"Ammonoosuc [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,44.3461,-68.8075,United States of America,"Callahan [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,44.3681,-68.7408,United States of America,"Tapley [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,44.3879,-68.7998,United States of America,"Castine [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,44.4099,-68.7733,United States of America,"Emerson [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,44.4644,-68.7111,United States of America,"Mount Chase [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,44.5652,-71.2536,United States of America,"Milan [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,44.7169,21.2469,Serbia,Biela Lipa [Gallium|Ga in Bauxite]
+Ga,44.8108,78.8619,Kazakhstan,Tekeli [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,44.9295,-67.0303,United States of America,"Quoddy [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,44.9653,-67.2111,United States of America,"Big Hill [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,44.9656,-67.2219,United States of America,"Barrett [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,45.0268,-116.8585,United States of America,"Iron Dyke [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,45.0286,-63.3389,Canada,Gays River [Gallium|Ga in Mississippi Valley-type]
+Ga,45.2056,-64.0417,Canada,Walton [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,45.3205,19.3498,Serbia,Obrovac [Gallium|Ga in Bauxite]
+Ga,45.4708,-88.9194,United States of America,"Crandon [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,45.5078,-116.5617,United States of America,"Snake River [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,45.514,-91.14,United States of America,"Flambeau [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,45.5969,-89.295,United States of America,"Pelican [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,45.7006,-76.6778,Canada,Grand-Calumet [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,45.8636,9.8425,Italy,Gorno [Gallium|Ga in Mississippi Valley-type]
+Ga,46.4411,13.5714,Italy,Raibl [Gallium|Ga in Mississippi Valley-type]
+Ga,46.4667,14.8,Slovenia,Topla [Gallium|Ga in Mississippi Valley-type]
+Ga,46.4907,14.2335,Austria,Windisch-Bleiberg [Gallium|Ga in Mississippi Valley-type]
+Ga,46.5,14.4833,Austria,Hochobir [Gallium|Ga in Mississippi Valley-type]
+Ga,46.5114,14.9515,Slovenia,Urslja Gora [Gallium|Ga in Mississippi Valley-type]
+Ga,46.5144,14.8522,Slovenia,Mežica [Gallium|Ga in Mississippi Valley-type]
+Ga,46.551,12.4436,Italy,Auronzo [Gallium|Ga in Mississippi Valley-type]
+Ga,46.5669,12.5833,Italy,Salafossa [Gallium|Ga in Mississippi Valley-type]
+Ga,46.592,33.0479,Ukraine,Vysokopl'ye [Gallium|Ga in Bauxite]
+Ga,46.625,13.6517,Austria,Bleiberg [Gallium|Ga in Mississippi Valley-type]
+Ga,46.6333,13.6667,Austria,Maxer Baenke [Gallium|Ga in Mississippi Valley-type]
+Ga,46.729,13.5821,Austria,Bleiriese [Gallium|Ga in Mississippi Valley-type]
+Ga,46.9159,22.5122,Romania,Padurea Craiului [Gallium|Ga in Bauxite]
+Ga,46.9703,68.5717,Kazakhstan,"Winterville [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,47.1166,-66.2325,Canada,"Chester [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,47.2686,18.2928,Hungary,Iszkaszentgyörgy [Gallium|Ga in Bauxite]
+Ga,47.2789,11.2577,Austria,Raibl Bed [Gallium|Ga in Mississippi Valley-type]
+Ga,47.2833,-66.0826,Canada,"Heath Steele B-1 [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,47.3726,18.3918,Hungary,Gánt [Gallium|Ga in Bauxite]
+Ga,47.4245,-120.2133,United States of America,Washington [Gallium|Ga in Bauxite]
+Ga,47.4789,-65.8922,Canada,"New Brunswick No. 12 [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,47.5613,-66.2964,Canada,"Caribou [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,47.6401,38.051,Ukraine,Krasny Oktyabr [Gallium|Ga in Bauxite]
+Ga,48.25,-79.0164,Canada,"Horne-Quemont [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,48.2764,70.2294,Kazakhstan,Zhairem [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,48.3181,-79.2014,Canada,"East Sullivan [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,48.69,-81.3667,Canada,"Kidd Creek [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,48.825,-56.8583,Canada,"Buchans [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,48.8822,-117.3608,United States of America,Metalline district [Gallium|Ga in Mississippi Valley-type]
+Ga,49.0303,-117.3442,Canada,Reeves-MacDonald [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,49.1522,-117.1986,Canada,H.B. [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,49.1667,-121.0333,Canada,Giant [Gallium|Ga in Mississippi Valley-type]
+Ga,49.5756,-125.5958,Canada,"Myra Falls [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,49.61,-123.1417,Canada,"Britannia [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,49.7083,-116.0056,Canada,Sullivan [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,49.8,-78.943,Canada,"Detour [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,49.8418,73.0184,Kazakhstan,Aqtas [Gallium|Ga in Bauxite]
+Ga,49.8833,-55.6333,Canada,"Betts Cove [Gallium|Ga in Volcanogenic Massive Sulfide, Cypress type]"
+Ga,50.2021,66.9193,Kazakhstan,Arqalyk [Gallium|Ga in Bauxite]
+Ga,50.28,-57.47,Canada,Newfoundland Zinc [Gallium|Ga in Mississippi Valley-type]
+Ga,50.35,18.9667,Poland,Silesia-Krakow [Gallium|Ga in Mississippi Valley-type]
+Ga,50.4,81.3833,Kazakhstan,"Rudny-Altai Area [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,50.4898,-120.9813,Canada,Jersey [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,50.5172,-119.7999,Canada,Lake Monte [Gallium|Ga in Mississippi Valley-type]
+Ga,50.6972,5.9864,Belgium,Schmalgraf [Gallium|Ga in Mississippi Valley-type]
+Ga,50.874,36.4317,Russia,Yakovlevo [Gallium|Ga in Bauxite]
+Ga,51.129,8.063,Germany,Meggen [Barite; Gallium|Bedded-sedimentary; Ga in Clastic-dominated Pb-Zn]
+Ga,51.1335,11.2417,Germany,Voelsberg [Gallium|Ga in Bauxite]
+Ga,51.19,58.65,Russia,"Orsk [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,51.2086,71.5133,Kazakhstan,Astana [Gallium|Ga in Bauxite]
+Ga,51.2962,58.4473,Russia,Orsk [Gallium|Ga in Bauxite]
+Ga,51.3404,29.9455,Ukraine,Pripyat [Gallium|Ga in Bauxite]
+Ga,51.4239,-116.4472,Canada,Monarch-Kicking Horse [Gallium|Ga in Mississippi Valley-type]
+Ga,51.516,64.517,Kazakhstan,Naurzum [Gallium|Ga in Bauxite]
+Ga,51.6265,38.9715,Russia,Bokson [Gallium|Ga in Bauxite]
+Ga,51.6816,75.3934,Kazakhstan,Ekibastoz-Pavlodar [Gallium|Ga in Bauxite]
+Ga,51.8,-123.55,Canada,Nancy Island [Gallium|Ga in Mississippi Valley-type]
+Ga,51.8906,10.4194,Germany,Rammelsberg [Gallium; Barite|Ga in Clastic-dominated Pb-Zn; Bedded-sedimentary]
+Ga,52.2621,77.0804,Kazakhstan,Pavlodar [Gallium|Ga in Bauxite]
+Ga,52.4601,103.9765,Russia,Angarsky [Gallium|Ga in Bauxite]
+Ga,52.5,112.5,Russia,Ozernoe [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,52.51,-8.37,Ireland,Carrickittle [Gallium|Ga in Mississippi Valley-type]
+Ga,52.6139,-9.0714,Ireland,Courtbrown [Gallium|Ga in Mississippi Valley-type]
+Ga,52.7592,-7.7114,Ireland,Lisheen [Gallium; Germanium|Ga in Clastic-dominated Pb-Zn; Irish-type]
+Ga,52.7897,-8.2544,Ireland,Silvermines [Gallium; Germanium|Ga in Clastic-dominated Pb-Zn; Mississippi Valley-type; Sedimentary exhalative Pb-Zn]
+Ga,52.8,-7.59,Ireland,Galmoy [Gallium|Ga in Mississippi Valley-type Pb-Zn]
+Ga,52.9247,70.1699,Kazakhstan,Shchuchinsky [Gallium|Ga in Bauxite]
+Ga,53.0143,43.2098,Russia,Belinsky [Gallium|Ga in Bauxite]
+Ga,53.165,-8.3764,Ireland,Tynagh [Gallium|Ga in Clastic-dominated Pb-Zn; Mississippi Valley-type]
+Ga,53.3865,-4.3412,Great Britain,"Parys Mountain [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,53.417,59.1,Russia,Magnitogorsk [Cobalt; Gallium|Co in Fe-Cu-Co skarn; Ga in Kuroko Massive Sulfide]
+Ga,53.45,-7.68,Ireland,Moyvoughly [Gallium|Ga in Mississippi Valley-type]
+Ga,53.6359,-7.4628,Ireland,Ballinalack [Gallium|Ga in Mississippi Valley-type]
+Ga,53.65,-7.73,Ireland,Keel [Gallium|Ga in Mississippi Valley-type]
+Ga,53.65,-7.72,Ireland,Garrycam [Gallium|Ga in Mississippi Valley-type]
+Ga,53.6544,-6.7153,Ireland,Navan [Gallium|Ga in Clastic-dominated Pb-Zn; Mississippi Valley-type]
+Ga,53.6866,-6.7095,Ireland,Tatestown [Gallium|Ga in Mississippi Valley-type]
+Ga,53.7732,-7.1642,Ireland,Oldcastle [Gallium|Ga in Mississippi Valley-type]
+Ga,54.0999,-122.9863,Canada,Ruby Lake [Gallium|Ga in Mississippi Valley-type]
+Ga,54.1709,37.716,Russia,Tula [Gallium|Ga in Bauxite]
+Ga,54.22,-8.53,Ireland,Abbeytown [Gallium|Ga in Mississippi Valley-type]
+Ga,54.247,85.7816,Russia,Obukhovo [Gallium|Ga in Bauxite]
+Ga,54.3019,59.4184,Russia,"Uchalinskoe [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,54.3142,59.4342,Russia,"Zapadno-Ozernoye [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,54.3571,35.8173,Russia,Vislovo [Gallium|Ga in Bauxite]
+Ga,54.4307,61.2029,Russia,Yuzhnoural'sk [Gallium|Ga in Bauxite]
+Ga,54.4677,36.253,Russia,Kulga [Gallium|Ga in Bauxite]
+Ga,54.6625,83.3429,Russia,Berdsk-Maisy [Gallium|Ga in Bauxite]
+Ga,54.75,-102.0,Canada,"Flin Flon [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,55.543,86.0951,Russia,Barzas [Gallium|Ga in Bauxite]
+Ga,55.8798,60.7546,Russia,Kasli [Gallium|Ga in Bauxite]
+Ga,55.8802,109.7535,Russia,Kholodnina [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,56.0486,159.8815,Russia,Kozyreevsky [Gallium|Ga in Bauxite]
+Ga,56.1902,37.4857,Russia,Iksa [Gallium|Ga in Bauxite]
+Ga,56.4751,-99.6378,Canada,"Ruttan [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,56.6354,-101.6523,Canada,"Fox [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,56.6774,59.2827,Russia,Nizhnie Ser'gi [Gallium|Ga in Bauxite]
+Ga,56.7126,60.088,Russia,"Degtyarskoe [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,56.93,-123.7131,Canada,Robb Lake [Gallium|Ga in Mississippi Valley-type]
+Ga,57.2046,35.3307,Russia,Sokolovo [Gallium|Ga in Bauxite]
+Ga,57.5097,-125.16,Canada,Cirque [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,57.7847,-133.4508,United States of America,"Sumdum [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,57.8442,61.6987,Russia,Alapaevsk [Gallium|Ga in Bauxite]
+Ga,58.0082,56.1311,Russia,Zaostrovsk [Gallium|Ga in Bauxite]
+Ga,58.0794,-134.6305,United States of America,"Greens Creek [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,58.2,-128.3667,Canada,"Kutcho Creek [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,58.24,93.19,Russia,Limonitovoye [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,58.82,15.1,Sweden,Zinkgruvan [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,58.9228,-137.0021,United States of America,"Orange Point [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,58.9414,-136.8174,United States of America,"Russell Cove [Gallium|Ga in Volcanogenic Massive Sulfide, Cypress type]"
+Ga,59.1258,99.8605,Russia,Central [Gallium|Ga in Bauxite]
+Ga,59.4465,62.3655,Russia,Loz'va [Gallium|Ga in Bauxite]
+Ga,59.5385,33.6643,Russia,Tikhvin [Gallium|Ga in Bauxite]
+Ga,59.7487,59.9577,Russia,Karpinsk [Gallium|Ga in Bauxite]
+Ga,60.0583,-147.9033,United States of America,"Beatson [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,60.1351,59.953,Russia,Severoural'sk [Gallium|Ga in Bauxite]
+Ga,60.1678,59.9912,Russia,Krasnaya Shapochka [Gallium|Ga in Bauxite]
+Ga,60.1989,59.975,Russia,Novo-Kalinskaya [Gallium|Ga in Bauxite]
+Ga,60.2173,60.0014,Russia,Kal'ya [Gallium|Ga in Bauxite]
+Ga,60.344,59.9853,Russia,Cheremukhovo [Gallium|Ga in Bauxite]
+Ga,60.4135,57.1375,Russia,Krasnovishersk [Gallium|Ga in Bauxite]
+Ga,60.6979,60.4773,Russia,Ivdel [Gallium|Ga in Bauxite]
+Ga,60.8322,-114.4489,Canada,Pine Point [Gallium|Ga in Mississippi Valley-type]
+Ga,61.6473,50.853,Russia,Schugorsk [Gallium|Ga in Bauxite]
+Ga,62.21,-133.03,Canada,Swim [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,62.2288,9.4831,Norway,"Tverrfjellet [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,62.23,-133.14,Canada,Dy [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,62.2383,55.1188,Russia,Timsher [Gallium|Ga in Bauxite]
+Ga,62.25,-133.18,Canada,Vangorda [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,62.2693,-133.2244,Canada,Grum [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,62.3567,-133.3669,Canada,Faro [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,62.4294,54.6801,Russia,Puzla [Gallium|Ga in Bauxite]
+Ga,62.5644,-129.5272,Canada,Howard's Pass [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,62.651,40.3931,Russia,Plesetsk [Gallium|Ga in Bauxite]
+Ga,63.1333,9.7,Norway,"Lokken [Gallium|Ga in Volcanogenic Massive Sulfide, Cypress type]"
+Ga,63.5573,53.9935,Russia,Ukhta [Gallium|Ga in Bauxite]
+Ga,63.6486,62.1097,Russia,Kara [Gallium|Ga in Bauxite]
+Ga,63.6577,25.0516,Finland,"Pyhäsalmi [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,63.8197,-148.96,United States of America,"Antler [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,63.92,-147.38,United States of America,"Bonnifield [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,63.9302,61.4675,Russia,Sos'va-Salekhard [Gallium|Ga in Bauxite]
+Ga,63.9625,-135.1617,Canada,Silver Basin [Gallium|Ga in Mississippi Valley-type]
+Ga,63.983,28.167,Finland,Talvivaara [Cobalt; Gallium|Black-Shale-Hosted Ni-Cu-Zn-Co; Ga in Clastic-dominated Pb-Zn]
+Ga,64.7314,49.669,Russia,Vezhayu-Vorykva [Gallium|Ga in Bauxite]
+Ga,64.8653,20.3365,Sweden,"Rakkejaur [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,64.9333,-130.6833,Canada,Gayna River [Gallium|Ga in Mississippi Valley-type]
+Ga,64.9548,59.6181,Russia,Kozhim [Gallium|Ga in Bauxite]
+Ga,65.9233,13.8797,Norway,Bleikvassli [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,66.2833,14.2,Norway,Mofjellet [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,67.0628,-156.9469,United States of America,Ruby Creek (Bornite) [Gallium|Ga in Kipushi Cu-Zn]
+Ga,67.1097,-155.86,United States of America,"BT [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,67.1739,-156.3869,United States of America,"Arctic [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,67.8487,20.0036,Sweden,"Viscaria [Gallium|Ga in Volcanogenic Massive Sulfide, Kuroko type]"
+Ga,68.0613,-162.8567,United States of America,Red Dog [Barite; Gallium; Germanium|Bedded-sedimentary; Ga in Clastic-dominated Pb-Zn; Sedimentary exhalative Pb-Zn]
+Ga,68.5667,-158.6833,United States of America,Drenchwater [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,71.1328,-51.2828,Greenland,Black Angel [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ga,72.92,55.17,Russia,Pavolovskoye [Gallium|Ga in Mississippi Valley-type]
+Ga,73.0617,-84.5083,Canada,Nanisivik [Gallium|Ga in Mississippi Valley-type]
+Ga,75.3878,-96.9311,Canada,Polaris [Gallium|Ga in Mississippi Valley-type]
+Ga,75.5694,-96.1939,Canada,Eclipse [Gallium|Ga in Mississippi Valley-type]
+Ga,83.08,-28.25,Greenland,Citronen Fjord [Gallium|Ga in Clastic-dominated Pb-Zn]
+Ge,-14.2065,28.2971,Zambia,Kabwe [Gallium; Germanium|Ga in Clastic-dominated Pb-Zn; Ge in Kipushi Zn-Pb-Cu]
+Ge,-11.7694,27.2356,Democratic Republic of the Congo,Kipushi [Gallium; Germanium|Ga and Ge in Kipushi Zn-Pb-Cu]
+Ge,22.7417,99.725,China,"Laochang [Gallium; Indium; Germanium|Ga, Ge, and In in Volcanogenic Massive Sulfide, Kuroko type]"
+Ge,23.6,104.24,China,"Bainiuchang [Gallium; Indium; Germanium|Ga, Ge, and In in Clastic-dominated Sedimentary exhalative Pb-Zn]"
+Ge,23.7728,99.9691,China,Lincang Mine [Germanium|Coal and Lignite]
+Ge,23.8024,98.8666,China,Luziyuan [Germanium|Skarn]
+Ge,24.5542,113.7222,China,"Dabaoshan [Gallium; Indium; Germanium|Ga, Ge, and In in Clastic-dominated Sedimentary exhalative Pb-Zn]"
+Ge,25.11,113.6292,China,Fankou [Gallium; Germanium|Ga in Mississippi Valley-type; Sedimentary-exhalative Pb-Zn]
+Ge,25.4204,99.1331,China,Hetaoping [Germanium|Skarn]
+Ge,26.5816,99.4567,China,Jinding [Germanium; Gallium|Sandstone-hosted; Ga in Clastic-dominated Pb-Zn]
+Ge,26.6339,103.7003,China,Huize [Gallium; Germanium|Ga and Ge in Mississippi Valley-type]
+Ge,36.1953,-85.9333,United States of America,Elmwood-Gordonsville district [Gallium; Germanium|Ga and Ge in Mississippi Valley-type]
+Ge,36.1969,-85.9344,United States of America,Gordonsvile Mine [Germanium|Mississippi Valley-type]
+Ge,36.2243,-85.9066,United States of America,Elmwood Mine [Germanium|Mississippi Valley-type]
+Ge,36.2581,-85.9331,United States of America,Cumberland Mine [Germanium|Mississippi Valley-type]
+Ge,37.0694,-113.8036,United States of America,Apex Mine [Gallium; Germanium; Indium|Ga and Ge in Kipushi Cu-Zn]
+Ge,52.7592,-7.7114,Ireland,Lisheen [Gallium; Germanium|Ga in Clastic-dominated Pb-Zn; Irish-type]
+Ge,52.7897,-8.2544,Ireland,Silvermines [Gallium; Germanium|Ga in Clastic-dominated Pb-Zn; Mississippi Valley-type; Sedimentary exhalative Pb-Zn]
+Ge,68.0613,-162.8567,United States of America,Red Dog [Barite; Gallium; Germanium|Bedded-sedimentary; Ga in Clastic-dominated Pb-Zn; Sedimentary exhalative Pb-Zn]
+Ge,68.1157,-163.17,United States of America,Su-Lik deposit [Germanium|Sedimentary exhalative Pb-Zn]
+Ge,68.1842,-163.0606,United States of America,Oak showing [Germanium|Sedimentary exhalative Pb-Zn]
+Ge,68.1947,-163.0568,United States of America,Wulik prospect [Germanium|Sedimentary exhalative Pb-Zn]
 Graphite,-34.8013,135.7117,Australia,Koppio-Uley mines [Graphite|Crystalline Graphite]
 Graphite,-33.496,120.8492,Australia,Munglinup River [Graphite|Crystalline Graphite]
 Graphite,-31.4307,-68.1327,Argentina,Quebrada Del Gato [Graphite|Crystalline Graphite]
@@ -417,6 +1030,60 @@ Graphite,65.0359,-165.5528,United States of America,Imuruk Basin Graphite [Graph
 Graphite,65.0393,-165.5383,United States of America,Graphite Creek [Graphite|Crystalline Graphite]
 Graphite,66.4818,87.1667,Russia,Kureyka [Graphite|Amorphous Graphite]
 Graphite,69.4488,17.2873,Norway,Skaland-Senja [Graphite|Crystalline Graphite]
+Hf,-37.1337,141.7786,Australia,Douglas [Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,-33.6421,115.6156,Australia,Tutunup South [Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,-32.469,115.9798,Australia,Keysbrook [Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,-31.282,17.9018,South Africa,Namakwa [Zirconium and Hafnium; Titanium|Coastal placer or paleoplacer; Sedimentary related]
+Hf,-31.024,132.178,Australia,Jacinth-Ambrosia [Titanium; Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,-29.8727,115.2841,Australia,Eneabba [Zirconium and Hafnium; Titanium|Coastal placer or paleoplacer]
+Hf,-28.581,32.347,South Africa,Richards Bay [Titanium; Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,-26.5447,114.0469,Australia,Coburn [Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,-22.95,43.669,Madagascar,Ranobe [Titanium; Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,-21.4111,-41.0052,Brazil,Buena [Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,-16.7,39.399,Mozambique,Moma [Titanium; Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,-11.8172,130.1505,Australia,Kilimiraka [Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,-11.3653,131.0131,Australia,Lethbridge Bay [Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,-6.5149,-34.9743,Brazil,Guaju [Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,-4.4191,39.4227,Kenya,Kwale [Zirconium and Hafnium; Titanium|Coastal placer or paleoplacer; Sedimentary related]
+Hf,7.7833,-12.3,Sierra Leone,Sierra Rutile [Titanium; Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,8.9407,80.9853,Sri Lanka,Pulmoddai [Zirconium and Hafnium; Titanium|Coastal placer or paleoplacer]
+Hf,15.129,-16.798,Senegal,Grande Côte [Titanium; Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,18.2819,84.0764,India,Srikurmam [Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,30.0136,-82.04,United States of America,Trail Ridge [Titanium; Zirconium and Hafnium|Beach (strandline) and (or) coastal dune; Coastal placer or paleoplacer]
+Hf,31.0338,-81.9674,United States of America,Mission [Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,36.9442,-77.3995,United States of America,Stony Creek [Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,43.2553,-124.3632,United States of America,Seven Devils [Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,43.3587,-124.2033,United States of America,Coos Bay [Zirconium and Hafnium|Coastal placer or paleoplacer]
+Hf,57.0326,-111.6161,Canada,Athabasca oil sands [Zirconium and Hafnium|Oil sands]
+Hf,67.55,30.5,Russia,Kovdor [Zirconium and Hafnium|Igneous]
+In,-24.01,30.42,South Africa,Maranda J [Indium|Volcanogenic Massive Sulfide]
+In,-23.9877,30.5058,South Africa,Romotshidi [Indium|Volcanogenic Massive Sulfide]
+In,-23.9309,30.2942,South Africa,Murchison greenstone belt [Indium|Volcanogenic Massive Sulfide]
+In,-23.8899,30.6928,South Africa,Solomons [Indium|Volcanogenic Massive Sulfide]
+In,-22.8945,-66.6118,Argentina,Pirquitas [Indium|Polymetallic Sn veins]
+In,-21.2943,-66.2609,Bolivia,San Vincente [Indium|Polymetallic Sn veins]
+In,-21.1991,-66.1122,Bolivia,Tatasi [Indium|Polymetallic Sn veins]
+In,-20.9254,-66.0051,Bolivia,Chorolque [Indium|Polymetallic Sn veins]
+In,-20.9195,-66.2906,Bolivia,Siete Suyos-Animas [Indium|Polymetallic Sn veins]
+In,-20.3841,-66.6416,Bolivia,Pulacayo [Indium|Polymetallic Sn veins]
+In,-19.7055,-65.9768,Bolivia,Porco deposit [Indium|Polymetallic Sn veins]
+In,-19.6822,-65.547,Bolivia,Reserva [Indium|Polymetallic Sn veins]
+In,-19.6579,-65.727,Bolivia,San Lorenzo deposit [Indium|Polymetallic Sn veins]
+In,-19.533,-65.727,Bolivia,Potosi deposit [Indium|Polymetallic Sn veins]
+In,-19.5132,-66.6059,Bolivia,Carguaicollo [Indium|Polymetallic Sn veins]
+In,-19.2951,-65.6437,Bolivia,Huari Huari deposit [Indium|Polymetallic Sn veins]
+In,-18.6769,-66.0765,Bolivia,Colquechaca [Indium|Polymetallic Sn veins]
+In,-18.4028,-66.7561,Bolivia,Bolivar deposit [Indium|Polymetallic Sn veins]
+In,-17.3503,-67.0223,Bolivia,Colquiri [Indium|Polymetallic Sn veins]
+In,-17.2075,-69.14,Bolivia,Comanche [Indium|Polymetallic Sn veins]
+In,22.7417,99.725,China,"Laochang [Gallium; Indium; Germanium|Ga, Ge, and In in Volcanogenic Massive Sulfide, Kuroko type]"
+In,23.6,104.24,China,"Bainiuchang [Gallium; Indium; Germanium|Ga, Ge, and In in Clastic-dominated Sedimentary exhalative Pb-Zn]"
+In,24.5542,113.7222,China,"Dabaoshan [Gallium; Indium; Germanium|Ga, Ge, and In in Clastic-dominated Sedimentary exhalative Pb-Zn]"
+In,36.2725,-114.1865,United States of America,Gold Butte area [Indium|Kipushi Zn-Pb-Cu]
+In,36.3519,-114.1734,United States of America,Tramp Ridge area [Indium|Kipushi Zn-Pb-Cu]
+In,37.0694,-113.8036,United States of America,Apex Mine [Gallium; Germanium; Indium|Ga and Ge in Kipushi Cu-Zn]
+In,39.8582,-113.4646,United States of America,Crypto Project [Indium|]
+In,42.9815,141.042,Japan,Toyoha Mine [Indium|Pb-Zn-Ag-In Vein]
 Li,-33.8667,116.0625,Australia,Greenbushes [Beryllium; Lithium; Niobium and Tantalum; Tin|Pegmatite; Li-Cs-Ta type pegmatite; Hydrothermal]
 Li,-33.5639,120.0397,Australia,Cattlin [Lithium|Pegmatite]
 Li,-32.9833,-65.9833,Argentina,San Luis [Lithium|Pegmatite]
@@ -1223,6 +1890,74 @@ TaNb,65.7103,-165.2289,United States of America,Kougarok [Niobium and Tantalum; 
 TaNb,67.7667,29.2333,Finland,Sokli [Niobium and Tantalum|Carbonatite]
 TaNb,67.8917,34.6115,Russia,Lovozero Deposit [Rare-Earth Elements; Beryllium; Niobium and Tantalum|Peralkaline igneous; Non-pegmatite; Alkaline granite and syenite]
 TaNb,71.0536,116.5711,Russia,Tomtor [Niobium and Tantalum|Carbonatite]
+Te,-41.4927,146.0301,Australia,Stormont [Tellurium|Skarn]
+Te,-30.7461,121.5325,Australia,Golden Mile [Tellurium|Te in Orogenic Au]
+Te,-30.433,136.878,Australia,Olympic Dam [Cobalt; Tellurium|Iron oxide-Cu-Au(Ag-U-REE-Co-Ni)]
+Te,-29.68,-69.97,Chile,El Indio [Tellurium|Te in Epithermal Au-Ag]
+Te,-24.7368,28.5151,South Africa,Bushveld Complex [Platinum-Group Elements; Tellurium|Contact and Reef; Te in Magmatic Cu-Ni-PGM sulfide]
+Te,-19.74,30.04,Zimbabwe,"Great Dyke [Platinum-Group Elements; Tellurium|Reef, sulfide; Tellurium in Magmatic Cu-Ni-PGM Sulfide]"
+Te,-18.422,29.4431,Zimbabwe,Commoner [Tellurium|Te in Orogenic Au]
+Te,-17.4972,177.8507,Fiji,Emperor [Tellurium|Te in Epithermal Au-Ag]
+Te,-5.5091,142.9356,Papua New Guinea,Mt. Kare [Tellurium|Te in Epithermal Au-Ag]
+Te,-5.4646,143.0822,Papua New Guinea,Porgera [Tellurium|Te in Epithermal Au-Ag]
+Te,-4.0558,137.1131,Indonesia,Ertsberg [Tellurium|Skarn]
+Te,-3.1288,152.6351,Papua New Guinea,Lihir [Tellurium|Te in Epithermal Au-Ag]
+Te,7.9608,-1.2059,Ghana,Ashanti [Tellurium|Te in Orogenic Au]
+Te,16.86,120.78,Philippines,Baguio Lepanto [Tellurium|Te in Epithermal Au-Ag]
+Te,18.1979,-66.6786,Puerto Rico,Sapo Alegre [Tellurium|Te in Porphyry Cu]
+Te,18.94,-70.18,Dominican Republic,Pueblo Viejo [Tellurium|Te in Epithermal Au-Ag]
+Te,29.1714,102.185,China,Dashuigou [Tellurium|Te in Epithermal Au-Ag]
+Te,29.2332,102.3565,China,Majiagou [Tellurium|Te in Epithermal Au-Ag]
+Te,29.6912,-109.7131,Mexico,La Bambolla [Tellurium|Te in Orogenic Au]
+Te,31.4798,-110.7374,United States of America,Patagonia Mountains [Tellurium|Te in Epithermal Au-Ag]
+Te,32.6997,-110.6778,United States of America,Kalamazoo [Tellurium|Te in Porphyry Cu]
+Te,33.2373,-108.7198,United States of America,Lone Pine [Tellurium|Te in Epithermal Au-Ag]
+Te,35.036,-83.036,United States of America,Ducktown [Tellurium|Te in Oil Sands]
+Te,35.1391,32.844,Cyprus,Cyprus [Tellurium|Volcanogenic Massive Sulfide]
+Te,35.3362,-106.1508,United States of America,Ortiz Mountains [Tellurium|Te in Epithermal Au-Ag]
+Te,36.6653,47.4513,Iran,Zarshuran [Tellurium|Te in Carlin-type Au]
+Te,37.0832,-94.5132,United States of America,Joplin [Tellurium|Mississippi Valley-type]
+Te,37.1298,128.9065,South Korea,Geodo [Tellurium|Skarn]
+Te,37.3994,-108.0636,United States of America,La Plata [Tellurium|Te in Porphyry Cu]
+Te,37.4646,-119.9482,United States of America,Mother Lode [Tellurium|Te in Orogenic Au]
+Te,37.95,-107.8,United States of America,Telluride [Tellurium|Te in Epithermal Au-Ag]
+Te,38.21,-119.0,United States of America,Bodie Hills [Tellurium|Te in Epithermal Au-Ag]
+Te,38.7333,-105.15,United States of America,Cripple Creek [Tellurium|Te in Epithermal Au-Ag]
+Te,38.86,-2.06,Spain,Rodalquilar [Tellurium|Te in Epithermal Au-Ag]
+Te,39.2062,-121.0458,United States of America,Grass Valley [Tellurium|Te in Orogenic Au]
+Te,39.2487,-106.2745,United States of America,Leadville [Tellurium|Te in Oil Sands]
+Te,39.2571,-114.9742,United States of America,Ely [Tellurium|Te in Porphyry Cu]
+Te,40.4722,23.7036,Greece,Skouriés [Tellurium|Te in Porphyry Cu]
+Te,40.5283,-112.1365,United States of America,Bingham [Rhenium; Titanium; Tellurium|Porphyry Cu-(Mo-Au)]
+Te,40.5483,-117.1324,United States of America,Fortitutde [Tellurium|Skarn]
+Te,40.8315,69.6675,Uzbekistan,Almalyk [Tellurium|Te in Porphyry Cu]
+Te,40.9093,-116.3183,United States of America,Carlin [Tellurium|Te in Carlin-type Au]
+Te,40.9609,-116.3627,United States of America,Deep Star [Tellurium|Te in Carlin-type Au]
+Te,41.0036,-116.3813,United States of America,Meikle [Tellurium|Te in Carlin-type Au]
+Te,41.1315,70.5007,Uzbekistan,Kochbulak [Tellurium|Te in Epithermal Au-Ag]
+Te,41.2218,-117.2529,United States of America,Getchell [Tellurium|Te in Carlin-type Au]
+Te,41.8981,77.5838,Kyrgyzstan,Kumtor [Tellurium|Te in Orogenic Au]
+Te,42.7487,24.5018,Bulgaria,Elatsite [Tellurium|Te in Porphyry Cu]
+Te,43.3791,-6.2697,Spain,La Ortosa [Tellurium|Skarn]
+Te,44.113,-103.8134,United States of America,Black Hills [Beryllium; Lithium; Tellurium|Be Type Rare-Metal Pegmatite; Te in Epithermal Au-Ag]
+Te,45.3894,-109.8753,United States of America,"Stillwater Complex [Tellurium; Platinum-Group Elements|Magmatic Cu-Ni-PGM Sulfide; Reef, sulfide]"
+Te,45.8988,-112.0142,United States of America,Golden Sunlight [Tellurium|Te in Epithermal Au-Ag]
+Te,46.2981,23.1206,Romania,Metaliferi Mountains [Tellurium|Te in Epithermal Au-Ag]
+Te,47.9374,-108.5633,United States of America,Zortman-Landusky [Tellurium|Te in Epithermal Au-Ag]
+Te,49.3709,-120.0476,Canada,Hedley [Tellurium|Skarn]
+Te,50.3661,127.0039,China,Sandaowanzi [Tellurium|Te in Epithermal Au-Ag]
+Te,51.0615,-93.7439,Canada,Red Lake [Tellurium|Te in Orogenic Au]
+Te,53.362,-127.2891,Canada,Deer Horn [Tellurium|Te in Epithermal Au-Ag]
+Te,54.8194,61.1486,Russia,Bereznyakovskoe [Tellurium|Te in Epithermal Au-Ag]
+Te,55.1245,-124.0293,Canada,Mount Milligan [Tellurium|Te in Porphyry Cu]
+Te,57.5078,114.099,Russia,Sukhoi Log [Tellurium|Te in Orogenic Au]
+Te,58.8673,-135.104,United States of America,Kensington [Tellurium|Te in Orogenic Au]
+Te,59.8988,-155.2854,United States of America,Pebble [Tellurium; Rhenium|Porphyry Cu-(Mo-Au)]
+Te,61.9438,96.5775,Russia,Ural Mountains [Tellurium|Volcanogenic Massive Sulfide]
+Te,62.3751,-158.0692,United States of America,Willow Creek district [Tellurium|Te in Orogenic Au]
+Te,64.8734,20.3828,Sweden,Kankberg [Tellurium|Volcanogenic Massive Sulfide]
+Te,67.6833,168.8667,Russia,Sentyabr-sky [Tellurium|Te in Epithermal Au-Ag]
+Te,69.357,88.3112,Russia,Noril'sk Talnakh area [Cobalt; Platinum-Group Elements; Tellurium|Magmatic Ni-Cu(-Co-PGE) sulfide; Conduit]
 Ti,-42.2333,171.3167,New Zealand,Barrytown [Titanium|Sedimentary related]
 Ti,-41.766,171.469,New Zealand,Westport [Titanium|Sedimentary related]
 Ti,-35.086,142.188,Australia,"Woornack, Rownack & Pirro [Titanium|Sedimentary related]"

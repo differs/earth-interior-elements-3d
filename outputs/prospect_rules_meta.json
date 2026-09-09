@@ -209,6 +209,90 @@
       "arc_w": 0.3,
       "rift_w": 0.4,
       "reason": "石墨在变质地层/伟晶岩, 锚点为主"
+    },
+    {
+      "family": "Ga",
+      "anchor_w": 1.8,
+      "arc_w": 0.2,
+      "rift_w": 0.2,
+      "reason": "镓多为铝土矿/闪锌矿副产, 锚点为主"
+    },
+    {
+      "family": "Ge",
+      "anchor_w": 1.8,
+      "arc_w": 0.2,
+      "rift_w": 0.2,
+      "reason": "锗在闪锌矿/煤/硫化物, 锚点为主"
+    },
+    {
+      "family": "In",
+      "anchor_w": 1.8,
+      "arc_w": 0.2,
+      "rift_w": 0.3,
+      "reason": "铟为闪锌矿副产, 锚点为主"
+    },
+    {
+      "family": "Tl",
+      "anchor_w": 1.8,
+      "arc_w": 0.2,
+      "rift_w": 0.2,
+      "reason": "铊在硫化物热液矿床, 锚点为主"
+    },
+    {
+      "family": "Se",
+      "anchor_w": 1.7,
+      "arc_w": 0.3,
+      "rift_w": 0.2,
+      "reason": "硒在铜硫化物/火山硫, 锚点为主"
+    },
+    {
+      "family": "Te",
+      "anchor_w": 1.8,
+      "arc_w": 0.2,
+      "rift_w": 0.2,
+      "reason": "碲在热液 Au/硫化物, 锚点为主"
+    },
+    {
+      "family": "Hf",
+      "anchor_w": 1.6,
+      "arc_w": 0.4,
+      "rift_w": 0.4,
+      "reason": "铪随锆(砂矿/碱性杂岩)"
+    },
+    {
+      "family": "Sr",
+      "anchor_w": 1.6,
+      "arc_w": 0.3,
+      "rift_w": 0.4,
+      "reason": "天青石, 蒸发/沉积盆地"
+    },
+    {
+      "family": "Ba",
+      "anchor_w": 1.6,
+      "arc_w": 0.4,
+      "rift_w": 0.3,
+      "reason": "重晶石脉/层控, 常近裂谷或热液"
+    },
+    {
+      "family": "F",
+      "anchor_w": 1.7,
+      "arc_w": 0.5,
+      "rift_w": 0.3,
+      "reason": "萤石与花岗岩-热液脉有关"
+    },
+    {
+      "family": "K",
+      "anchor_w": 1.8,
+      "arc_w": 0.2,
+      "rift_w": 0.3,
+      "reason": "钾盐为蒸发盐盆地沉积"
+    },
+    {
+      "family": "P",
+      "anchor_w": 1.7,
+      "arc_w": 0.3,
+      "rift_w": 0.3,
+      "reason": "磷块岩沉积/岩浆磷灰石, 锚点为主"
     }
   ],
   "sigma_deg": 4.0,
@@ -222,5 +306,5 @@
     "rift": 221,
     "intra": 149
   },
-  "frontiers_total": 3480
+  "frontiers_total": 4925
 }

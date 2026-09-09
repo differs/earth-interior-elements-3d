@@ -55,6 +55,9 @@
       解析脚本化(scripts/parse_pp1802.py)达 1,450 条；全链重算(观察清单
       gap518/std1372/marine1586, 字节级稳定)；scripts/build_prospect.py 与
       build_prospect_rules.py 重建为新旧族 30 组图
+- [x] **评分族 30→42 扩展(v0.3l)**：新增 Ga/Ge/In/Tl/Hf/Se/Te/Sr/Ba/F/K/P；
+      PP1802 达 2,185 条、专家库 10,911、MRDS 24万+；isotropic 图面板封顶 24 族
+      保性能；观察清单 gap759/std2062/marine2100(字节级稳定)；dossiers 42族/620格
 - [ ] 对中国/俄等仍有大 gap 的国家：喂入该国地质调查成矿图件(俄 1:200万/中 1:100万/
       非洲 SEG 图层)——全球免费档仍缺，最可能来自各机构开放数据页或需申请
 - [ ] 把"最近主要城市/距已知矿"合成 1-5 星"分派优先级"打分

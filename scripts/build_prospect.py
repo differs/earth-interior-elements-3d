@@ -41,7 +41,10 @@ FAM_ZH = {"Au": "金 Au", "Cu": "铜 Cu", "Fe": "铁 Fe", "NiCo": "镍钴 Ni-Co"
           "Sn": "锡 Sn", "Sb": "锑 Sb", "V": "钒 V", "Ti": "钛 Ti",
           "TaNb": "钽铌 Ta-Nb", "Ag": "银 Ag", "Mo": "钼 Mo", "Re": "铼 Re",
           "Bi": "铋 Bi", "As": "砷 As", "Be": "铍 Be", "CsRb": "铯铷 Cs-Rb",
-          "Sc": "钪 Sc", "Zr": "锆 Zr", "Graphite": "石墨"}
+          "Sc": "钪 Sc", "Zr": "锆 Zr", "Graphite": "石墨",
+          "Ga": "镓 Ga", "Ge": "锗 Ge", "In": "铟 In", "Tl": "铊 Tl",
+          "Se": "硒 Se", "Te": "碲 Te", "Hf": "铪 Hf", "Sr": "锶 Sr",
+          "Ba": "钡 Ba", "F": "氟 F", "K": "钾 K", "P": "磷 P"}
 
 
 def _write(path, rows, cols):
@@ -131,7 +134,10 @@ def main():
     _write(od / "prospect_frontiers.csv", allf,
            ["family", "cell_lat", "cell_lon", "score_pct",
             "nearest_anchor_lat", "nearest_anchor_lon", "nearest_km"])
-    draw_map(od / "prospect_world_frontiers.png", results, lat_c, lon_c)
+    # 图面板太多时只画锚点最多的 N 个族(CSV 前沿格仍覆盖全部族)
+    plot_fams = sorted(results, key=lambda f: -len(results[f]["anchors"]))[:24]
+    draw_map(od / "prospect_world_frontiers.png",
+             {f: results[f] for f in plot_fams}, lat_c, lon_c)
 
     n_anchor_src = {f: len(a) for f, a in anchors.items() if len(a) > 0}
     json.dump({"sigma_deg": 4.0, "grid_deg": 2.0,

@@ -46,6 +46,19 @@ FAM_RULES = [
     ("Sc", ("scandium", "thortveitite")),
     ("Zr", ("zirconium", "zircon", "baddeleyite")),
     ("Graphite", ("graphite",)),
+    # v0.3l: 第四批——PP1802 技术/工业/肥料金属
+    ("Ga", ("gallium",)),
+    ("Ge", ("germanium",)),
+    ("In", ("indium",)),
+    ("Tl", ("thallium",)),
+    ("Se", ("selenium", "selenide")),
+    ("Te", ("tellurium", "telluride")),
+    ("Hf", ("hafnium",)),
+    ("Sr", ("strontium", "celestite")),
+    ("Ba", ("barium", "barite")),
+    ("F", ("fluorspar", "fluorite", "fluorine")),
+    ("K", ("potash", "potassium", "sylvite", "carnallite")),
+    ("P", ("phosphate", "phosphorus", "phosphorite", "apatite")),
 ]
 
 _short = {p for _, ps in FAM_RULES for p in ps if len(p) <= 4}
